@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "conjunction": "Góc hợp (conjunction) hòa quyện hai thiên thể, hợp nhất năng lượng của chúng thành một tâm điểm duy nhất được tăng cường, tô màu cho cách mỗi thiên thể được thể hiện.",
+      "opposition": "Góc đối (opposition) kéo căng hai thiên thể thành một cặp đối cực, đòi hỏi sự cân bằng và nhận thức giữa những lực kéo đối nghịch mà thường biểu lộ qua người khác.",
+      "trine": "Góc tam hợp (trine) nối hai thiên thể trong dòng chảy dễ dàng, hài hòa, một món quà tài năng và sự nâng đỡ tự nhiên chỉ cần được sử dụng.",
+      "square": "Góc vuông (square) đặt hai thiên thể vào sự cọ xát, một căng thẳng gây bực bội nhưng thúc đẩy sự trưởng thành, thành tựu và việc rèn giũa tính cách.",
+      "sextile": "Góc lục hợp (sextile) mở ra một kênh hỗ trợ, rộng mở giữa hai thiên thể, một cơ hội tưởng thưởng cho sự chủ động và nỗ lực nhẹ nhàng."
+    }
+  }
+}

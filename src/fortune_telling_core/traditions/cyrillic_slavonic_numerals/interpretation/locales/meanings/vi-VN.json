@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cyrillic_slavonic_numerals.result.total": "Tổng số theo chữ số Slavonic Giáo hội, cộng các giá trị truyền thống gán cho mỗi chữ cái Kirin cổ, truyền tải bản chất số học mang tính biểu tượng được gán cho toàn bộ cái tên."
+    }
+  }
+}

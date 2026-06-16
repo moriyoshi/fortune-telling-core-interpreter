@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "chaldean_numerology.number.1": "Ruled by the Sun, the one signifies leadership, originality and a strong, self-reliant drive to create.",
+      "chaldean_numerology.number.2": "Ruled by the Moon, the two signifies sensitivity, diplomacy and an intuitive gift for cooperation.",
+      "chaldean_numerology.number.3": "Ruled by Jupiter, the three signifies optimism, self-expression and a disciplined ambition to grow.",
+      "chaldean_numerology.number.4": "Ruled by Uranus, the four signifies unconventional thinking, restlessness and a quiet rebellion against convention.",
+      "chaldean_numerology.number.5": "Ruled by Mercury, the five signifies versatility, quick wit and a restless love of communication and change.",
+      "chaldean_numerology.number.6": "Ruled by Venus, the six signifies harmony, affection and a nurturing devotion to home and beauty.",
+      "chaldean_numerology.number.7": "Ruled by Neptune, the seven signifies introspection, imagination and a mystical search for deeper meaning.",
+      "chaldean_numerology.number.8": "Ruled by Saturn, the eight signifies discipline, material ambition and a tested resilience in worldly affairs.",
+      "chaldean_numerology.number.9": "Ruled by Mars, the nine signifies courage, determination and a passionate drive towards bold action."
+    }
+  }
+}

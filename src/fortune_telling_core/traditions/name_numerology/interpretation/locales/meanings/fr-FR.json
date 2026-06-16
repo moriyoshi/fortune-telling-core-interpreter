@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "name_numerology.number.1": "Un nom exprimant l'indépendance, l'élan et le leadership, projetant un caractère pionnier et autonome.",
+      "name_numerology.number.2": "Un nom exprimant le tact, la sensibilité et la coopération, projetant un caractère doux et conciliant.",
+      "name_numerology.number.3": "Un nom exprimant la créativité, le charme et l'expression de soi, projetant un caractère sociable et optimiste.",
+      "name_numerology.number.4": "Un nom exprimant l'ordre, la fiabilité et l'assiduité, projetant un caractère stable et pratique.",
+      "name_numerology.number.5": "Un nom exprimant la polyvalence, la liberté et la curiosité, projetant un caractère dynamique et aventureux.",
+      "name_numerology.number.6": "Un nom exprimant le soin, la responsabilité et la chaleur, projetant un caractère nourricier et dévoué.",
+      "name_numerology.number.7": "Un nom exprimant la profondeur, l'analyse et la réflexion, projetant un caractère réfléchi et énigmatique.",
+      "name_numerology.number.8": "Un nom exprimant l'ambition, l'autorité et la compétence, projetant un caractère confiant et accompli.",
+      "name_numerology.number.9": "Un nom exprimant la compassion, l'idéalisme et l'ampleur, projetant un caractère généreux et humaniste.",
+      "name_numerology.number.11": "Un nom porteur de la vibration maîtresse de l'intuition et de l'inspiration, projetant un caractère visionnaire et lumineux.",
+      "name_numerology.number.22": "Un nom porteur de la vibration maîtresse du bâtisseur, projetant un caractère capable et de grande portée.",
+      "name_numerology.number.33": "Un nom porteur de la vibration maîtresse de l'amour désintéressé et de la guérison, projetant un caractère profondément compatissant."
+    }
+  }
+}

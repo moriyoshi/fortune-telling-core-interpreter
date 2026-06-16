@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {
+    "branch": "La branche {cjk} ({animal}) porte un qi {element} {polarity} et des troncs cachés."
+  },
+  "vocab": {
+    "elements": {
+      "wood": "Bois",
+      "fire": "Feu",
+      "earth": "Terre",
+      "metal": "Métal",
+      "water": "Eau"
+    },
+    "polarities": {
+      "yang": "yang",
+      "yin": "yin"
+    },
+    "animals": {
+      "Rat": "Rat",
+      "Ox": "Bœuf",
+      "Tiger": "Tigre",
+      "Rabbit": "Lapin",
+      "Dragon": "Dragon",
+      "Snake": "Serpent",
+      "Horse": "Cheval",
+      "Goat": "Chèvre",
+      "Monkey": "Singe",
+      "Rooster": "Coq",
+      "Dog": "Chien",
+      "Pig": "Cochon"
+    }
+  }
+}

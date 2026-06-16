@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "greek_isopsephy.result.total": "Die Isopsephie-Summe, gewonnen aus der Addition der Zahlenwerte der Buchstaben eines griechischen Namens, drückt die verborgene zahlenmäßige Essenz aus, von der man glaubt, dass sie den zugrunde liegenden Charakter und die Bedeutung enthüllt."
+    }
+  }
+}

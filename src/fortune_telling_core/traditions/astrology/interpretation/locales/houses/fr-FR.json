@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {
+    "placement": "En maison {house}, {body} met l'accent sur {topics}."
+  },
+  "vocab": {
+    "bodies": {
+      "sun": "le Soleil",
+      "moon": "la Lune",
+      "mercury": "Mercure",
+      "venus": "Vénus",
+      "mars": "Mars",
+      "jupiter": "Jupiter",
+      "saturn": "Saturne",
+      "uranus": "Uranus",
+      "neptune": "Neptune",
+      "pluto": "Pluton",
+      "north_node": "le Nœud Nord",
+      "south_node": "le Nœud Sud",
+      "ascendant": "l'Ascendant",
+      "midheaven": "le Milieu du Ciel"
+    },
+    "topics": {
+      "1": "identité, corps, approche",
+      "2": "ressources, valeurs, sécurité",
+      "3": "communication, fratrie, apprentissage",
+      "4": "foyer, racines, vie privée",
+      "5": "créativité, plaisir, enfants",
+      "6": "travail, santé, service",
+      "7": "partenariat, contrats, autrui",
+      "8": "ressources partagées, perte, transformation",
+      "9": "croyance, voyage, études supérieures",
+      "10": "vocation, statut, vie publique",
+      "11": "amis, espoirs, groupes",
+      "12": "retraite, choses cachées, auto-sabotage"
+    }
+  }
+}

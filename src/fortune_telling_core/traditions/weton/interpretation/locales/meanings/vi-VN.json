@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "weton.saptawara.senin": "Senin, người sinh ngày Thứ Hai, gợi một bản tính điềm tĩnh và kiên nhẫn, nghiêng về sự suy ngẫm lặng lẽ và phán xét vững vàng, chín chắn.",
+      "weton.saptawara.selasa": "Selasa, người sinh ngày Thứ Ba, chỉ về động lực và hoài bão, với khí chất nhiệt thành, tràn đầy năng lượng theo đuổi mục tiêu một cách táo bạo.",
+      "weton.saptawara.rabu": "Rabu, người sinh ngày Thứ Tư, cho thấy sự hòa đồng và tài ăn nói, ưu ái những ai khéo giao tiếp và dễ mến trong giao thiệp.",
+      "weton.saptawara.kamis": "Kamis, người sinh ngày Thứ Năm, báo hiệu sự hào phóng và vận may, đánh dấu một tính cách đường hoàng hướng tới học vấn và sự thịnh vượng.",
+      "weton.saptawara.jumat": "Jumat, người sinh ngày Thứ Sáu, biểu thị lòng tận tụy và hơi ấm, ban phước cho một tâm hồn dịu dàng, hài hòa, để tâm đến đức tin và gia đình.",
+      "weton.saptawara.sabtu": "Sabtu, người sinh ngày Thứ Bảy, phản ánh tính kỷ luật và sức bền bỉ, hợp với một bản tính chăm chỉ, kiên trì chịu đựng được gian khó.",
+      "weton.saptawara.minggu": "Minggu, người sinh ngày Chủ Nhật, truyền tải sự rạng rỡ và tài lãnh đạo, soi sáng một tính cách tự tin, tỏa sáng thu hút người khác đến gần.",
+      "weton.pancawara.legi": "Legi, ngày chợ ngọt ngào, ban cho sự duyên dáng và dịu dàng, vun đắp một tâm tính dễ mến, hòa nhã khiến người khác thấy thoải mái.",
+      "weton.pancawara.pahing": "Pahing, ngày chợ cay đắng, mang lại sự bền chí và quả quyết, hun đúc một bản tính kiên định, ý chí mạnh không sợ xung đột.",
+      "weton.pancawara.pon": "Pon, ngày chợ rạng rỡ, ban tặng sự duyên dáng và tinh tế, ưu ái một tính cách hấp dẫn, khéo léo với con mắt thẩm mỹ.",
+      "weton.pancawara.wage": "Wage, ngày chợ kiên định, gieo vào sự cần kiệm và bền vững, đánh dấu một tâm hồn vững chãi, thiết thực và kiên định trong niềm tin.",
+      "weton.pancawara.kliwon": "Kliwon, ngày chợ trung tâm, mang trực giác và chiều sâu tâm linh, ban cho một bản tính sâu sắc, ưa chiêm nghiệm và đồng điệu với điều vô hình."
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "locale": "zh-TW",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "tzolkin.daysign.imix": "Imix 預示原初的開端、滋養的本能，以及新事業由之而生的豐饒之水。",
+      "tzolkin.daysign.ik": "Ik' 承載著靈性的氣息與變化之風，邀來溝通、靈感與重煥的活力。",
+      "tzolkin.daysign.akbal": "Ak'b'al 將你引入幽暗的居所——夢境、直覺以及對隱藏真理的內在探尋。",
+      "tzolkin.daysign.kan": "K'an 體現成熟的種子與漸增的豐盛，承諾豐饒、知識以及潛能穩定的成熟。",
+      "tzolkin.daysign.chikchan": "Chikchan 攪動蛇的生命之力，喚醒本能、活力以及內在升起的強大靈性能量。",
+      "tzolkin.daysign.kimi": "Kimi 訴說著死亡與釋放，標誌著轉化、放手以及在週期之間優雅的過渡。",
+      "tzolkin.daysign.manik": "Manik' 伸出療癒而握取的手，召喚合作、守護以及與萬物生靈的和諧。",
+      "tzolkin.daysign.lamat": "Lamat 如豐盛與和諧之星般閃耀，散播美、豐饒與新生長的種子。",
+      "tzolkin.daysign.muluk": "Muluk 隨著水與情感的供奉流動，喚醒記憶、感恩以及對內心的召喚。",
+      "tzolkin.daysign.ok": "Ok 體現忠實的陪伴、忠誠與引導，以摯誠伴你走過人生的旅程。",
+      "tzolkin.daysign.chuwen": "Chuwen 編織著藝術家頑皮的絲線，邀來創造力、技藝以及時間歡愉的紡轉。",
+      "tzolkin.daysign.eb": "Eb 標誌著生命之路與人類的命運，鼓勵服務、謙遜以及沿途穩定的前進。",
+      "tzolkin.daysign.ben": "B'en 高舉象徵權威的挺直蘆葦，倡導原則、成長以及對家園與理想的勇敢守護。",
+      "tzolkin.daysign.ix": "Ix 承載著美洲豹沉靜的力量，汲取本能、魔法以及與大地的深厚連結。",
+      "tzolkin.daysign.men": "Men 如願景之鷹般翱翔，將心智提升至更高的視野、抱負與深遠的志向。",
+      "tzolkin.daysign.kib": "Kib' 點燃祖先的智慧，敦促反思、寬恕以及對所受指引的感恩。",
+      "tzolkin.daysign.kaban": "Kab'an 隨著大地與思維的運行而脈動，激發智慧、共時性以及踏實的洞察。",
+      "tzolkin.daysign.etznab": "Etz'nab' 如黑曜石之刃般閃亮，以真理、清明與果決的明辨斬破幻象。",
+      "tzolkin.daysign.kawak": "Kawak 聚集風暴更新的力量，預示劇變、淨化以及嶄新覺醒的破曉。",
+      "tzolkin.daysign.ajaw": "Ajaw 散發太陽之主的光輝，展現啟蒙、圓滿以及更高目標的綻放。"
+    }
+  }
+}

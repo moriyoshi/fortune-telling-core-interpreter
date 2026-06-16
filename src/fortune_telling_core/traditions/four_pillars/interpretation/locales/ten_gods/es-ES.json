@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "es-ES",
+  "templates": {
+    "ten_god": "{label} describe cómo este tallo se relaciona con el Maestro del Día."
+  },
+  "vocab": {
+    "labels": {
+      "friend": "Amigo",
+      "rob_wealth": "Ladrón de Riqueza",
+      "eating_god": "Dios Devorador",
+      "hurting_officer": "Oficial Hiriente",
+      "indirect_wealth": "Riqueza Indirecta",
+      "direct_wealth": "Riqueza Directa",
+      "seven_killings": "Siete Asesinos",
+      "direct_officer": "Oficial Directo",
+      "indirect_resource": "Recurso Indirecto",
+      "direct_resource": "Recurso Directo"
+    }
+  }
+}

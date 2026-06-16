@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {
+    "placement": "{body} di rumah {house} menekankan {topics}."
+  },
+  "vocab": {
+    "bodies": {
+      "sun": "Matahari",
+      "moon": "Bulan",
+      "mercury": "Merkurius",
+      "venus": "Venus",
+      "mars": "Mars",
+      "jupiter": "Jupiter",
+      "saturn": "Saturnus",
+      "uranus": "Uranus",
+      "neptune": "Neptunus",
+      "pluto": "Pluto",
+      "north_node": "Simpul Utara",
+      "south_node": "Simpul Selatan",
+      "ascendant": "Ascendant",
+      "midheaven": "Midheaven"
+    },
+    "topics": {
+      "1": "identitas, tubuh, pendekatan",
+      "2": "sumber daya, nilai, keamanan",
+      "3": "komunikasi, saudara kandung, pembelajaran",
+      "4": "rumah, akar, kehidupan pribadi",
+      "5": "kreativitas, kesenangan, anak-anak",
+      "6": "pekerjaan, kesehatan, pelayanan",
+      "7": "kemitraan, kontrak, orang lain",
+      "8": "sumber daya bersama, kehilangan, transformasi",
+      "9": "keyakinan, perjalanan, pembelajaran tinggi",
+      "10": "panggilan hidup, status, kehidupan publik",
+      "11": "teman, harapan, kelompok",
+      "12": "pengasingan, hal tersembunyi, kehancuran diri"
+    }
+  }
+}

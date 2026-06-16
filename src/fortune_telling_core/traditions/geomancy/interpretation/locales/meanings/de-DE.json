@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "geomancy.figure.via": "Via steht für Wandel, Bewegung und Reisen und markiert einen Wendepunkt, an dem sich ein Weg schließt und ein anderer öffnet.",
+      "geomancy.figure.cauda_draconis": "Cauda Draconis steht für Enden und Abschiede und begünstigt das Loslassen des Vollendeten, mag aber Unordnung hinterlassen.",
+      "geomancy.figure.puer": "Puer bezeichnet jugendliche, ungestüme Energie, die Kühnheit und rasches Handeln bringt, aber auch Impulsivität und Konflikt.",
+      "geomancy.figure.fortuna_minor": "Fortuna Minor bringt flüchtiges, bescheidenes Glück, das rasches Handeln mit fremder Hilfe begünstigt, statt dauerhaften Gewinn.",
+      "geomancy.figure.caput_draconis": "Caput Draconis kündigt Anfänge und neue Gelegenheit an, eine glückverheißende Schwelle für neue Vorhaben und Wachstum.",
+      "geomancy.figure.coniunctio": "Coniunctio bedeutet Verbindung, Begegnungen und Partnerschaften und führt Menschen, Dinge oder Ideen zum Guten oder Schlechten zusammen.",
+      "geomancy.figure.acquisitio": "Acquisitio ist eine Figur des Gewinns und Profits und verheißt den erfolgreichen Erwerb von Reichtum, Gütern oder ersehnten Zielen.",
+      "geomancy.figure.rubeus": "Rubeus warnt vor Leidenschaft, Zorn und Täuschung, eine ungünstige Figur, die mit Vorsicht und Zurückhaltung zu behandeln ist.",
+      "geomancy.figure.puella": "Puella bedeutet Harmonie, Schönheit und Zuneigung, eine sanfte und günstige Figur, besonders in Angelegenheiten der Liebe und Freude.",
+      "geomancy.figure.amissio": "Amissio bezeichnet Verlust und Loslassen, ungünstig für das Bewahren, doch hilfreich, wenn Loslassen das Ziel ist.",
+      "geomancy.figure.carcer": "Carcer steht für Gefangenschaft, Verzögerung und Einschränkung, bindet Dinge an ihren Platz und rät zur Geduld.",
+      "geomancy.figure.laetitia": "Laetitia ist eine freudige Figur des Glücks, der Gesundheit und der Hoffnung, die die Stimmung hebt und Aufstieg begünstigt.",
+      "geomancy.figure.fortuna_maior": "Fortuna Maior bringt großes und beständiges Glück, Erfolg, errungen durch eigene stetige Kraft und innere Ressourcen.",
+      "geomancy.figure.albus": "Albus bedeutet Klarheit, Frieden und Weisheit, eine ruhige und günstige Figur, geeignet für Denken, Rat und umsichtiges Urteilen.",
+      "geomancy.figure.tristitia": "Tristitia bezeichnet Kummer, Mühsal und Schwermut, eine niedergehende Figur, die zum Durchhalten in schweren Zeiten rät.",
+      "geomancy.figure.populus": "Populus steht für die Menge oder Versammlung, eine neutrale und passive Figur, die umgebende Einflüsse widerspiegelt, ohne aus eigenem Antrieb zu handeln."
+    }
+  }
+}

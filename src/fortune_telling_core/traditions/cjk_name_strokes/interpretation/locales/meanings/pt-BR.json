@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "locale": "pt-BR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cjk_name_strokes.result.heaven": "A Grade do Céu, derivada dos traços do sobrenome, representa as influências herdadas e a fortuna ancestral que emoldura as circunstâncias iniciais de uma pessoa.",
+      "cjk_name_strokes.result.person": "A Grade da Pessoa, formada pelo último caractere do sobrenome e pelo primeiro do nome próprio, reflete o caráter central, o temperamento e o auge da vida.",
+      "cjk_name_strokes.result.earth": "A Grade da Terra, extraída dos traços do nome próprio, indica a fortuna na juventude e a base sobre a qual se constroem a vida inicial e os relacionamentos.",
+      "cjk_name_strokes.result.outer": "A Grade Externa rege a posição social e a relação com o mundo mais amplo, moldando a reputação e as interações para além da família imediata.",
+      "cjk_name_strokes.result.total": "A Grade Total, a soma de todos os traços do nome, significa o destino geral e a fortuna dos anos posteriores da vida."
+    }
+  }
+}

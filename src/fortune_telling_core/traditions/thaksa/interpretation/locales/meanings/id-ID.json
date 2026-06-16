@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "thaksa.graha.athit": "Matahari menguasai daya hidup, kewibawaan, dan inti jati diri yang meneguhkan kedudukan seseorang dalam sistem Thaksa.",
+      "thaksa.graha.chan": "Bulan mencerminkan emosi, intuisi, dan watak pengasuh yang membentuk dunia batin seseorang dalam astrologi Thaksa.",
+      "thaksa.graha.angkhan": "Mars memberikan dorongan, keberanian, dan energi tegas yang menggerakkan tindakan dan pertarungan dalam tatanan Thaksa.",
+      "thaksa.graha.phut": "Merkurius menguasai kecerdasan, tutur kata, dan kemampuan beradaptasi, menandai kecakapan belajar dan berkomunikasi dalam Thaksa.",
+      "thaksa.graha.sao": "Saturnus menandakan disiplin, kesulitan, dan ketabahan, menguji kesabaran dan membentuk tekad jangka panjang dalam astrologi Thaksa.",
+      "thaksa.graha.pharuehat": "Yupiter menganugerahkan kebijaksanaan, keberuntungan, dan kebajikan, memperluas peluang dan bimbingan moral dalam sistem Thaksa.",
+      "thaksa.graha.rahu": "Rahu menjelmakan pergolakan, ilusi, dan perubahan mendadak, menghadirkan belokan tak terduga dan pengaruh kelam dalam Thaksa.",
+      "thaksa.graha.suk": "Venus melambangkan cinta, keindahan, dan keselarasan, memupuk kesenangan, hubungan, dan keluwesan seni dalam astrologi Thaksa."
+    }
+  }
+}

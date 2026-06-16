@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "locale": "te-IN",
+  "templates": {
+    "stem": "{cjk} {polarity} {element} చీని మోస్తుంది."
+  },
+  "vocab": {
+    "elements": {
+      "wood": "కాష్ఠం",
+      "fire": "అగ్ని",
+      "earth": "భూమి",
+      "metal": "లోహం",
+      "water": "జలం"
+    },
+    "polarities": {
+      "yang": "యాంగ్",
+      "yin": "యిన్"
+    }
+  }
+}

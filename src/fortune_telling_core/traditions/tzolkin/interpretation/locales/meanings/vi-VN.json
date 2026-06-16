@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "tzolkin.daysign.imix": "Imix báo hiệu những khởi nguyên nguyên sơ, bản năng nuôi dưỡng và dòng nước phong nhiêu từ đó những dự định mới trỗi dậy.",
+      "tzolkin.daysign.ik": "Ik' mang hơi thở của tinh thần và ngọn gió đổi thay, mời gọi sự giao tiếp, cảm hứng và sức sống được làm mới.",
+      "tzolkin.daysign.akbal": "Ak'b'al kéo bạn vào ngôi nhà tối của những giấc mơ, trực giác và cuộc tìm kiếm nội tâm về sự thật ẩn giấu.",
+      "tzolkin.daysign.kan": "K'an hiện thân của hạt giống chín muồi và sự sung túc đang lớn, hứa hẹn sự sinh sôi, tri thức và sự trưởng thành vững vàng của tiềm năng.",
+      "tzolkin.daysign.chikchan": "Chikchan khuấy động sinh lực của con rắn, đánh thức bản năng, sức sống và nguồn năng lượng tâm linh mạnh mẽ trỗi dậy bên trong.",
+      "tzolkin.daysign.kimi": "Kimi nói về cái chết và sự buông bỏ, đánh dấu sự chuyển hóa, sự rời đi và lối chuyển dịch nhẹ nhàng giữa các chu kỳ.",
+      "tzolkin.daysign.manik": "Manik' trao bàn tay chữa lành, nắm giữ, kêu gọi sự hợp tác, gìn giữ và hài hòa với muôn loài.",
+      "tzolkin.daysign.lamat": "Lamat tỏa sáng như ngôi sao của sự sung túc và hài hòa, gieo rắc những hạt mầm của cái đẹp, sự sinh sôi và sự sống mới.",
+      "tzolkin.daysign.muluk": "Muluk chảy với lễ vật của nước và cảm xúc, đánh thức ký ức, lòng biết ơn và tiếng gọi của con tim.",
+      "tzolkin.daysign.ok": "Ok hiện thân của tình bạn đồng hành thủy chung, lòng trung thành và sự dẫn dắt, bước bên bạn với lòng tận tụy qua hành trình cuộc đời.",
+      "tzolkin.daysign.chuwen": "Chuwen dệt sợi chỉ tinh nghịch của người nghệ sĩ, mời gọi óc sáng tạo, sự khéo léo và sự se kết thời gian đầy niềm vui.",
+      "tzolkin.daysign.eb": "Eb đánh dấu con đường của sự sống và vận mệnh con người, khích lệ sự phụng sự, lòng khiêm nhường và sự tiến bước vững vàng trên lối đi của bạn.",
+      "tzolkin.daysign.ben": "B'en dựng cây sậy thẳng đứng của uy quyền, đề cao nguyên tắc, sự phát triển và lòng can đảm bảo vệ tổ ấm và lý tưởng.",
+      "tzolkin.daysign.ix": "Ix mang sức mạnh thầm lặng của con báo đốm, dựa vào bản năng, ma thuật và mối ràng buộc sâu xa với mặt đất.",
+      "tzolkin.daysign.men": "Men bay vút như con đại bàng của tầm nhìn, nâng tâm trí lên tầm nhìn cao hơn, hoài bão và khát vọng vươn xa.",
+      "tzolkin.daysign.kib": "Kib' thắp lên trí tuệ của tổ tiên, thúc giục sự suy ngẫm, lòng tha thứ và sự biết ơn đối với sự dẫn dắt được trao.",
+      "tzolkin.daysign.kaban": "Kab'an rung nhịp với chuyển động của đất và tư duy, làm bừng lên trí thông minh, sự đồng điệu và sự thấu hiểu vững chãi.",
+      "tzolkin.daysign.etznab": "Etz'nab' lấp lánh như lưỡi dao hắc diện thạch, cắt xuyên ảo tưởng bằng sự thật, sự sáng tỏ và sự phân định dứt khoát.",
+      "tzolkin.daysign.kawak": "Kawak hội tụ sức mạnh đổi mới của cơn bão, báo hiệu biến động, sự thanh tẩy và buổi bình minh của sự thức tỉnh mới.",
+      "tzolkin.daysign.ajaw": "Ajaw tỏa rạng như đấng chúa tể của mặt trời, thể hiện sự khai sáng, sự viên mãn và sự nở rộ của mục đích cao cả hơn."
+    }
+  }
+}

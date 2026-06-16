@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "zh-TW",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "weton.saptawara.senin": "Senin（週一生），暗示沉靜而耐心的天性，傾向於靜默的反思與穩健審慎的判斷。",
+      "weton.saptawara.selasa": "Selasa（週二生），指向動力與抱負，懷著熱切而充滿活力的性情大膽追逐目標。",
+      "weton.saptawara.rabu": "Rabu（週三生），顯示善交際與善辭令，有利於那些精於溝通、待人和藹之人。",
+      "weton.saptawara.kamis": "Kamis（週四生），預示慷慨與好運，標誌著一個受學識與繁榮所吸引的尊貴性格。",
+      "weton.saptawara.jumat": "Jumat（週五生），代表虔誠與溫情，賜福於一個溫和和諧、心繫信仰與家庭的靈魂。",
+      "weton.saptawara.sabtu": "Sabtu（週六生），反映紀律與韌性，適合勤奮堅毅、能承受艱難的天性。",
+      "weton.saptawara.minggu": "Minggu（週日生），傳達光明與領導力，照亮一個自信而閃耀、吸引他人親近的性格。",
+      "weton.pancawara.legi": "Legi（甘甜的集日），賦予優雅與溫柔，孕育出令人喜愛、隨和而使人安心的性情。",
+      "weton.pancawara.pahing": "Pahing（苦澀的集日），帶來堅韌與果敢，形塑出堅定、意志剛強而不畏衝突的天性。",
+      "weton.pancawara.pon": "Pon（光輝的集日），賦予魅力與精緻，有利於一個迷人、富藝術感而具審美眼光的性格。",
+      "weton.pancawara.wage": "Wage（堅定的集日），灌注節儉與恆常，標誌著一個踏實、務實而信念堅定的靈魂。",
+      "weton.pancawara.kliwon": "Kliwon（居中的集日），承載直覺與靈性的深度，賜予一個敏銳、沉思而通曉幽微之事的天性。"
+    }
+  }
+}

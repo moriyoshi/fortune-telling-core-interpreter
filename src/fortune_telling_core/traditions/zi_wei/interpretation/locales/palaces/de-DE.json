@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {},
+  "vocab": {
+    "texts": {
+      "ming": "Der Lebenspalast (命宮) ist das Herz der Karte und beschreibt deinen wesentlichen Charakter, dein Temperament und den Gesamtverlauf deines Schicksals.",
+      "siblings": "Der Geschwisterpalast (兄弟宮) spricht von Brüdern, Schwestern und nahen Weggefährten und davon, wie du mit denen zusammenwirkst und teilst, die an deiner Seite stehen.",
+      "spouse": "Der Ehepalast (夫妻宮) regiert Ehe und Partnerschaft und offenbart die Natur deiner engsten Bindungen und den Rhythmus deines Liebeslebens.",
+      "children": "Der Kinderpalast (子女宮) betrifft Nachkommen, Schüler und schöpferische Hervorbringungen gleichermaßen sowie die Fürsorge, Lebenskraft und das Vermächtnis, das du weitergibst.",
+      "wealth": "Der Reichtumspalast (財帛宮) beschreibt Einkommen, Geld und materielles Glück – wie Mittel zu dir fließen und wie du sie hältst.",
+      "health": "Der Gesundheitspalast (疾厄宮) spiegelt Konstitution, Lebenskraft und Anfälligkeit für Krankheit wider sowie die körperlichen und seelischen Belastungen, die zu beachten sind.",
+      "travel": "Der Reisepalast (遷移宮) regiert Bewegung, Reisen und Gelegenheiten fern der Heimat sowie die Art, wie die weite Welt dich aufnimmt.",
+      "friends": "Der Freundespalast (僕役宮) umfasst Gefährten, Kollegen und Untergebene sowie die Unterstützung oder Reibung, die dir in deinem Kreis begegnet.",
+      "career": "Der Karrierepalast (官祿宮) beschreibt Berufung, Status und Erfolg sowie das Ansehen, das du durch deine Arbeit aufbaust.",
+      "property": "Der Besitzpalast (田宅宮) betrifft Heim, Land und Familienvermögen sowie die Sicherheit und Atmosphäre des Ortes, an dem du wohnst.",
+      "fortune": "Der Glückspalast (福德宮) spricht von Zufriedenheit, spirituellem Leben und Segnungen sowie vom inneren Frieden, der dem äußeren Glück zugrunde liegt.",
+      "parents": "Der Elternpalast (父母宮) regiert Eltern, Ältere und Autorität sowie den Schutz, die Führung und das Erbe, das du von ihnen empfängst."
+    }
+  }
+}

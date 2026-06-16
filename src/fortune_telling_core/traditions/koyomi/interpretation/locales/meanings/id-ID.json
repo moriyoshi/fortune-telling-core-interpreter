@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "koyomi.rokuyo.taian": "Taian (大安) adalah hari yang paling membawa keberuntungan dari enam hari, mendukung setiap usaha dari fajar hingga senja — pernikahan, pembukaan, perjalanan dan permulaan baru semuanya akan berhasil.",
+      "koyomi.rokuyo.shakko": "Shakkō (赤口) adalah hari sial yang dikuasai bahaya; hanya jam sekitar tengah hari yang aman, dan kehati-hatian dianjurkan terhadap benda tajam, api dan perselisihan.",
+      "koyomi.rokuyo.sensho": "Senshō (先勝) menghargai kecepatan: pagi membawa keberuntungan dan bertindak lebih awal mendatangkan keberhasilan, sementara sore hari berbalik sial.",
+      "koyomi.rokuyo.tomobiki": "Tomobiki (友引) 'menarik teman'; pagi dan petang membawa keberuntungan dan usaha bersama akan berkembang, tetapi jam tengah hari bertanda buruk dan pemakaman dihindari.",
+      "koyomi.rokuyo.sembu": "Senbu (先負) menasihatkan kesabaran: pagi sial dan ketergesaan mengundang kerugian, tetapi sore menjadi tenang dan hal-hal yang sudah mapan akan berjalan lebih baik.",
+      "koyomi.rokuyo.butsumetsu": "Butsumetsu (仏滅) adalah hari yang paling sial, tidak cocok untuk perayaan, pembukaan atau permulaan baru; beristirahat, merenung dan menutup urusan adalah pilihan yang lebih bijak."
+    }
+  }
+}

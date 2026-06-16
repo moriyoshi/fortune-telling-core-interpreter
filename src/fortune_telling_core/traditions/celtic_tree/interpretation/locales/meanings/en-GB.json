@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "celtic_tree.sign.birch": "The birch marks a determined and ambitious pioneer who clears away the old to begin afresh with quiet resilience.",
+      "celtic_tree.sign.rowan": "The rowan denotes a visionary and idealistic spirit, protective and original, guided by a strong inner sense of purpose.",
+      "celtic_tree.sign.ash": "The ash reveals an imaginative and intuitive soul, drawn inward yet artistic, who finds freedom through creative expression.",
+      "celtic_tree.sign.alder": "The alder signals a self-assured and charismatic trailblazer who acts with courage, confidence and natural authority.",
+      "celtic_tree.sign.willow": "The willow speaks of a perceptive and intuitive nature, patient and adaptable, with a deep understanding of life's hidden currents.",
+      "celtic_tree.sign.hawthorn": "The hawthorn conceals a curious and adaptable wit beneath a reserved exterior, balancing many contrasting qualities with ease.",
+      "celtic_tree.sign.oak": "The oak embodies a strong, generous and steadfast protector who inspires others through optimism and enduring determination.",
+      "celtic_tree.sign.holly": "The holly marks a noble and capable leader, confident and ambitious, who overcomes obstacles with dignity and resolve.",
+      "celtic_tree.sign.hazel": "The hazel reflects a clever and knowledgeable mind, keenly observant and articulate, with a gift for learning and insight.",
+      "celtic_tree.sign.vine": "The vine denotes a refined and changeable nature, sensitive and discerning, who seeks balance and beauty amid life's contradictions.",
+      "celtic_tree.sign.ivy": "The ivy reveals a loyal and compassionate soul, resilient and faithful, who flourishes through patience and steadfast devotion.",
+      "celtic_tree.sign.reed": "The reed signals a perceptive and secretive truth-seeker, drawn to hidden meanings and able to discern what lies beneath the surface.",
+      "celtic_tree.sign.elder": "The elder embodies a free-spirited and thoughtful wanderer, honest and energetic, who values experience and personal independence."
+    }
+  }
+}

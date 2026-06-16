@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "celtic_tree.sign.birch": "Die Birke kennzeichnet einen entschlossenen und ehrgeizigen Pionier, der das Alte beiseiteräumt, um mit stiller Widerstandskraft neu zu beginnen.",
+      "celtic_tree.sign.rowan": "Die Eberesche bezeichnet einen visionären und idealistischen Geist, schützend und originell, geleitet von einem starken inneren Sinn für Bestimmung.",
+      "celtic_tree.sign.ash": "Die Esche offenbart eine fantasievolle und intuitive Seele, nach innen gewandt und doch künstlerisch, die Freiheit im schöpferischen Ausdruck findet.",
+      "celtic_tree.sign.alder": "Die Erle steht für einen selbstbewussten und charismatischen Wegbereiter, der mit Mut, Zuversicht und natürlicher Autorität handelt.",
+      "celtic_tree.sign.willow": "Die Weide spricht von einer feinfühligen und intuitiven Natur, geduldig und anpassungsfähig, mit einem tiefen Verständnis für die verborgenen Strömungen des Lebens.",
+      "celtic_tree.sign.hawthorn": "Der Weißdorn verbirgt unter einer zurückhaltenden Hülle einen neugierigen und wandlungsfähigen Witz und gleicht viele gegensätzliche Eigenschaften mühelos aus.",
+      "celtic_tree.sign.oak": "Die Eiche verkörpert einen starken, großzügigen und beständigen Beschützer, der andere durch Optimismus und ausdauernde Entschlossenheit inspiriert.",
+      "celtic_tree.sign.holly": "Die Stechpalme kennzeichnet einen edlen und fähigen Anführer, selbstsicher und ehrgeizig, der Hindernisse mit Würde und Entschlossenheit überwindet.",
+      "celtic_tree.sign.hazel": "Der Haselstrauch spiegelt einen klugen und wissensreichen Geist wider, scharf beobachtend und redegewandt, mit einer Gabe für Lernen und Einsicht.",
+      "celtic_tree.sign.vine": "Die Weinrebe bezeichnet eine verfeinerte und wandelbare Natur, empfindsam und urteilsfähig, die inmitten der Widersprüche des Lebens nach Ausgleich und Schönheit sucht.",
+      "celtic_tree.sign.ivy": "Der Efeu offenbart eine treue und mitfühlende Seele, widerstandsfähig und beständig, die durch Geduld und unerschütterliche Hingabe gedeiht.",
+      "celtic_tree.sign.reed": "Das Schilf kennzeichnet einen feinfühligen und verschwiegenen Wahrheitssucher, von verborgenen Bedeutungen angezogen und fähig zu erkennen, was unter der Oberfläche liegt.",
+      "celtic_tree.sign.elder": "Der Holunder verkörpert einen freigeistigen und nachdenklichen Wanderer, ehrlich und tatkräftig, der Erfahrung und persönliche Unabhängigkeit schätzt."
+    }
+  }
+}

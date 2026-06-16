@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "locale": "zh-CN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "thaksa.graha.athit": "太阳主宰活力、权威，以及在塔克萨体系中确立一个人地位的核心自我意识。",
+      "thaksa.graha.chan": "月亮映照出情感、直觉与养育的性情，在塔克萨占星中塑造一个人的内在生活。",
+      "thaksa.graha.angkhan": "火星供给驱力、勇气与果敢的能量，在塔克萨体系中推动行动与竞争。",
+      "thaksa.graha.phut": "水星主宰智识、言辞与适应力，标志着塔克萨中学习与沟通的能力。",
+      "thaksa.graha.sao": "土星象征自律、艰辛与忍耐，在塔克萨占星中考验耐心并塑造长久的决心。",
+      "thaksa.graha.pharuehat": "木星赐予智慧、福分与仁慈，在塔克萨体系中扩展机遇与道德的指引。",
+      "thaksa.graha.rahu": "罗睺体现剧变、幻象与骤变，在塔克萨中引入意外的转折与晦暗的影响。",
+      "thaksa.graha.suk": "金星代表爱、美与和谐，在塔克萨占星中滋养欢愉、情感与艺术的雅致。"
+    }
+  }
+}

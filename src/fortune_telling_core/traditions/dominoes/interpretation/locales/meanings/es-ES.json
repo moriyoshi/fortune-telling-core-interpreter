@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "locale": "es-ES",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "dominoes.tile.0_0": "La ficha en blanco advierte de decepción, pérdida o planes que quedan en nada, instando a la cautela y la paciencia.",
+      "dominoes.tile.1_0": "Un punto solitario señala escándalo, chismes o problemas provocados por un conocido poco fiable.",
+      "dominoes.tile.1_1": "Prevalecen la armonía y el afecto, prometiendo una relación feliz y estable y el sosiego en el hogar.",
+      "dominoes.tile.2_0": "Un viaje agradable o una salida social te aguardan, aunque cuídate de los gastos imprudentes.",
+      "dominoes.tile.2_1": "Los asuntos de dinero parecen ir a mejor, con ayuda que llega a través de un amigo o un nuevo conocido.",
+      "dominoes.tile.2_2": "El éxito y el crecimiento están favorecidos, trayendo recompensa por medio de la asociación y el esfuerzo compartido.",
+      "dominoes.tile.3_0": "Noticias inesperadas o una disputa repentina pueden perturbarte, así que mide tus palabras con cuidado.",
+      "dominoes.tile.3_1": "Llega una noticia útil o una idea ingeniosa, aunque guárdate de la indiscreción en los asuntos de amor.",
+      "dominoes.tile.3_2": "El avance firme y la cautela te benefician, sobre todo en cuestiones de dinero y propiedades.",
+      "dominoes.tile.3_3": "Se avecina un giro de fortuna o de circunstancias, que a menudo toca los asuntos del corazón.",
+      "dominoes.tile.4_0": "Se indica decepción o un revés menor, pero pasa si te mantienes paciente.",
+      "dominoes.tile.4_1": "Las deudas pueden saldarse y las preocupaciones económicas aliviarse, trayendo pronto un grato alivio.",
+      "dominoes.tile.4_2": "Un cambio a mejor está cerca, con dinero o buenas noticias que llegan de forma inesperada.",
+      "dominoes.tile.4_3": "La felicidad doméstica y un golpe de buena suerte recompensan tus esfuerzos constantes.",
+      "dominoes.tile.4_4": "Se acerca un tiempo de festejo, celebración y alegría compartida con amigos o familia.",
+      "dominoes.tile.5_0": "Ofrece consuelo a otro y ten cuidado, pues un bajón emocional o económico puede pasar pronto.",
+      "dominoes.tile.5_1": "Un nuevo amor o un compromiso social trae emoción, aunque puede resultar pasajero.",
+      "dominoes.tile.5_2": "Se necesita paciencia mientras los planes maduran despacio, pero un visitante servicial trae aliento.",
+      "dominoes.tile.5_3": "Buenas noticias y un apacible intervalo prometen calma tras los problemas recientes.",
+      "dominoes.tile.5_4": "Es probable una ganancia económica, aunque guárdate de las decisiones precipitadas y la temeridad.",
+      "dominoes.tile.5_5": "Llegan un cambio provechoso y una nueva oportunidad, sobre todo en los negocios o la carrera.",
+      "dominoes.tile.6_0": "Una advertencia de pérdida o separación; los asuntos viejos terminan, dejando paso a algo nuevo.",
+      "dominoes.tile.6_1": "Se vaticina una reconciliación, un matrimonio o un feliz reencuentro, que sana viejas diferencias.",
+      "dominoes.tile.6_2": "La buena fortuna y el trato honrado traen éxito, sobre todo a través de los viajes o el comercio.",
+      "dominoes.tile.6_3": "Un viaje agradable, un regalo o un gesto generoso elevan tu ánimo y tus perspectivas.",
+      "dominoes.tile.6_4": "Un desenlace favorable en asuntos legales o de negocios recompensa tu perseverancia.",
+      "dominoes.tile.6_5": "La amabilidad ofrecida o recibida trae consuelo, y le sigue un modesto avance.",
+      "dominoes.tile.6_6": "La ficha más alta promete un gran éxito, prosperidad y el cumplimiento de tus deseos más queridos."
+    }
+  }
+}

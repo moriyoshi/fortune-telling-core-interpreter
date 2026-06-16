@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "locale": "es-ES",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "tzolkin.daysign.imix": "Imix señala los comienzos primordiales, los instintos nutricios y las aguas fértiles de las que emergen las nuevas empresas.",
+      "tzolkin.daysign.ik": "Ik' porta el aliento del espíritu y el viento del cambio, invitando a la comunicación, la inspiración y una vitalidad renovada.",
+      "tzolkin.daysign.akbal": "Ak'b'al te conduce a la casa oscura de los sueños, la intuición y la búsqueda interior de la verdad oculta.",
+      "tzolkin.daysign.kan": "K'an encarna la semilla que madura y la abundancia creciente, prometiendo fertilidad, conocimiento y el firme madurar del potencial.",
+      "tzolkin.daysign.chikchan": "Chikchan agita la fuerza vital de la serpiente, despertando el instinto, la vitalidad y una poderosa energía espiritual que asciende en tu interior.",
+      "tzolkin.daysign.kimi": "Kimi habla de muerte y desprendimiento, marcando la transformación, el soltar y el tránsito grácil entre ciclos.",
+      "tzolkin.daysign.manik": "Manik' ofrece la mano que sana y que aferra, llamando a la cooperación, la custodia y la armonía con todos los seres vivos.",
+      "tzolkin.daysign.lamat": "Lamat brilla como la estrella de la abundancia y la armonía, esparciendo semillas de belleza, fertilidad y nuevo crecimiento.",
+      "tzolkin.daysign.muluk": "Muluk fluye con la ofrenda del agua y la emoción, despertando la memoria, la gratitud y el llamado al corazón.",
+      "tzolkin.daysign.ok": "Ok encarna la compañía fiel, la lealtad y la guía, caminando a tu lado con devoción a lo largo del viaje de la vida.",
+      "tzolkin.daysign.chuwen": "Chuwen teje el hilo juguetón del artista, invitando a la creatividad, el oficio y el gozoso hilar del tiempo.",
+      "tzolkin.daysign.eb": "Eb marca el camino de la vida y el destino humano, alentando el servicio, la humildad y un avance firme por tu senda.",
+      "tzolkin.daysign.ben": "B'en alza la caña erguida de la autoridad, defendiendo el principio, el crecimiento y la valiente defensa del hogar y los ideales.",
+      "tzolkin.daysign.ix": "Ix porta la fuerza callada del jaguar, recurriendo al instinto, la magia y un hondo vínculo con la tierra.",
+      "tzolkin.daysign.men": "Men se remonta como el águila de la visión, elevando la mente a una perspectiva más alta, la ambición y una aspiración de largo alcance.",
+      "tzolkin.daysign.kib": "Kib' enciende la sabiduría de los ancestros, instando a la reflexión, el perdón y la gratitud por la guía recibida.",
+      "tzolkin.daysign.kaban": "Kab'an late con el movimiento de la tierra y del pensamiento, suscitando inteligencia, sincronía y una perspicacia arraigada.",
+      "tzolkin.daysign.etznab": "Etz'nab' reluce como la hoja de obsidiana, cortando la ilusión con verdad, claridad y un discernimiento decidido.",
+      "tzolkin.daysign.kawak": "Kawak reúne el poder renovador de la tormenta, anunciando el trastorno, la purificación y el alborear de un despertar fresco.",
+      "tzolkin.daysign.ajaw": "Ajaw irradia el señor del sol, expresando iluminación, plenitud y el florecer de un propósito superior."
+    }
+  }
+}

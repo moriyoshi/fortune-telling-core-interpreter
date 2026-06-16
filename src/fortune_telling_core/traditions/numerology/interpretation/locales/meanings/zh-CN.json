@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "zh-CN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "numerology.number.1": "一条独立、主动与领导的生命道路，奋力开辟自己的前程。",
+      "numerology.number.2": "一条协作、敏感与圆融的生命道路，凭伙伴关系与平衡而兴盛。",
+      "numerology.number.3": "一条创造、表达与乐观的生命道路，借沟通与喜悦而繁盛。",
+      "numerology.number.4": "一条自律、稳定与勤勉的生命道路，以秩序构筑持久的根基。",
+      "numerology.number.5": "一条自由、适应与冒险的生命道路，因变化与新鲜的阅历而焕发活力。",
+      "numerology.number.6": "一条责任、养育与和谐的生命道路，献身于家庭、服务与关怀。",
+      "numerology.number.7": "一条内省、分析与求索的生命道路，向往智慧与更深的真理。",
+      "numerology.number.8": "一条抱负、权威与成就的生命道路，旨在驾驭物质与赢得成功。",
+      "numerology.number.9": "一条悲悯、理想与慷慨的生命道路，献身于人类与更大的福祉。",
+      "numerology.number.11": "一条直觉与灵感的大师生命道路，被召唤去启迪并提升他人。",
+      "numerology.number.22": "一条富有远见之建造者的大师生命道路，能将崇高的理想化为持久的现实。",
+      "numerology.number.33": "一条无私奉献与疗愈的大师生命道路，以服务众生体现悲悯。"
+    }
+  }
+}

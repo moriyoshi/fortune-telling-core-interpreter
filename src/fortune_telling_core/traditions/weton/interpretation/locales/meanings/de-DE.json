@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "weton.saptawara.senin": "Senin, der am Montag Geborene, deutet auf ein ruhiges, geduldiges Wesen hin, das zu stiller Besinnung und beständigem, abgewogenem Urteil neigt.",
+      "weton.saptawara.selasa": "Selasa, der am Dienstag Geborene, verweist auf Tatkraft und Ehrgeiz, mit einem leidenschaftlichen, energiegeladenen Temperament, das Ziele kühn verfolgt.",
+      "weton.saptawara.rabu": "Rabu, der am Mittwoch Geborene, weist auf Geselligkeit und Wortgewandtheit hin und begünstigt jene, die kommunikationsstark und umgänglich sind.",
+      "weton.saptawara.kamis": "Kamis, der am Donnerstag Geborene, steht für Großzügigkeit und Glück und kennzeichnet einen würdevollen Charakter, der zu Wissen und Wohlstand hingezogen ist.",
+      "weton.saptawara.jumat": "Jumat, der am Freitag Geborene, bezeichnet Hingabe und Wärme und segnet eine sanfte, harmonische Seele, die auf Glauben und Familie bedacht ist.",
+      "weton.saptawara.sabtu": "Sabtu, der am Samstag Geborene, spiegelt Disziplin und Belastbarkeit wider und passt zu einer fleißigen, ausdauernden Natur, die Mühsal erträgt.",
+      "weton.saptawara.minggu": "Minggu, der am Sonntag Geborene, vermittelt Strahlkraft und Führung und erhellt einen selbstbewussten, leuchtenden Charakter, der andere anzieht.",
+      "weton.pancawara.legi": "Legi, der süße Markttag, verleiht Anmut und Sanftheit und fördert ein liebenswürdiges, gefälliges Wesen, das anderen Behagen schenkt.",
+      "weton.pancawara.pahing": "Pahing, der bittere Markttag, bringt Zähigkeit und Durchsetzungskraft und formt eine entschlossene, willensstarke Natur, die Konflikte nicht scheut.",
+      "weton.pancawara.pon": "Pon, der strahlende Markttag, verleiht Charme und Verfeinerung und begünstigt einen anziehenden, kunstvollen Charakter mit Sinn für Schönheit.",
+      "weton.pancawara.wage": "Wage, der beständige Markttag, prägt Sparsamkeit und Stetigkeit und kennzeichnet eine geerdete, praktische Seele von fester Überzeugung.",
+      "weton.pancawara.kliwon": "Kliwon, der zentrale Markttag, trägt Intuition und spirituelle Tiefe und ziert eine feinfühlige, nachdenkliche Natur, die auf das Unsichtbare eingestimmt ist."
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cyrillic_slavonic_numerals.result.total": "Jumlah angka Slavonik Gereja, yang menjumlahkan nilai tradisional yang dilekatkan pada setiap huruf Sirilik Kuno, menyampaikan inti numerik simbolis yang melekat pada nama secara keseluruhan."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "sukuyo.mansion.ashvini": "Ashvinī (婁宿) ist flink und bahnbrechend, eine heilende, energiegeladene Mondstation, die kühn beginnt und sich mit rascher Initiative bewegt.",
+      "sukuyo.mansion.bharani": "Bharaṇī (胃宿) trägt Lasten mit Ausdauer und Zurückhaltung, eine Mondstation der Verwandlung, Disziplin und schwer errungenen Reifung.",
+      "sukuyo.mansion.krittika": "Kṛttikā (昴宿) ist scharf und feurig, eine schneidende, läuternde Mondstation von scharfem Urteil und unbeirrbarer Aufrichtigkeit.",
+      "sukuyo.mansion.rohini": "Rohiṇī (畢宿) ist schön und fruchtbar, eine bezaubernde Mondstation des Wachstums, der Anziehung und materiellen Anmut.",
+      "sukuyo.mansion.mrigashira": "Mṛgaśira (觜宿) ist der sanfte Suchende, eine neugierige, suchende Mondstation, die nach dem streift, wonach sie sich sehnt.",
+      "sukuyo.mansion.ardra": "Ārdrā (参宿) ist der Sturm, eine intensive Mondstation des Umbruchs, der emotionalen Tiefe und des Durchbruchs nach Turbulenzen.",
+      "sukuyo.mansion.punarvasu": "Punarvasu (井宿) ist Erneuerung und Rückkehr, eine optimistische Mondstation des sicheren Hafens, der Genesung und der Neuanfänge.",
+      "sukuyo.mansion.pushya": "Puṣya (鬼宿) ist nährend und schützend, eine hingebungsvolle, gedeihende Mondstation, die als zutiefst glückverheißend gilt.",
+      "sukuyo.mansion.ashlesha": "Āśleṣā (柳宿) ist die geringelte Schlange, eine intuitive, listige Mondstation von durchdringender Einsicht und umschlingender Macht.",
+      "sukuyo.mansion.magha": "Maghā (星宿) ist der Thron der Ahnen, eine stolze, würdevolle Mondstation der Autorität, des Erbes und der Ehre.",
+      "sukuyo.mansion.purva_phalguni": "Pūrva Phalgunī (張宿) ist der Stern des Vergnügens, eine entspannte, romantische Mondstation der Muße, Kreativität und des Genusses.",
+      "sukuyo.mansion.uttara_phalguni": "Uttara Phalgunī (翼宿) ist der großzügige Gönner, eine verlässliche Mondstation der Freundschaft, der Verträge und steten Unterstützung.",
+      "sukuyo.mansion.hasta": "Hasta (軫宿) ist die geschickte Hand, eine gewandte, kluge Mondstation des Handwerks, der Geschicklichkeit und praktischen Vollbringens.",
+      "sukuyo.mansion.chitra": "Chitrā (角宿) ist der strahlende Edelstein, eine Mondstation des Entwurfs, der Schönheit und blendend wohlgeformter Kunstfertigkeit.",
+      "sukuyo.mansion.svati": "Svātī (亢宿) ist der Wind, eine unabhängige, flexible Mondstation der Bewegung, des Handels und der selbstbestimmten Freiheit.",
+      "sukuyo.mansion.vishakha": "Viśākhā (氐宿) ist zielstrebig, eine entschlossene Mondstation des Ehrgeizes, der Konzentration und der auf ihr Ziel hin reifenden Absicht.",
+      "sukuyo.mansion.anuradha": "Anurādhā (房宿) ist hingebungsvolle Freundschaft, eine kooperative Mondstation der Loyalität, des Erfolgs unter anderen und des Glücks in der Ferne.",
+      "sukuyo.mansion.jyeshtha": "Jyeṣṭhā (心宿) ist der Älteste, eine mutige Mondstation des Vorrangs, des Schutzes und still gewahrter Macht.",
+      "sukuyo.mansion.mula": "Mūla (尾宿) ist die Wurzel, eine forschende Mondstation, die entwurzelt und ergründet, um den eigentlichen Kern der Dinge zu erreichen.",
+      "sukuyo.mansion.purva_ashadha": "Pūrva Āṣāḍhā (箕宿) ist die Unbesiegbare, eine überzeugende Mondstation des frühen Sieges und unerschütterlicher Überzeugung.",
+      "sukuyo.mansion.uttara_ashadha": "Uttara Āṣāḍhā (斗宿) ist dauerhafter Sieg, eine aufrechte Mondstation der Integrität, Ausdauer und beständigen Führung.",
+      "sukuyo.mansion.shravana": "Śravaṇa (女宿) ist der Zuhörer, eine gelehrte Mondstation der Aufmerksamkeit, Verbindung und des wachsenden Ansehens.",
+      "sukuyo.mansion.dhanishtha": "Dhaniṣṭhā (虚宿) ist die Trommel, eine rhythmische Mondstation des Reichtums, der Musik, des Ruhms und überreicher Lebenskraft.",
+      "sukuyo.mansion.shatabhisha": "Śatabhiṣā (危宿) sind die hundert Heiler, eine geheimnisvolle, mystische Mondstation der Heilung und des verborgenen Wissens.",
+      "sukuyo.mansion.purva_bhadrapada": "Pūrva Bhādrapadā (室宿) ist glühend und idealistisch, eine intensive Mondstation der Überzeugung und des verwandelnden Feuers.",
+      "sukuyo.mansion.uttara_bhadrapada": "Uttara Bhādrapadā (壁宿) ist das tiefe Wasser, eine ruhige, weise Mondstation der Tiefe, Geduld und des beständigen Rates.",
+      "sukuyo.mansion.revati": "Revatī (奎宿) ist die Nährende, eine sanfte Mondstation der Vollendung, der sicheren Überfahrt und des gütigen Wohlstands."
+    }
+  }
+}

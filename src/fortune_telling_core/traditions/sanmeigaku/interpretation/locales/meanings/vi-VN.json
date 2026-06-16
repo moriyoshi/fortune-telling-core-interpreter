@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "sanmeigaku.main.kansaku": "Kansaku-sei (貫索星), ngôi sao của sự độc lập, ban cho ý chí kiên định, tinh thần tự lực và sự kiên nhẫn để một mình giữ vững đường đi.",
+      "sanmeigaku.main.sekimon": "Sekimon-sei (石門星), ngôi sao của sự hòa đồng, quy tụ con người qua sự hài hòa, hợp tác và sự được mến mộ dễ dàng trong một tập thể.",
+      "sanmeigaku.main.hokaku": "Hōkaku-sei (鳳閣星), ngôi sao của sự thư thái tự nhiên, mang đến sự vui tươi, khả năng biểu đạt và niềm thích thú với những thú vui giản dị của cuộc đời.",
+      "sanmeigaku.main.chosho": "Chōsho-sei (調舒星), ngôi sao của sự nhạy cảm, ban cho tài nghệ thuật và cảm xúc sâu sắc, cùng nét khắt khe, cô độc của người cầu toàn.",
+      "sanmeigaku.main.rokuson": "Rokuson-sei (禄存星), ngôi sao của lòng nhân từ, thu hút vận may qua sự hào phóng, duyên dáng và hơi ấm trao tặng người khác một cách rộng rãi.",
+      "sanmeigaku.main.shiroku": "Shiroku-sei (司禄星), ngôi sao của sự tích lũy, coi trọng sự bền vững, tằn tiện và việc kiên nhẫn xây dựng an toàn cho gia đình.",
+      "sanmeigaku.main.shaki": "Shaki-sei (車騎星), ngôi sao của hành động, lao tới với tốc độ, lòng can đảm và tinh thần chiến đấu thẳng thắn, không do dự.",
+      "sanmeigaku.main.kengyu": "Kengyū-sei (牽牛星), ngôi sao của niềm kiêu hãnh và bổn phận, mang theo danh dự, trách nhiệm và sự quan tâm đầy phẩm giá đến địa vị và lễ nghi.",
+      "sanmeigaku.main.ryuko": "Ryūkō-sei (龍高星), ngôi sao của sự phiêu lưu, tìm kiếm điều khác thường, xứ lạ và sự sáng tạo, phát triển mạnh nhờ thay đổi và mạo hiểm.",
+      "sanmeigaku.main.gyokudo": "Gyokudō-sei (玉堂星), ngôi sao của sự học, yêu trí tuệ, truyền thống và học thuật, với trí tuệ nuôi dưỡng, từ mẫu.",
+      "sanmeigaku.subordinate.tenki": "Tenki-sei (天貴星), ngôi sao thiếu nhi, thuần khiết, có nguyên tắc và nhạy cảm, mang nét tinh tế đáng kính, gia giáo.",
+      "sanmeigaku.subordinate.tenkou": "Tenkō-sei (天恍星), ngôi sao thiếu niên, mơ mộng và lãng mạn, bị cuốn theo sự lang thang, niềm khao khát và sức hút của điều chưa biết.",
+      "sanmeigaku.subordinate.tennan": "Tennan-sei (天南星), ngôi sao thanh niên, táo bạo và mạnh mẽ, đầy nội lực ganh đua, không yên và sự tự tin về thể chất.",
+      "sanmeigaku.subordinate.tenroku": "Tenroku-sei (天禄星), ngôi sao tuổi sung sức, ban cho sức làm việc bền bỉ, sự đáng tin cậy và sự trưởng thành vững chãi, hiệu quả.",
+      "sanmeigaku.subordinate.tensho": "Tenshō-sei (天将星), ngôi sao thủ lĩnh, mạnh mẽ nhất — mãnh liệt, áp đảo và sinh ra để dẫn dắt dưới áp lực lớn.",
+      "sanmeigaku.subordinate.tendo": "Tendō-sei (天堂星), ngôi sao bậc lão, điềm tĩnh và chín chắn, di chuyển chậm rãi với trí tuệ từng trải và sự bền bỉ lặng lẽ.",
+      "sanmeigaku.subordinate.tenko": "Tenko-sei (天胡星), ngôi sao dưỡng bệnh, mong manh và mơ mộng, được phú cho trí tưởng tượng, tài nghệ thuật và sự nhạy cảm tinh tế.",
+      "sanmeigaku.subordinate.tenkyoku": "Tenkyoku-sei (天極星), ngôi sao tử, tách biệt và tâm linh, nghiêng về sự buông bỏ, nội quán và sự an nhiên thoát tục.",
+      "sanmeigaku.subordinate.tenkura": "Tenkura-sei (天庫星), ngôi sao kho tàng, gìn giữ và nghiên cứu, bị cuốn hút bởi quá khứ, sự tích lũy và chiều sâu kiên nhẫn.",
+      "sanmeigaku.subordinate.tenso": "Tensō-sei (天馳星), ngôi sao linh khí, nhanh nhẹn và không yên, tràn đầy năng lượng mau lẹ, gần như thoát tục, không bao giờ ngơi nghỉ.",
+      "sanmeigaku.subordinate.tenpo": "Tenpō-sei (天報星), ngôi sao thai nghén, biến đổi và thích nghi không ngừng — một nguồn năng lượng không yên của những khởi đầu và sự vận động liên tục.",
+      "sanmeigaku.subordinate.tenin": "Ten'in-sei (天印星), ngôi sao hài nhi, ngây thơ và đáng yêu, được ban phúc với thiện chí và sự che chở của những người xung quanh."
+    }
+  }
+}

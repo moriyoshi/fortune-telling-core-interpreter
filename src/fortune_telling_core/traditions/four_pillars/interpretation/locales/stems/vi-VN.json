@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {
+    "stem": "{cjk} mang khí {element} {polarity}."
+  },
+  "vocab": {
+    "elements": {
+      "wood": "Mộc",
+      "fire": "Hỏa",
+      "earth": "Thổ",
+      "metal": "Kim",
+      "water": "Thủy"
+    },
+    "polarities": {
+      "yang": "dương",
+      "yin": "âm"
+    }
+  }
+}

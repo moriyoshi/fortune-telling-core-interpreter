@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "ru-RU",
+  "templates": {
+    "placement": "{body} в знаке {sign} проявляется через {modality} качества стихии {element}.",
+    "retrograde_suffix": " Ретроградное движение обращает это проявление вовнутрь для переосмысления."
+  },
+  "vocab": {
+    "signs": {
+      "aries": "Овен",
+      "taurus": "Телец",
+      "gemini": "Близнецы",
+      "cancer": "Рак",
+      "leo": "Лев",
+      "virgo": "Дева",
+      "libra": "Весы",
+      "scorpio": "Скорпион",
+      "sagittarius": "Стрелец",
+      "capricorn": "Козерог",
+      "aquarius": "Водолей",
+      "pisces": "Рыбы"
+    },
+    "bodies": {
+      "sun": "Солнце",
+      "moon": "Луна",
+      "mercury": "Меркурий",
+      "venus": "Венера",
+      "mars": "Марс",
+      "jupiter": "Юпитер",
+      "saturn": "Сатурн",
+      "uranus": "Уран",
+      "neptune": "Нептун",
+      "pluto": "Плутон",
+      "north_node": "Восходящий узел",
+      "south_node": "Нисходящий узел",
+      "ascendant": "Асцендент",
+      "midheaven": "Середина неба"
+    },
+    "elements": {
+      "fire": "огня",
+      "earth": "земли",
+      "air": "воздуха",
+      "water": "воды"
+    },
+    "modalities": {
+      "cardinal": "кардинальные",
+      "fixed": "фиксированные",
+      "mutable": "мутабельные"
+    }
+  }
+}

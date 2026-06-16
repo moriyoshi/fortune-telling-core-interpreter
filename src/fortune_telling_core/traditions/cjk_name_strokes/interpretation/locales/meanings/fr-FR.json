@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cjk_name_strokes.result.heaven": "La Grille du Ciel, dérivée des traits du nom de famille, représente les influences héritées et la fortune ancestrale qui encadre les premières circonstances d'une personne.",
+      "cjk_name_strokes.result.person": "La Grille de la Personne, formée du dernier caractère du nom de famille et du premier du prénom, reflète le caractère central, le tempérament et la force de l'âge.",
+      "cjk_name_strokes.result.earth": "La Grille de la Terre, tirée des traits du prénom, indique la fortune de la jeunesse et le fondement sur lequel se construisent les premières années et les relations.",
+      "cjk_name_strokes.result.outer": "La Grille Externe régit le rang social et les rapports avec le monde extérieur, façonnant la réputation et les interactions au-delà du cercle familial immédiat.",
+      "cjk_name_strokes.result.total": "La Grille Totale, somme de tous les traits du nom, signifie la destinée globale et la fortune des dernières années de la vie."
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {
+    "placement": "{body} di {sign} mengekspresikan diri melalui kualitas {element} yang {modality}.",
+    "retrograde_suffix": " Gerak retrograd mengarahkan ekspresinya ke dalam untuk ditinjau ulang."
+  },
+  "vocab": {
+    "signs": {
+      "aries": "Aries",
+      "taurus": "Taurus",
+      "gemini": "Gemini",
+      "cancer": "Cancer",
+      "leo": "Leo",
+      "virgo": "Virgo",
+      "libra": "Libra",
+      "scorpio": "Scorpio",
+      "sagittarius": "Sagittarius",
+      "capricorn": "Capricorn",
+      "aquarius": "Aquarius",
+      "pisces": "Pisces"
+    },
+    "bodies": {
+      "sun": "Matahari",
+      "moon": "Bulan",
+      "mercury": "Merkurius",
+      "venus": "Venus",
+      "mars": "Mars",
+      "jupiter": "Jupiter",
+      "saturn": "Saturnus",
+      "uranus": "Uranus",
+      "neptune": "Neptunus",
+      "pluto": "Pluto",
+      "north_node": "Simpul Utara",
+      "south_node": "Simpul Selatan",
+      "ascendant": "Ascendant",
+      "midheaven": "Midheaven"
+    },
+    "elements": {
+      "fire": "api",
+      "earth": "tanah",
+      "air": "udara",
+      "water": "air"
+    },
+    "modalities": {
+      "cardinal": "kardinal",
+      "fixed": "tetap",
+      "mutable": "mutabel"
+    }
+  }
+}

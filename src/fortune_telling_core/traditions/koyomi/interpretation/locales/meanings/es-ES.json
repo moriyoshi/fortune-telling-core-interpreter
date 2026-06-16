@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "locale": "es-ES",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "koyomi.rokuyo.taian": "Taian (大安) es el más auspicioso de los seis días, favorable para toda empresa de la mañana a la noche: bodas, inauguraciones, viajes y nuevos comienzos prosperan por igual.",
+      "koyomi.rokuyo.shakko": "Shakkō (赤口) es un día desfavorable regido por el peligro; solo la hora en torno al mediodía es segura, y se aconseja cautela con las hojas afiladas, el fuego y las disputas.",
+      "koyomi.rokuyo.sensho": "Senshō (先勝) premia la prisa: la mañana trae buena fortuna y actuar pronto conduce al éxito, mientras que la tarde se vuelve aciaga.",
+      "koyomi.rokuyo.tomobiki": "Tomobiki (友引) 'arrastra a los amigos'; la mañana y la tarde son propicias y las empresas compartidas prosperan, pero la hora del mediodía es de mal augurio y se evitan los funerales.",
+      "koyomi.rokuyo.sembu": "Senbu (先負) aconseja paciencia: la mañana es aciaga y la prisa invita a la pérdida, pero la tarde se serena y los asuntos ya resueltos van mejor.",
+      "koyomi.rokuyo.butsumetsu": "Butsumetsu (仏滅) es el día más desfavorable, poco apto para celebraciones, inauguraciones o nuevos comienzos; el descanso, la reflexión y el cierre de asuntos son más sensatos."
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "locale": "mr-IN",
+  "templates": {
+    "element_line": "{cjk} याचा संबंध {color} {element} आणि {trigram} त्रिग्रामशी आहे.",
+    "natal_line": "{cjk} हा नाईन स्टार कीचा जन्मजात प्रभाव आहे."
+  },
+  "vocab": {
+    "colors": {
+      "white": "पांढरा",
+      "black": "काळा",
+      "jade": "जेड",
+      "green": "हिरवा",
+      "yellow": "पिवळा",
+      "red": "लाल",
+      "purple": "जांभळा"
+    },
+    "elements": {
+      "water": "जल",
+      "earth": "पृथ्वी",
+      "wood": "लाकूड",
+      "metal": "धातू",
+      "fire": "अग्नी"
+    },
+    "trigrams": {
+      "kan": "कान",
+      "kun": "कुन",
+      "zhen": "झेन",
+      "xun": "शुन",
+      "center": "केंद्र",
+      "qian": "च्यान",
+      "dui": "दुइ",
+      "gen": "गेन",
+      "li": "ली"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "th-TH",
+  "templates": {
+    "ten_god": "{label} อธิบายว่าก้านนี้สัมพันธ์กับธาตุประจำวันเกิดอย่างไร"
+  },
+  "vocab": {
+    "labels": {
+      "friend": "เพื่อนเสมอตัว",
+      "rob_wealth": "ชิงทรัพย์",
+      "eating_god": "เทพกินเลี้ยง",
+      "hurting_officer": "ขุนนางทำลาย",
+      "indirect_wealth": "ทรัพย์ทางอ้อม",
+      "direct_wealth": "ทรัพย์ทางตรง",
+      "seven_killings": "เจ็ดสังหาร",
+      "direct_officer": "ขุนนางทางตรง",
+      "indirect_resource": "ทรัพยากรทางอ้อม",
+      "direct_resource": "ทรัพยากรทางตรง"
+    }
+  }
+}

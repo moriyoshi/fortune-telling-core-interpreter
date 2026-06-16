@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {},
+  "vocab": {
+    "texts": {
+      "ming": "Istana Kehidupan (命宮) adalah jantung dari bagan, menggambarkan watak dasar, perangai dan keseluruhan alur takdir Anda.",
+      "siblings": "Istana Saudara (兄弟宮) berbicara tentang saudara laki-laki, saudara perempuan dan rekan dekat, serta tentang bagaimana Anda bekerja sama dan berbagi dengan mereka yang berada di sisi Anda.",
+      "spouse": "Istana Pasangan (夫妻宮) mengatur pernikahan dan kemitraan, mengungkap sifat ikatan terdekat Anda dan irama kehidupan asmara Anda.",
+      "children": "Istana Anak (子女宮) menyangkut keturunan, murid maupun buah karya kreatif, serta pemeliharaan, vitalitas dan warisan yang Anda turunkan.",
+      "wealth": "Istana Kekayaan (財帛宮) menggambarkan penghasilan, uang dan keberuntungan material — bagaimana sumber daya mengalir kepada Anda dan bagaimana Anda menyimpannya.",
+      "health": "Istana Kesehatan (疾厄宮) mencerminkan kondisi tubuh, vitalitas dan kerentanan terhadap penyakit, serta beban jasmani dan emosi yang harus diperhatikan.",
+      "travel": "Istana Perjalanan (遷移宮) mengatur pergerakan, perjalanan dan peluang jauh dari rumah, serta bagaimana dunia yang lebih luas menyambut Anda.",
+      "friends": "Istana Sahabat (僕役宮) mencakup teman, rekan kerja dan bawahan, serta dukungan atau gesekan yang Anda temui dalam lingkaran Anda.",
+      "career": "Istana Karier (官祿宮) menggambarkan panggilan hidup, status dan pencapaian, serta kedudukan yang Anda bangun melalui pekerjaan Anda.",
+      "property": "Istana Kepemilikan (田宅宮) menyangkut rumah, tanah dan harta keluarga, serta keamanan dan suasana tempat Anda bermukim.",
+      "fortune": "Istana Berkah (福德宮) berbicara tentang kepuasan, kehidupan spiritual dan berkah, serta kedamaian batin yang mendasari keberuntungan lahiriah.",
+      "parents": "Istana Orang Tua (父母宮) mengatur orang tua, sesepuh dan kewibawaan, serta perlindungan, bimbingan dan warisan yang Anda terima dari mereka."
+    }
+  }
+}

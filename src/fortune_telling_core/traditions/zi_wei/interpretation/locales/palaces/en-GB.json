@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {},
+  "vocab": {
+    "texts": {
+      "ming": "The Life Palace (命宮) is the heart of the chart, describing your essential character, temperament and the overall arc of your destiny.",
+      "siblings": "The Siblings Palace (兄弟宮) speaks of brothers, sisters and close peers, and of how you cooperate and share with those who stand beside you.",
+      "spouse": "The Spouse Palace (夫妻宮) governs marriage and partnership, revealing the nature of your closest bonds and the rhythm of your romantic life.",
+      "children": "The Children Palace (子女宮) concerns offspring, pupils and creative offspring alike, and the care, vitality and legacy you pass on.",
+      "wealth": "The Wealth Palace (財帛宮) describes income, money and material fortune — how resources flow to you and how you hold them.",
+      "health": "The Health Palace (疾厄宮) reflects constitution, vitality and vulnerability to illness, and the bodily and emotional strains to mind.",
+      "travel": "The Travel Palace (遷移宮) governs movement, journeys and opportunities away from home, and how the wider world receives you.",
+      "friends": "The Friends Palace (僕役宮) covers companions, colleagues and subordinates, and the support or friction you meet within your circle.",
+      "career": "The Career Palace (官祿宮) describes vocation, status and achievement, and the standing you build through your work.",
+      "property": "The Property Palace (田宅宮) concerns home, land and family assets, and the security and atmosphere of where you dwell.",
+      "fortune": "The Fortune Palace (福德宮) speaks of contentment, spiritual life and blessings, and the inner peace that underlies outward fortune.",
+      "parents": "The Parents Palace (父母宮) governs parents, elders and authority, and the protection, guidance and inheritance you receive from them."
+    }
+  }
+}

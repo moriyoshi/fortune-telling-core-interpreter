@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "locale": "bn-IN",
+  "templates": {
+    "branch": "{cjk} {animal} {polarity} {element} চি ও গুপ্ত কাণ্ড বহন করে।"
+  },
+  "vocab": {
+    "elements": {
+      "wood": "কাঠ",
+      "fire": "অগ্নি",
+      "earth": "মাটি",
+      "metal": "ধাতু",
+      "water": "জল"
+    },
+    "polarities": {
+      "yang": "ইয়াং",
+      "yin": "ইন"
+    },
+    "animals": {
+      "Rat": "ইঁদুর",
+      "Ox": "বলদ",
+      "Tiger": "বাঘ",
+      "Rabbit": "খরগোশ",
+      "Dragon": "ড্রাগন",
+      "Snake": "সাপ",
+      "Horse": "ঘোড়া",
+      "Goat": "ছাগল",
+      "Monkey": "বানর",
+      "Rooster": "মোরগ",
+      "Dog": "কুকুর",
+      "Pig": "শূকর"
+    }
+  }
+}

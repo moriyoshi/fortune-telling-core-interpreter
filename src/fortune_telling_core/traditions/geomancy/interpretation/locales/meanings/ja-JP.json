@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "locale": "ja-JP",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "geomancy.figure.via": "ヴィアは変化と移動、旅を示し、一つの道が閉じ別の道が開く転機を表します。",
+      "geomancy.figure.cauda_draconis": "カウダ・ドラコニスは終わりと旅立ちを示し、終わったものの解放を促しますが、後に混乱を残すこともあります。",
+      "geomancy.figure.puer": "プエルは若く血気盛んなエネルギーを示し、大胆さと素早い行動をもたらす一方、衝動性と争いも生みます。",
+      "geomancy.figure.fortuna_minor": "フォルトゥナ・マイノルは、持続的な利得というより外部の助けを得た素早い行動を好む、つかの間のささやかな幸運をもたらします。",
+      "geomancy.figure.caput_draconis": "カプト・ドラコニスは始まりと新たな好機を告げ、新規の試みや成長にとって吉兆の入口です。",
+      "geomancy.figure.coniunctio": "コニウンクティオは結合と出会い、協力を示し、人や事柄、考えを良くも悪くも結びつけます。",
+      "geomancy.figure.acquisitio": "アクィシティオは利得と利益の象徴で、富や財、望む結末の獲得を約束します。",
+      "geomancy.figure.rubeus": "ルベウスは情熱と怒り、欺きを警告し、慎重と自制をもって扱うべき不吉な象です。",
+      "geomancy.figure.puella": "プエラは調和と美、情愛を示し、とりわけ愛と喜びの事柄において穏やかで好ましい象です。",
+      "geomancy.figure.amissio": "アミシオは喪失と手放しを示し、物事を保つには不利ですが、解放を求めるときには助けとなります。",
+      "geomancy.figure.carcer": "カルケルは束縛と遅延、制限を表し、事柄をその場に縛りつけ、忍耐を諭します。",
+      "geomancy.figure.laetitia": "ラエティティアは幸福と健康、希望の喜ばしい象で、気分を高め、上向きの前進を後押しします。",
+      "geomancy.figure.fortuna_maior": "フォルトゥナ・マイオルは、自らの着実な力と内なる資質によって勝ち取られる、大きく持続する幸運をもたらします。",
+      "geomancy.figure.albus": "アルブスは明晰さと平安、知恵を示し、思索や助言、慎重な判断に適した穏やかで好ましい象です。",
+      "geomancy.figure.tristitia": "トリスティティアは悲しみと苦難、憂鬱を示し、困難な時を耐え抜くことを諭す下降の象です。",
+      "geomancy.figure.populus": "ポプルスは群衆や集まりを表し、自ら動くことなく周囲の影響を映す、中立で受動的な象です。"
+    }
+  }
+}

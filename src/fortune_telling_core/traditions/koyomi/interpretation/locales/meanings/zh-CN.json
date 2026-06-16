@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "locale": "zh-CN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "koyomi.rokuyo.taian": "大安是六曜中最为吉祥的日子，从早到晚诸事皆宜——婚礼、开业、出行与万事开端无不顺遂兴旺。",
+      "koyomi.rokuyo.shakko": "赤口是受凶险主宰的不吉之日，唯有正午前后一刻平安，须慎防刀刃、火患与争执。",
+      "koyomi.rokuyo.sensho": "先胜利于趁早行事：上午携来好运，及早行动便能成功，而下午则转为不利。",
+      "koyomi.rokuyo.tomobiki": "友引意为「牵引友人」；早晚皆为吉时，共同的事业能够兴旺，唯独正午凶险，故而忌办丧事。",
+      "koyomi.rokuyo.sembu": "先负劝人持守耐心：上午不利，操之过急易招损失，而下午渐趋平和，已定之事更为顺利。",
+      "koyomi.rokuyo.butsumetsu": "佛灭是最为不吉的日子，不宜庆典、开业或新的开端；休养、反思与收束诸事方为明智。"
+    }
+  }
+}

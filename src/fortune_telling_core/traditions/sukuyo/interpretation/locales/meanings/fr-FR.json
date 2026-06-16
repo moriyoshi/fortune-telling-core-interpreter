@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "sukuyo.mansion.ashvini": "Ashvinī (婁宿) est rapide et pionnière, une demeure guérisseuse et énergique qui commence avec audace et avance d'une initiative vive.",
+      "sukuyo.mansion.bharani": "Bharaṇī (胃宿) porte les fardeaux avec endurance et retenue, une demeure de transformation, de discipline et de croissance durement acquise.",
+      "sukuyo.mansion.krittika": "Kṛttikā (昴宿) est tranchante et ardente, une demeure incisive et purificatrice au jugement aiguisé et à l'honnêteté inflexible.",
+      "sukuyo.mansion.rohini": "Rohiṇī (畢宿) est belle et féconde, une demeure charmante de croissance, d'attraction et de grâce matérielle.",
+      "sukuyo.mansion.mrigashira": "Mṛgaśira (觜宿) est le doux chercheur, une demeure curieuse et quêteuse qui rôde à la poursuite de ce qu'elle désire.",
+      "sukuyo.mansion.ardra": "Ārdrā (参宿) est la tempête, une demeure intense de bouleversement, de profondeur émotionnelle et de percée après la turbulence.",
+      "sukuyo.mansion.punarvasu": "Punarvasu (井宿) est le renouveau et le retour, une demeure optimiste de havre sûr, de guérison et de nouveaux départs.",
+      "sukuyo.mansion.pushya": "Puṣya (鬼宿) est nourricière et protectrice, une demeure dévouée et prospère tenue pour profondément faste.",
+      "sukuyo.mansion.ashlesha": "Āśleṣā (柳宿) est le serpent lové, une demeure intuitive et rusée d'une perspicacité pénétrante et d'un pouvoir d'entravement.",
+      "sukuyo.mansion.magha": "Maghā (星宿) est le trône des ancêtres, une demeure fière et digne d'autorité, d'héritage et d'honneur.",
+      "sukuyo.mansion.purva_phalguni": "Pūrva Phalgunī (張宿) est l'étoile du plaisir, une demeure détendue et romantique de loisir, de créativité et de jouissance.",
+      "sukuyo.mansion.uttara_phalguni": "Uttara Phalgunī (翼宿) est le bienfaiteur généreux, une demeure fiable d'amitié, de contrats et de soutien constant.",
+      "sukuyo.mansion.hasta": "Hasta (軫宿) est la main habile, une demeure adroite et ingénieuse d'artisanat, de dextérité et de réalisation pratique.",
+      "sukuyo.mansion.chitra": "Chitrā (角宿) est le joyau éclatant, une demeure de conception, de beauté et d'un art éblouissant et bien ouvragé.",
+      "sukuyo.mansion.svati": "Svātī (亢宿) est le vent, une demeure indépendante et souple de mouvement, de commerce et de liberté autodirigée.",
+      "sukuyo.mansion.vishakha": "Viśākhā (氐宿) est animée par un but, une demeure déterminée d'ambition, de concentration et de dessein mûrissant vers sa visée.",
+      "sukuyo.mansion.anuradha": "Anurādhā (房宿) est l'amitié dévouée, une demeure coopérative de loyauté, de succès parmi les autres et de fortune à l'étranger.",
+      "sukuyo.mansion.jyeshtha": "Jyeṣṭhā (心宿) est l'aîné, une demeure courageuse d'ancienneté, de protection et d'un pouvoir tenu en silence.",
+      "sukuyo.mansion.mula": "Mūla (尾宿) est la racine, une demeure investigatrice qui déracine et sonde pour atteindre le cœur même des choses.",
+      "sukuyo.mansion.purva_ashadha": "Pūrva Āṣāḍhā (箕宿) est l'invincible, une demeure persuasive de victoire précoce et de conviction inébranlable.",
+      "sukuyo.mansion.uttara_ashadha": "Uttara Āṣāḍhā (斗宿) est la victoire durable, une demeure droite d'intégrité, d'endurance et d'un leadership pérenne.",
+      "sukuyo.mansion.shravana": "Śravaṇa (女宿) est celui qui écoute, une demeure érudite d'attention, de lien et de réputation grandissante.",
+      "sukuyo.mansion.dhanishtha": "Dhaniṣṭhā (虚宿) est le tambour, une demeure rythmique de richesse, de musique, de renommée et d'abondante vitalité.",
+      "sukuyo.mansion.shatabhisha": "Śatabhiṣā (危宿) est les cent guérisseurs, une demeure secrète et mystique de guérison et de savoir caché.",
+      "sukuyo.mansion.purva_bhadrapada": "Pūrva Bhādrapadā (室宿) est fervente et idéaliste, une demeure intense de conviction et de feu transformateur.",
+      "sukuyo.mansion.uttara_bhadrapada": "Uttara Bhādrapadā (壁宿) est l'eau profonde, une demeure calme et sage de profondeur, de patience et de conseil constant.",
+      "sukuyo.mansion.revati": "Revatī (奎宿) est la nourricière, une demeure douce d'achèvement, de traversée sûre et de bienveillante prospérité."
+    }
+  }
+}

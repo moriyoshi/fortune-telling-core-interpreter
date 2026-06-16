@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "locale": "es-ES",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "sukuyo.mansion.ashvini": "Ashvinī (婁宿) es veloz y pionera, una mansión sanadora y enérgica que comienza con audacia y avanza con iniciativa rápida.",
+      "sukuyo.mansion.bharani": "Bharaṇī (胃宿) soporta las cargas con resistencia y contención, una mansión de transformación, disciplina y crecimiento ganado con esfuerzo.",
+      "sukuyo.mansion.krittika": "Kṛttikā (昴宿) es aguda y ardiente, una mansión incisiva y purificadora de juicio penetrante y honestidad inquebrantable.",
+      "sukuyo.mansion.rohini": "Rohiṇī (畢宿) es hermosa y fértil, una mansión encantadora de crecimiento, atracción y gracia material.",
+      "sukuyo.mansion.mrigashira": "Mṛgaśira (觜宿) es la buscadora gentil, una mansión curiosa e indagadora que vaga en pos de lo que anhela.",
+      "sukuyo.mansion.ardra": "Ārdrā (参宿) es la tormenta, una mansión intensa de convulsión, profundidad emocional y avance tras la turbulencia.",
+      "sukuyo.mansion.punarvasu": "Punarvasu (井宿) es renovación y retorno, una mansión optimista de refugio seguro, recuperación y nuevos comienzos.",
+      "sukuyo.mansion.pushya": "Puṣya (鬼宿) es nutricia y protectora, una mansión devota y próspera tenida por profundamente auspiciosa.",
+      "sukuyo.mansion.ashlesha": "Āśleṣā (柳宿) es la serpiente enroscada, una mansión intuitiva y astuta de perspicacia penetrante y poder envolvente.",
+      "sukuyo.mansion.magha": "Maghā (星宿) es el trono de los ancestros, una mansión orgullosa y digna de autoridad, legado y honor.",
+      "sukuyo.mansion.purva_phalguni": "Pūrva Phalgunī (張宿) es la estrella del placer, una mansión relajada y romántica de ocio, creatividad y disfrute.",
+      "sukuyo.mansion.uttara_phalguni": "Uttara Phalgunī (翼宿) es el mecenas generoso, una mansión fiable de amistad, contratos y apoyo constante.",
+      "sukuyo.mansion.hasta": "Hasta (軫宿) es la mano hábil, una mansión diestra e ingeniosa de oficio, destreza y logro práctico.",
+      "sukuyo.mansion.chitra": "Chitrā (角宿) es la gema brillante, una mansión de diseño, belleza y un arte deslumbrante y bien labrado.",
+      "sukuyo.mansion.svati": "Svātī (亢宿) es el viento, una mansión independiente y flexible de movimiento, comercio y libertad autónoma.",
+      "sukuyo.mansion.vishakha": "Viśākhā (氐宿) es decidida, una mansión resuelta de ambición, concentración y propósito que madura hacia su meta.",
+      "sukuyo.mansion.anuradha": "Anurādhā (房宿) es la amistad devota, una mansión cooperativa de lealtad, éxito entre los demás y fortuna en el extranjero.",
+      "sukuyo.mansion.jyeshtha": "Jyeṣṭhā (心宿) es la mayor, una mansión valerosa de antigüedad, protección y poder ejercido con discreción.",
+      "sukuyo.mansion.mula": "Mūla (尾宿) es la raíz, una mansión investigadora que desarraiga y sondea para llegar al núcleo mismo de las cosas.",
+      "sukuyo.mansion.purva_ashadha": "Pūrva Āṣāḍhā (箕宿) es la invencible, una mansión persuasiva de victoria temprana y convicción inquebrantable.",
+      "sukuyo.mansion.uttara_ashadha": "Uttara Āṣāḍhā (斗宿) es la victoria duradera, una mansión recta de integridad, resistencia y liderazgo perdurable.",
+      "sukuyo.mansion.shravana": "Śravaṇa (女宿) es la que escucha, una mansión erudita de atención, conexión y reputación creciente.",
+      "sukuyo.mansion.dhanishtha": "Dhaniṣṭhā (虚宿) es el tambor, una mansión rítmica de riqueza, música, fama y vitalidad abundante.",
+      "sukuyo.mansion.shatabhisha": "Śatabhiṣā (危宿) es los cien sanadores, una mansión secreta y mística de sanación y conocimiento oculto.",
+      "sukuyo.mansion.purva_bhadrapada": "Pūrva Bhādrapadā (室宿) es ferviente e idealista, una mansión intensa de convicción y fuego transformador.",
+      "sukuyo.mansion.uttara_bhadrapada": "Uttara Bhādrapadā (壁宿) es el agua profunda, una mansión serena y sabia de hondura, paciencia y consejo constante.",
+      "sukuyo.mansion.revati": "Revatī (奎宿) es la que nutre, una mansión gentil de culminación, travesía segura y bondadosa prosperidad."
+    }
+  }
+}

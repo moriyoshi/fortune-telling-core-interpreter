@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "te-IN",
+  "templates": {
+    "ten_god": "{label} ఈ కాండం దినాధిపతితో ఎలా సంబంధం కలిగి ఉందో వివరిస్తుంది."
+  },
+  "vocab": {
+    "labels": {
+      "friend": "మిత్రుడు",
+      "rob_wealth": "సంపద దోచువాడు",
+      "eating_god": "భోజన దేవుడు",
+      "hurting_officer": "అధికారిని గాయపరచువాడు",
+      "indirect_wealth": "పరోక్ష సంపద",
+      "direct_wealth": "ప్రత్యక్ష సంపద",
+      "seven_killings": "ఏడు సంహారాలు",
+      "direct_officer": "ప్రత్యక్ష అధికారి",
+      "indirect_resource": "పరోక్ష వనరు",
+      "direct_resource": "ప్రత్యక్ష వనరు"
+    }
+  }
+}

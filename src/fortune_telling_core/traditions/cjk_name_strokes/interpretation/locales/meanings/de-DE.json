@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cjk_name_strokes.result.heaven": "Das Himmels-Gitter, abgeleitet aus den Strichen des Familiennamens, steht für ererbte Einflüsse und das Ahnenglück, das die frühen Lebensumstände eines Menschen umrahmt.",
+      "cjk_name_strokes.result.person": "Das Personen-Gitter, gebildet aus dem letzten Zeichen des Familiennamens und dem ersten des Vornamens, spiegelt den Kerncharakter, das Temperament und die besten Jahre des Lebens wider.",
+      "cjk_name_strokes.result.earth": "Das Erd-Gitter, gewonnen aus den Strichen des Vornamens, zeigt das Jugendglück und das Fundament, auf dem frühes Leben und Beziehungen aufbauen.",
+      "cjk_name_strokes.result.outer": "Das Außen-Gitter bestimmt das gesellschaftliche Ansehen und den Umgang mit der weiteren Welt und prägt Ruf und Beziehungen über die unmittelbare Familie hinaus.",
+      "cjk_name_strokes.result.total": "Das Gesamt-Gitter, die Summe aller Striche des Namens, steht für das gesamte Schicksal und das Glück der späteren Lebensjahre."
+    }
+  }
+}

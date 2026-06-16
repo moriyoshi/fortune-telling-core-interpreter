@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cjk_name_strokes.result.heaven": "The Heaven Grid, derived from the surname's strokes, represents inherited influences and the ancestral fortune that frames a person's early circumstances.",
+      "cjk_name_strokes.result.person": "The Person Grid, formed from the final character of the surname and the first of the given name, reflects the core character, temperament and the prime of one's life.",
+      "cjk_name_strokes.result.earth": "The Earth Grid, taken from the given name's strokes, indicates youthful fortune and the foundation upon which early life and relationships are built.",
+      "cjk_name_strokes.result.outer": "The Outer Grid governs one's social standing and dealings with the wider world, shaping reputation and interactions beyond the immediate family.",
+      "cjk_name_strokes.result.total": "The Total Grid, the sum of all the name's strokes, signifies the overall destiny and the fortune of one's later years."
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "es-ES",
+  "templates": {},
+  "vocab": {
+    "texts": {
+      "ming": "El Palacio de la Vida (命宮) es el corazón de la carta, y describe tu carácter esencial, tu temperamento y el arco general de tu destino.",
+      "siblings": "El Palacio de los Hermanos (兄弟宮) habla de hermanos, hermanas y compañeros cercanos, y de cómo cooperas y compartes con quienes están a tu lado.",
+      "spouse": "El Palacio del Cónyuge (夫妻宮) rige el matrimonio y la pareja, revelando la naturaleza de tus vínculos más estrechos y el ritmo de tu vida amorosa.",
+      "children": "El Palacio de los Hijos (子女宮) concierne tanto a la descendencia y los discípulos como a los frutos creativos, y al cuidado, la vitalidad y el legado que transmites.",
+      "wealth": "El Palacio de la Riqueza (財帛宮) describe los ingresos, el dinero y la fortuna material: cómo fluyen los recursos hacia ti y cómo los conservas.",
+      "health": "El Palacio de la Salud (疾厄宮) refleja la constitución, la vitalidad y la vulnerabilidad a la enfermedad, y las tensiones corporales y emocionales que debes vigilar.",
+      "travel": "El Palacio del Viaje (遷移宮) rige el movimiento, los viajes y las oportunidades lejos de casa, y cómo te recibe el mundo más amplio.",
+      "friends": "El Palacio de los Amigos (僕役宮) abarca a los compañeros, colegas y subordinados, y el apoyo o la fricción que encuentras dentro de tu círculo.",
+      "career": "El Palacio de la Carrera (官祿宮) describe la vocación, el estatus y el logro, y la posición que construyes a través de tu trabajo.",
+      "property": "El Palacio de la Propiedad (田宅宮) concierne al hogar, la tierra y los bienes familiares, y a la seguridad y el ambiente del lugar donde habitas.",
+      "fortune": "El Palacio de la Fortuna (福德宮) habla del contento, la vida espiritual y las bendiciones, y de la paz interior que sustenta la fortuna exterior.",
+      "parents": "El Palacio de los Padres (父母宮) rige a los padres, los mayores y la autoridad, y la protección, la guía y la herencia que recibes de ellos."
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "weton.saptawara.senin": "Senin, the Monday-born, suggests a calm and patient nature inclined towards quiet reflection and steady, considered judgement.",
+      "weton.saptawara.selasa": "Selasa, the Tuesday-born, points to drive and ambition, with a fervent, energetic temperament that pursues goals boldly.",
+      "weton.saptawara.rabu": "Rabu, the Wednesday-born, indicates sociability and eloquence, favouring those skilled in communication and amiable in company.",
+      "weton.saptawara.kamis": "Kamis, the Thursday-born, signals generosity and good fortune, marking a dignified character drawn to learning and prosperity.",
+      "weton.saptawara.jumat": "Jumat, the Friday-born, denotes devotion and warmth, blessing a gentle, harmonious soul mindful of faith and family.",
+      "weton.saptawara.sabtu": "Sabtu, the Saturday-born, reflects discipline and resilience, suiting a hardworking, persevering nature that endures hardship.",
+      "weton.saptawara.minggu": "Minggu, the Sunday-born, conveys brightness and leadership, illuminating a confident, radiant character that draws others near.",
+      "weton.pancawara.legi": "Legi, the sweet market day, lends grace and gentleness, fostering a likeable, agreeable disposition that puts others at ease.",
+      "weton.pancawara.pahing": "Pahing, the bitter market day, brings tenacity and assertiveness, shaping a determined, strong-willed nature unafraid of conflict.",
+      "weton.pancawara.pon": "Pon, the radiant market day, imparts charm and refinement, favouring an attractive, artful character with an eye for beauty.",
+      "weton.pancawara.wage": "Wage, the steadfast market day, instils thrift and constancy, marking a grounded, practical soul firm in conviction.",
+      "weton.pancawara.kliwon": "Kliwon, the central market day, carries intuition and spiritual depth, gracing a perceptive, contemplative nature attuned to the unseen."
+    }
+  }
+}

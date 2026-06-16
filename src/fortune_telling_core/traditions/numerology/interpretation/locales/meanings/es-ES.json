@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "es-ES",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "numerology.number.1": "Un camino de vida de independencia, iniciativa y liderazgo, impulsado a forjar su propio rumbo.",
+      "numerology.number.2": "Un camino de vida de cooperación, sensibilidad y diplomacia, que prospera mediante la asociación y el equilibrio.",
+      "numerology.number.3": "Un camino de vida de creatividad, expresión y optimismo, que florece mediante la comunicación y la alegría.",
+      "numerology.number.4": "Un camino de vida de disciplina, estabilidad y trabajo duro, que construye cimientos duraderos mediante el orden.",
+      "numerology.number.5": "Un camino de vida de libertad, adaptabilidad y aventura, animado por el cambio y la nueva experiencia.",
+      "numerology.number.6": "Un camino de vida de responsabilidad, cuidado y armonía, entregado a la familia, el servicio y el cuidado.",
+      "numerology.number.7": "Un camino de vida de introspección, análisis y búsqueda, atraído por la sabiduría y las verdades más hondas.",
+      "numerology.number.8": "Un camino de vida de ambición, autoridad y logro, orientado al dominio material y al éxito.",
+      "numerology.number.9": "Un camino de vida de compasión, idealismo y generosidad, entregado a la humanidad y al bien común.",
+      "numerology.number.11": "Un camino de vida maestro de intuición e inspiración, llamado a iluminar y elevar a los demás.",
+      "numerology.number.22": "Un camino de vida maestro del constructor visionario, capaz de convertir altos ideales en realidad duradera.",
+      "numerology.number.33": "Un camino de vida maestro de devoción altruista y sanación, que encarna la compasión mediante el servicio a todos."
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "dominoes.tile.0_0": "Der leere Stein warnt vor Enttäuschung, Verlust oder Plänen, die ins Leere laufen, und mahnt zu Vorsicht und Geduld.",
+      "dominoes.tile.1_0": "Ein einzelner Punkt deutet auf Skandal, Gerede oder Ärger, den ein unzuverlässiger Bekannter heraufbeschwört.",
+      "dominoes.tile.1_1": "Eintracht und Zuneigung herrschen vor und verheißen eine glückliche, gefestigte Beziehung und häusliche Zufriedenheit.",
+      "dominoes.tile.2_0": "Eine angenehme Reise oder ein geselliger Ausflug steht bevor, doch hüte dich vor leichtfertigen Ausgaben.",
+      "dominoes.tile.2_1": "In Geldangelegenheiten zeichnet sich Besserung ab, mit Hilfe durch einen Freund oder neuen Bekannten.",
+      "dominoes.tile.2_2": "Erfolg und Wachstum sind begünstigt und bringen Lohn durch Partnerschaft und gemeinsame Anstrengung.",
+      "dominoes.tile.3_0": "Unerwartete Nachrichten oder ein plötzlicher Streit könnten dich beunruhigen, wäge deine Worte daher mit Bedacht.",
+      "dominoes.tile.3_1": "Nützliche Nachrichten oder eine kluge Idee treffen ein, doch hüte dich vor Unbedachtsamkeit in Liebesdingen.",
+      "dominoes.tile.3_2": "Stetiger Fortschritt und Vorsicht dienen dir gut, besonders in Geld- und Vermögensangelegenheiten.",
+      "dominoes.tile.3_3": "Ein Wandel des Glücks oder der Umstände steht bevor und berührt oft Herzensangelegenheiten.",
+      "dominoes.tile.4_0": "Enttäuschung oder ein kleiner Rückschlag zeichnet sich ab, doch er vergeht, wenn du geduldig bleibst.",
+      "dominoes.tile.4_1": "Schulden mögen getilgt und Geldsorgen gelindert werden und bringen bald willkommene Erleichterung.",
+      "dominoes.tile.4_2": "Eine Wende zum Besseren steht bevor, mit Geld oder guten Nachrichten, die unerwartet eintreffen.",
+      "dominoes.tile.4_3": "Häusliches Glück und ein Glücksfall belohnen deine beständigen Bemühungen.",
+      "dominoes.tile.4_4": "Eine Zeit der Festlichkeit, Feier und geteilten Freude mit Freunden oder Familie naht.",
+      "dominoes.tile.5_0": "Spende einem anderen Trost und sei achtsam, denn ein seelisches oder finanzielles Tief mag rasch vergehen.",
+      "dominoes.tile.5_1": "Eine neue Liebe oder gesellige Verabredung bringt Aufregung, mag sich aber als flüchtig erweisen.",
+      "dominoes.tile.5_2": "Geduld ist nötig, da Pläne langsam reifen, doch ein hilfreicher Besucher bringt Ermutigung.",
+      "dominoes.tile.5_3": "Willkommene Nachrichten und eine friedliche Pause verheißen Ruhe nach jüngsten Sorgen.",
+      "dominoes.tile.5_4": "Finanzieller Gewinn ist wahrscheinlich, doch hüte dich vor übereilten Entscheidungen und Selbstüberschätzung.",
+      "dominoes.tile.5_5": "Vorteilhafter Wandel und neue Gelegenheit treffen ein, besonders in Geschäft oder Beruf.",
+      "dominoes.tile.6_0": "Eine Warnung vor Verlust oder Trennung; Altes endet und macht Platz für Neues.",
+      "dominoes.tile.6_1": "Eine Versöhnung, Heirat oder glückliche Wiedervereinigung ist vorhergesagt und heilt alte Zerwürfnisse.",
+      "dominoes.tile.6_2": "Glück und redliches Handeln bringen Erfolg, besonders durch Reisen oder Handel.",
+      "dominoes.tile.6_3": "Eine angenehme Reise, ein Geschenk oder eine großzügige Geste hebt deine Stimmung und deine Aussichten.",
+      "dominoes.tile.6_4": "Ein günstiger Ausgang in rechtlichen oder geschäftlichen Angelegenheiten belohnt deine Ausdauer.",
+      "dominoes.tile.6_5": "Erwiesene oder empfangene Güte bringt Trost, und bescheidener Fortschritt folgt.",
+      "dominoes.tile.6_6": "Der höchste Stein verheißt großen Erfolg, Wohlstand und die Erfüllung deiner liebsten Wünsche."
+    }
+  }
+}

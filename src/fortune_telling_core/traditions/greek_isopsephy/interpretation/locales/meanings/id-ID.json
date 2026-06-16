@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "greek_isopsephy.result.total": "Jumlah isopsefi, yang diperoleh dengan menjumlahkan nilai numerik huruf-huruf sebuah nama Yunani, mengungkapkan inti numerik tersembunyi yang diyakini menyingkapkan karakter dan makna mendasarnya."
+    }
+  }
+}

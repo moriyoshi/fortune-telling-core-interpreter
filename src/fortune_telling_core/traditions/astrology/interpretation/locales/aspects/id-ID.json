@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "conjunction": "Konjungsi menyatukan kedua benda langit, meleburkan energi mereka menjadi satu fokus tunggal yang menguat dan mewarnai cara masing-masing terungkap.",
+      "opposition": "Oposisi merentangkan kedua benda langit menjadi sebuah polaritas, menuntut keseimbangan dan kesadaran di antara tarikan yang berlawanan yang sering terwujud melalui orang lain.",
+      "trine": "Trine menyatukan kedua benda langit dalam aliran yang mudah dan harmonis, sebuah anugerah bakat dan dukungan tanpa upaya yang hanya meminta untuk dimanfaatkan.",
+      "square": "Square menempatkan kedua benda langit dalam gesekan, sebuah ketegangan yang menjengkelkan namun mendorong pertumbuhan, pencapaian, dan pembentukan karakter.",
+      "sextile": "Sextile menawarkan saluran yang mendukung dan terbuka di antara kedua benda langit, sebuah peluang yang memberi imbalan bagi inisiatif dan upaya yang lembut."
+    }
+  }
+}

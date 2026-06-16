@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "hi-IN",
+  "templates": {
+    "ten_god": "{label} यह वर्णन करता है कि यह तना दिवस-स्वामी से किस प्रकार संबंधित है।"
+  },
+  "vocab": {
+    "labels": {
+      "friend": "मित्र",
+      "rob_wealth": "धन-हरण",
+      "eating_god": "भोजन-देव",
+      "hurting_officer": "आहत अधिकारी",
+      "indirect_wealth": "अप्रत्यक्ष धन",
+      "direct_wealth": "प्रत्यक्ष धन",
+      "seven_killings": "सप्त-वध",
+      "direct_officer": "प्रत्यक्ष अधिकारी",
+      "indirect_resource": "अप्रत्यक्ष संसाधन",
+      "direct_resource": "प्रत्यक्ष संसाधन"
+    }
+  }
+}

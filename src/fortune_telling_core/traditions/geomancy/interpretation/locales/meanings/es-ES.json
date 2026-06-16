@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "locale": "es-ES",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "geomancy.figure.via": "Via señala cambio, movimiento y viajes, marcando un punto de inflexión donde un camino se cierra y otro se abre.",
+      "geomancy.figure.cauda_draconis": "Cauda Draconis marca finales y partidas, favoreciendo el desprendimiento de lo concluido aunque deje desorden a su paso.",
+      "geomancy.figure.puer": "Puer denota una energía juvenil e impulsiva que trae audacia y acción rápida, pero también impulsividad y conflicto.",
+      "geomancy.figure.fortuna_minor": "Fortuna Minor trae una fortuna fugaz y modesta que favorece la acción rápida emprendida con ayuda ajena más que la ganancia duradera.",
+      "geomancy.figure.caput_draconis": "Caput Draconis anuncia comienzos y oportunidades nuevas, un umbral auspicioso para nuevas empresas y el crecimiento.",
+      "geomancy.figure.coniunctio": "Coniunctio significa unión, encuentros y asociaciones, reuniendo personas, asuntos o ideas para bien o para mal.",
+      "geomancy.figure.acquisitio": "Acquisitio es una figura de ganancia y provecho, que promete la adquisición exitosa de riqueza, bienes o fines deseados.",
+      "geomancy.figure.rubeus": "Rubeus advierte de pasión, ira y engaño, una figura desfavorable que conviene manejar con cautela y contención.",
+      "geomancy.figure.puella": "Puella significa armonía, belleza y afecto, una figura amable y favorable, especialmente en los asuntos de amor y placer.",
+      "geomancy.figure.amissio": "Amissio denota pérdida y desprendimiento, desfavorable para conservar las cosas pero útil cuando lo que se busca es soltar.",
+      "geomancy.figure.carcer": "Carcer representa el encierro, la demora y la restricción, fijando los asuntos en su sitio y aconsejando paciencia.",
+      "geomancy.figure.laetitia": "Laetitia es una figura gozosa de felicidad, salud y esperanza, que eleva el ánimo y favorece el progreso ascendente.",
+      "geomancy.figure.fortuna_maior": "Fortuna Maior trae una gran y duradera buena fortuna, un éxito conquistado mediante la propia fuerza firme y los recursos interiores.",
+      "geomancy.figure.albus": "Albus significa claridad, paz y sabiduría, una figura serena y favorable, idónea para el pensamiento, el consejo y el juicio prudente.",
+      "geomancy.figure.tristitia": "Tristitia denota pena, penalidad y melancolía, una figura descendente que aconseja resistir a través de tiempos difíciles.",
+      "geomancy.figure.populus": "Populus representa la multitud o la reunión, una figura neutra y pasiva que refleja las influencias circundantes sin actuar por sí misma."
+    }
+  }
+}

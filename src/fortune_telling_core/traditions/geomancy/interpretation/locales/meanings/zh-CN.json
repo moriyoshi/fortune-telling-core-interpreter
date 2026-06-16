@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "locale": "zh-CN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "geomancy.figure.via": "Via（道路）示意变化、移动与旅程，标志着一条路关闭、另一条路开启的转折点。",
+      "geomancy.figure.cauda_draconis": "Cauda Draconis（龙尾）标志着终结与离去，宜于放下已了之事，但或会留下身后的纷乱。",
+      "geomancy.figure.puer": "Puer（少年）喻示年少倔强的能量，带来胆识与迅疾的行动，却也伴有冲动与冲突。",
+      "geomancy.figure.fortuna_minor": "Fortuna Minor（小吉）带来短暂而微薄的好运，宜于借外力速行而非长久之得。",
+      "geomancy.figure.caput_draconis": "Caput Draconis（龙首）预告开端与崭新的机遇，是新事业与成长的吉祥门槛。",
+      "geomancy.figure.coniunctio": "Coniunctio（结合）象征联合、相会与伙伴关系，将人、事或想法聚合，或吉或凶。",
+      "geomancy.figure.acquisitio": "Acquisitio（获得）是收获与利益之象，预示成功获取财富、货物或所求之事。",
+      "geomancy.figure.rubeus": "Rubeus（赤红）警示激情、愤怒与欺骗，是不利之象，最宜谨慎克制以应对。",
+      "geomancy.figure.puella": "Puella（少女）象征和谐、美与情爱，是温柔而吉利之象，尤在爱情与欢愉之事上。",
+      "geomancy.figure.amissio": "Amissio（失去）喻示损失与放手，不利于保有事物，但当所求为释放时则有所助益。",
+      "geomancy.figure.carcer": "Carcer（牢狱）代表囚禁、延迟与束缚，将事物困于原地，劝人须有耐心。",
+      "geomancy.figure.laetitia": "Laetitia（喜悦）是欢乐之象，主幸福、健康与希望，提振心神，利于向上的进展。",
+      "geomancy.figure.fortuna_maior": "Fortuna Maior（大吉）带来宏大而持久的好运，凭自身稳健的力量与内在资源赢得成功。",
+      "geomancy.figure.albus": "Albus（洁白）象征清明、安宁与智慧，是平和吉利之象，宜于思考、商议与审慎的判断。",
+      "geomancy.figure.tristitia": "Tristitia（悲伤）喻示忧愁、艰难与忧郁，是向下之象，劝人于困境中坚忍。",
+      "geomancy.figure.populus": "Populus（众人）代表人群或聚集，是中性而被动之象，映照四周的影响而不自行其是。"
+    }
+  }
+}

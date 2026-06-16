@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "locale": "pt-BR",
+  "templates": {
+    "placement": "{body} na casa {house} enfatiza {topics}."
+  },
+  "vocab": {
+    "bodies": {
+      "sun": "Sol",
+      "moon": "Lua",
+      "mercury": "Mercúrio",
+      "venus": "Vênus",
+      "mars": "Marte",
+      "jupiter": "Júpiter",
+      "saturn": "Saturno",
+      "uranus": "Urano",
+      "neptune": "Netuno",
+      "pluto": "Plutão",
+      "north_node": "Nodo Norte",
+      "south_node": "Nodo Sul",
+      "ascendant": "Ascendente",
+      "midheaven": "Meio do Céu"
+    },
+    "topics": {
+      "1": "identidade, corpo, abordagem",
+      "2": "recursos, valores, segurança",
+      "3": "comunicação, irmãos, aprendizado",
+      "4": "lar, raízes, vida-privada",
+      "5": "criatividade, prazer, filhos",
+      "6": "trabalho, saúde, serviço",
+      "7": "parceria, contratos, outros",
+      "8": "recursos-compartilhados, perda, transformação",
+      "9": "crença, viagem, aprendizado-superior",
+      "10": "vocação, status, vida-pública",
+      "11": "amigos, esperanças, grupos",
+      "12": "retiro, assuntos-ocultos, autossabotagem"
+    }
+  }
+}

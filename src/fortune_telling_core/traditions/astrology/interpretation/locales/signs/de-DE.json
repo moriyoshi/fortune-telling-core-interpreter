@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {
+    "placement": "{body} in {sign} drückt sich durch {element}-Qualitäten der {modality}-Modalität aus.",
+    "retrograde_suffix": " Rückläufige Bewegung wendet den Ausdruck zur Überprüfung nach innen."
+  },
+  "vocab": {
+    "signs": {
+      "aries": "Widder",
+      "taurus": "Stier",
+      "gemini": "Zwillinge",
+      "cancer": "Krebs",
+      "leo": "Löwe",
+      "virgo": "Jungfrau",
+      "libra": "Waage",
+      "scorpio": "Skorpion",
+      "sagittarius": "Schütze",
+      "capricorn": "Steinbock",
+      "aquarius": "Wassermann",
+      "pisces": "Fische"
+    },
+    "bodies": {
+      "sun": "Sonne",
+      "moon": "Mond",
+      "mercury": "Merkur",
+      "venus": "Venus",
+      "mars": "Mars",
+      "jupiter": "Jupiter",
+      "saturn": "Saturn",
+      "uranus": "Uranus",
+      "neptune": "Neptun",
+      "pluto": "Pluto",
+      "north_node": "Aufsteigender Mondknoten",
+      "south_node": "Absteigender Mondknoten",
+      "ascendant": "Aszendent",
+      "midheaven": "Medium Coeli"
+    },
+    "elements": {
+      "fire": "Feuer",
+      "earth": "Erde",
+      "air": "Luft",
+      "water": "Wasser"
+    },
+    "modalities": {
+      "cardinal": "kardinal",
+      "fixed": "fix",
+      "mutable": "veränderlich"
+    }
+  }
+}

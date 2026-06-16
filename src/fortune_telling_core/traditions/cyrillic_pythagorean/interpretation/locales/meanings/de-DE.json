@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cyrillic_pythagorean.number.1": "Die Eins kennzeichnet den Pionier und drückt Unabhängigkeit, Initiative und den Willen zur Führung aus.",
+      "cyrillic_pythagorean.number.2": "Die Zwei kennzeichnet den Friedensstifter und drückt Ausgeglichenheit, Partnerschaft und stille Empfänglichkeit aus.",
+      "cyrillic_pythagorean.number.3": "Die Drei kennzeichnet den Kommunikator und drückt Kreativität, Geselligkeit und freudigen Selbstausdruck aus.",
+      "cyrillic_pythagorean.number.4": "Die Vier kennzeichnet den Erbauer und drückt Stabilität, Fleiß und eine praktische Liebe zur Ordnung aus.",
+      "cyrillic_pythagorean.number.5": "Die Fünf kennzeichnet den Suchenden und drückt Freiheit, Anpassungsfähigkeit und einen neugierigen Hunger nach Erfahrung aus.",
+      "cyrillic_pythagorean.number.6": "Die Sechs kennzeichnet den Fürsorglichen und drückt Verantwortung, Mitgefühl und Hingabe an Familie und Gemeinschaft aus.",
+      "cyrillic_pythagorean.number.7": "Die Sieben kennzeichnet den Denker und drückt Analyse, Innenschau und die Suche nach verborgener Wahrheit aus.",
+      "cyrillic_pythagorean.number.8": "Die Acht kennzeichnet den Erfolgreichen und drückt Autorität, Ehrgeiz und die Fähigkeit zur materiellen Meisterschaft aus.",
+      "cyrillic_pythagorean.number.9": "Die Neun kennzeichnet den Humanisten und drückt Idealismus, Mitgefühl und eine großzügige, weitreichende Vision aus."
+    }
+  }
+}

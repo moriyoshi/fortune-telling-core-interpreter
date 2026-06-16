@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "locale": "pt-BR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "chaldean_numerology.number.1": "Regido pelo Sol, o um significa liderança, originalidade e um forte impulso autossuficiente para criar.",
+      "chaldean_numerology.number.2": "Regido pela Lua, o dois significa sensibilidade, diplomacia e um dom intuitivo para a cooperação.",
+      "chaldean_numerology.number.3": "Regido por Júpiter, o três significa otimismo, autoexpressão e uma ambição disciplinada de crescer.",
+      "chaldean_numerology.number.4": "Regido por Urano, o quatro significa pensamento não convencional, inquietação e uma silenciosa rebelião contra as convenções.",
+      "chaldean_numerology.number.5": "Regido por Mercúrio, o cinco significa versatilidade, raciocínio rápido e um amor inquieto pela comunicação e pela mudança.",
+      "chaldean_numerology.number.6": "Regido por Vênus, o seis significa harmonia, afeto e uma devoção acolhedora ao lar e à beleza.",
+      "chaldean_numerology.number.7": "Regido por Netuno, o sete significa introspecção, imaginação e uma busca mística por um sentido mais profundo.",
+      "chaldean_numerology.number.8": "Regido por Saturno, o oito significa disciplina, ambição material e uma resiliência testada nos assuntos mundanos.",
+      "chaldean_numerology.number.9": "Regido por Marte, o nove significa coragem, determinação e um impulso apaixonado rumo à ação ousada."
+    }
+  }
+}

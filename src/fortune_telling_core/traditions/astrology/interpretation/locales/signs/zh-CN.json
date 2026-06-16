@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "zh-CN",
+  "templates": {
+    "placement": "{body}落于{sign}，以{element}{modality}的特质表现。",
+    "retrograde_suffix": " 逆行使这种表现转向内在，加以审视与回顾。"
+  },
+  "vocab": {
+    "signs": {
+      "aries": "白羊座",
+      "taurus": "金牛座",
+      "gemini": "双子座",
+      "cancer": "巨蟹座",
+      "leo": "狮子座",
+      "virgo": "处女座",
+      "libra": "天秤座",
+      "scorpio": "天蝎座",
+      "sagittarius": "射手座",
+      "capricorn": "摩羯座",
+      "aquarius": "水瓶座",
+      "pisces": "双鱼座"
+    },
+    "bodies": {
+      "sun": "太阳",
+      "moon": "月亮",
+      "mercury": "水星",
+      "venus": "金星",
+      "mars": "火星",
+      "jupiter": "木星",
+      "saturn": "土星",
+      "uranus": "天王星",
+      "neptune": "海王星",
+      "pluto": "冥王星",
+      "north_node": "北交点",
+      "south_node": "南交点",
+      "ascendant": "上升点",
+      "midheaven": "天顶"
+    },
+    "elements": {
+      "fire": "火",
+      "earth": "土",
+      "air": "风",
+      "water": "水"
+    },
+    "modalities": {
+      "cardinal": "基本宫",
+      "fixed": "固定宫",
+      "mutable": "变动宫"
+    }
+  }
+}

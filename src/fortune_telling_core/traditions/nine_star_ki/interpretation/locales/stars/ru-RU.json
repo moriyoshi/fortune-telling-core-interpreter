@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "locale": "ru-RU",
+  "templates": {
+    "element_line": "{cjk} связан с стихией {element} {color} цвета и триграммой {trigram}.",
+    "natal_line": "{cjk} является натальным влиянием Девяти звёзд Ки."
+  },
+  "vocab": {
+    "colors": {
+      "white": "белого",
+      "black": "чёрного",
+      "jade": "нефритового",
+      "green": "зелёного",
+      "yellow": "жёлтого",
+      "red": "красного",
+      "purple": "пурпурного"
+    },
+    "elements": {
+      "water": "воды",
+      "earth": "земли",
+      "wood": "дерева",
+      "metal": "металла",
+      "fire": "огня"
+    },
+    "trigrams": {
+      "kan": "кань",
+      "kun": "кунь",
+      "zhen": "чжэнь",
+      "xun": "сюнь",
+      "center": "центр",
+      "qian": "цянь",
+      "dui": "дуй",
+      "gen": "гэнь",
+      "li": "ли"
+    }
+  }
+}

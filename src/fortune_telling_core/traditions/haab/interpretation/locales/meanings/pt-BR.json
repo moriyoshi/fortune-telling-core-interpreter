@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "locale": "pt-BR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "haab.month.pop": "Pop, a esteira tecida da autoridade, abre o ano Haab' com liderança, ordem comunitária e um novo mandato para começar.",
+      "haab.month.wo": "Wo' reúne as nuvens escuras antes das chuvas, um tempo de preparação silenciosa, paciência ritual e acúmulo oculto de força.",
+      "haab.month.sip": "Sip pertence à caça e aos senhores da floresta, despertando o instinto, o estado de alerta e a busca pelo que você precisa.",
+      "haab.month.sotz": "Sotz', o morcego da caverna, enxerga na escuridão — favorecendo a intuição, a sabedoria noturna e a confiança no invisível.",
+      "haab.month.sek": "Sek equilibra o céu e a terra, um intervalo estável e fértil para cuidar das abelhas, da doçura e do aumento constante da abundância.",
+      "haab.month.xul": "Xul, o cão que guia as almas, marca finais e transições, iluminando o caminho através do encerramento de um ciclo.",
+      "haab.month.yaxkin": "Yaxk'in, o novo sol, traz calor, amadurecimento e clareza — uma estação luminosa para secar, concluir e levar as coisas à frutificação.",
+      "haab.month.mol": "Mol é a reunião e o atamento das águas e do jade, exigindo coleta, esforço comunitário e consolidação paciente.",
+      "haab.month.chen": "Ch'en, o poço e a lua, recorre às águas ocultas, ao mistério e às profundas fontes interiores do sentimento e do sonho.",
+      "haab.month.yax": "Yax, o primeiro e o verde, renova todas as coisas — o fresco azul-esverdeado dos começos, do crescimento e da estrela de Vênus.",
+      "haab.month.sak": "Sak, o branco, traz a luz da aurora e a pureza, limpando o caminho branco para a honestidade, a recuperação e o ar fresco.",
+      "haab.month.keh": "Keh, o veado vermelho, carrega vigor, coragem e a vitalidade selvagem da floresta, impelindo um movimento rápido e animado.",
+      "haab.month.mak": "Mak, o cercado e a tampa, cobre e protege — um tempo abrigado e interior para guardar o que não deve ser perturbado.",
+      "haab.month.kankin": "K'ank'in amadurece ao amarelo dourado, a maturidade da colheita tardia temperada pelo sóbrio lembrete dos limites dado pelo cão do submundo.",
+      "haab.month.muwan": "Muwan, a coruja-chilreadora das nuvens de chuva, fala de profecia, cacau e da tempestade que se forma — atente aos presságios e sinais.",
+      "haab.month.pax": "Pax faz soar o tambor do plantio, música para a semeadura e a força do jaguar, reunindo coragem para a grande empreitada.",
+      "haab.month.kayab": "K'ayab, a tartaruga, canta a canção de chuva da fertilidade e da renovação, marcando a virada do ano rumo às novas águas.",
+      "haab.month.kumku": "Kumk'u, o celeiro da antiga terra-crocodilo, guarda a abundância acumulada — a colheita armazenada, a sabedoria da idade, o ano quase pleno.",
+      "haab.month.wayeb": "Wayeb', os cinco dias sem nome, é um limiar liminar de cautela e descanso; recolha-se, mantenha-se quieto e prepare-se para a renovação."
+    }
+  }
+}

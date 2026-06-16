@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "sukuyo.mansion.ashvini": "Ashvinī (婁宿) nhanh nhẹn và tiên phong, một tinh tú chữa lành, tràn đầy sinh lực, khởi đầu táo bạo và tiến bước với sự chủ động mau lẹ.",
+      "sukuyo.mansion.bharani": "Bharaṇī (胃宿) gánh vác trọng trách với sự bền bỉ và kiềm chế, một tinh tú của sự chuyển hóa, kỷ luật và sự trưởng thành đạt được bằng gian khó.",
+      "sukuyo.mansion.krittika": "Kṛttikā (昴宿) sắc bén và rực lửa, một tinh tú cắt gọt, thanh tẩy của sự phán đoán sắc sảo và lòng chân thật không nao núng.",
+      "sukuyo.mansion.rohini": "Rohiṇī (畢宿) xinh đẹp và phồn thực, một tinh tú quyến rũ của sự tăng trưởng, sức hấp dẫn và vẻ duyên dáng vật chất.",
+      "sukuyo.mansion.mrigashira": "Mṛgaśira (觜宿) là kẻ tìm kiếm dịu dàng, một tinh tú tò mò, kiếm tìm, rong ruổi để theo đuổi điều nó khao khát.",
+      "sukuyo.mansion.ardra": "Ārdrā (参宿) là cơn bão, một tinh tú mãnh liệt của sự đảo lộn, chiều sâu cảm xúc và sự bứt phá sau giông tố.",
+      "sukuyo.mansion.punarvasu": "Punarvasu (井宿) là sự đổi mới và trở về, một tinh tú lạc quan của bến đỗ bình yên, sự hồi phục và những khởi đầu mới.",
+      "sukuyo.mansion.pushya": "Puṣya (鬼宿) nuôi dưỡng và che chở, một tinh tú tận tụy, thịnh vượng được xem là vô cùng cát tường.",
+      "sukuyo.mansion.ashlesha": "Āśleṣā (柳宿) là con rắn cuộn mình, một tinh tú trực giác, mưu trí của sự thấu suốt sắc bén và sức mạnh ràng buộc.",
+      "sukuyo.mansion.magha": "Maghā (星宿) là ngai vàng của tổ tiên, một tinh tú kiêu hãnh, đường bệ của quyền uy, di sản và danh dự.",
+      "sukuyo.mansion.purva_phalguni": "Pūrva Phalgunī (張宿) là ngôi sao của lạc thú, một tinh tú thư thái, lãng mạn của nhàn hạ, sáng tạo và sự tận hưởng.",
+      "sukuyo.mansion.uttara_phalguni": "Uttara Phalgunī (翼宿) là vị ân nhân hào phóng, một tinh tú đáng tin của tình bạn, giao ước và sự hỗ trợ bền vững.",
+      "sukuyo.mansion.hasta": "Hasta (軫宿) là bàn tay khéo léo, một tinh tú tài tình, lanh lợi của thủ công, sự khéo léo và thành tựu thiết thực.",
+      "sukuyo.mansion.chitra": "Chitrā (角宿) là viên ngọc rực rỡ, một tinh tú của thiết kế, vẻ đẹp và tài nghệ chói lọi, được chế tác tinh xảo.",
+      "sukuyo.mansion.svati": "Svātī (亢宿) là ngọn gió, một tinh tú độc lập, linh hoạt của sự chuyển động, giao thương và sự tự do tự định đoạt.",
+      "sukuyo.mansion.vishakha": "Viśākhā (氐宿) hướng đến mục tiêu, một tinh tú quyết tâm của tham vọng, sự tập trung và mục đích chín muồi tiến tới đích.",
+      "sukuyo.mansion.anuradha": "Anurādhā (房宿) là tình bạn tận tụy, một tinh tú hợp tác của lòng trung thành, thành công giữa mọi người và vận may nơi xứ lạ.",
+      "sukuyo.mansion.jyeshtha": "Jyeṣṭhā (心宿) là bậc trưởng thượng, một tinh tú can đảm của thâm niên, sự che chở và quyền lực được nắm giữ thầm lặng.",
+      "sukuyo.mansion.mula": "Mūla (尾宿) là cội rễ, một tinh tú điều tra, bứng gốc và thăm dò để chạm tới tận lõi của mọi sự.",
+      "sukuyo.mansion.purva_ashadha": "Pūrva Āṣāḍhā (箕宿) là kẻ bất khả chiến bại, một tinh tú thuyết phục của chiến thắng sớm và niềm xác tín không lay chuyển.",
+      "sukuyo.mansion.uttara_ashadha": "Uttara Āṣāḍhā (斗宿) là chiến thắng bền lâu, một tinh tú ngay thẳng của sự chính trực, bền bỉ và khả năng lãnh đạo trường tồn.",
+      "sukuyo.mansion.shravana": "Śravaṇa (女宿) là người lắng nghe, một tinh tú uyên bác của sự chú tâm, sự kết nối và danh tiếng ngày càng lớn.",
+      "sukuyo.mansion.dhanishtha": "Dhaniṣṭhā (虚宿) là chiếc trống, một tinh tú nhịp nhàng của của cải, âm nhạc, danh vọng và sinh khí dồi dào.",
+      "sukuyo.mansion.shatabhisha": "Śatabhiṣā (危宿) là một trăm thầy thuốc, một tinh tú kín đáo, huyền bí của sự chữa lành và tri thức ẩn giấu.",
+      "sukuyo.mansion.purva_bhadrapada": "Pūrva Bhādrapadā (室宿) nhiệt thành và lý tưởng, một tinh tú mãnh liệt của niềm xác tín và ngọn lửa chuyển hóa.",
+      "sukuyo.mansion.uttara_bhadrapada": "Uttara Bhādrapadā (壁宿) là dòng nước sâu, một tinh tú điềm tĩnh, minh triết của chiều sâu, lòng kiên nhẫn và lời khuyên vững vàng.",
+      "sukuyo.mansion.revati": "Revatī (奎宿) là kẻ nuôi dưỡng, một tinh tú dịu dàng của sự hoàn tất, hành trình an toàn và sự thịnh vượng nhân hậu."
+    }
+  }
+}

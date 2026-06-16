@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "geomancy.figure.via": "Via signale le changement, le mouvement et les voyages, marquant un tournant où un chemin se ferme et un autre s'ouvre.",
+      "geomancy.figure.cauda_draconis": "Cauda Draconis marque les fins et les départs, favorisant le lâcher-prise de ce qui est achevé, même si elle peut laisser le désordre dans son sillage.",
+      "geomancy.figure.puer": "Puer dénote une énergie juvénile et impétueuse qui apporte audace et action rapide, mais aussi impulsivité et conflit.",
+      "geomancy.figure.fortuna_minor": "Fortuna Minor apporte une fortune fugace et modeste qui favorise l'action prompte menée avec une aide extérieure plutôt qu'un gain durable.",
+      "geomancy.figure.caput_draconis": "Caput Draconis annonce les commencements et les opportunités nouvelles, seuil de bon augure pour les nouvelles entreprises et la croissance.",
+      "geomancy.figure.coniunctio": "Coniunctio signifie l'union, les rencontres et les partenariats, rassemblant gens, affaires ou idées pour le meilleur ou pour le pire.",
+      "geomancy.figure.acquisitio": "Acquisitio est une figure de gain et de profit, promettant l'acquisition réussie de richesse, de biens ou des fins désirées.",
+      "geomancy.figure.rubeus": "Rubeus met en garde contre la passion, la colère et la tromperie, figure défavorable à manier avec prudence et retenue.",
+      "geomancy.figure.puella": "Puella signifie l'harmonie, la beauté et l'affection, figure douce et favorable surtout en matière d'amour et de plaisir.",
+      "geomancy.figure.amissio": "Amissio dénote la perte et le lâcher-prise, défavorable pour conserver les choses mais utile lorsque c'est la libération que l'on cherche.",
+      "geomancy.figure.carcer": "Carcer représente l'enfermement, le retard et la restriction, figeant les affaires en place et conseillant la patience.",
+      "geomancy.figure.laetitia": "Laetitia est une figure joyeuse de bonheur, de santé et d'espoir, qui élève l'esprit et favorise les progrès ascendants.",
+      "geomancy.figure.fortuna_maior": "Fortuna Maior apporte une grande et durable bonne fortune, succès remporté par sa propre force constante et ses ressources intérieures.",
+      "geomancy.figure.albus": "Albus signifie la clarté, la paix et la sagesse, figure calme et favorable propice à la réflexion, au conseil et au jugement réfléchi.",
+      "geomancy.figure.tristitia": "Tristitia dénote le chagrin, l'épreuve et la mélancolie, figure descendante qui conseille l'endurance dans les temps difficiles.",
+      "geomancy.figure.populus": "Populus représente la foule ou le rassemblement, figure neutre et passive qui reflète les influences environnantes sans agir de son propre chef."
+    }
+  }
+}

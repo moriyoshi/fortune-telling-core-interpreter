@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "hi-IN",
+  "templates": {
+    "placement": "{sign} में {body} अपनी अभिव्यक्ति {element} तत्व के {modality} गुणों के माध्यम से करता है।",
+    "retrograde_suffix": " वक्री गति अभिव्यक्ति को पुनरावलोकन हेतु भीतर की ओर मोड़ देती है।"
+  },
+  "vocab": {
+    "signs": {
+      "aries": "मेष",
+      "taurus": "वृषभ",
+      "gemini": "मिथुन",
+      "cancer": "कर्क",
+      "leo": "सिंह",
+      "virgo": "कन्या",
+      "libra": "तुला",
+      "scorpio": "वृश्चिक",
+      "sagittarius": "धनु",
+      "capricorn": "मकर",
+      "aquarius": "कुंभ",
+      "pisces": "मीन"
+    },
+    "bodies": {
+      "sun": "सूर्य",
+      "moon": "चंद्र",
+      "mercury": "बुध",
+      "venus": "शुक्र",
+      "mars": "मंगल",
+      "jupiter": "बृहस्पति",
+      "saturn": "शनि",
+      "uranus": "अरुण",
+      "neptune": "वरुण",
+      "pluto": "यम",
+      "north_node": "उत्तर नोड (राहु)",
+      "south_node": "दक्षिण नोड (केतु)",
+      "ascendant": "लग्न",
+      "midheaven": "मध्यगगन"
+    },
+    "elements": {
+      "fire": "अग्नि",
+      "earth": "पृथ्वी",
+      "air": "वायु",
+      "water": "जल"
+    },
+    "modalities": {
+      "cardinal": "चर",
+      "fixed": "स्थिर",
+      "mutable": "द्विस्वभाव"
+    }
+  }
+}

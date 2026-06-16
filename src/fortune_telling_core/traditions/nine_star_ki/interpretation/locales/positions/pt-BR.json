@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "locale": "pt-BR",
+  "templates": {},
+  "vocab": {
+    "texts": {
+      "principal": "A estrela principal descreve o padrão do ano natal.",
+      "monthly": "A estrela mensal refina o padrão natal através do mês solar.",
+      "daily": "A estrela diária registra o ciclo de escapamento do solstício para o dia.",
+      "tendency": "A estrela de tendência é derivada do palácio da estrela mensal no mapa do ano natal."
+    }
+  }
+}

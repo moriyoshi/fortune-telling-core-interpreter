@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "ru-RU",
+  "templates": {
+    "ten_god": "{label} описывает, как этот ствол соотносится с Господином дня."
+  },
+  "vocab": {
+    "labels": {
+      "friend": "Друг",
+      "rob_wealth": "Грабитель богатства",
+      "eating_god": "Бог питания",
+      "hurting_officer": "Ранящий чиновник",
+      "indirect_wealth": "Косвенное богатство",
+      "direct_wealth": "Прямое богатство",
+      "seven_killings": "Семь убийц",
+      "direct_officer": "Прямой чиновник",
+      "indirect_resource": "Косвенный ресурс",
+      "direct_resource": "Прямой ресурс"
+    }
+  }
+}

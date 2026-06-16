@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "thaksa.graha.athit": "Mặt Trời cai quản sức sống, uy quyền và ý thức cốt lõi về bản thân, neo giữ vị thế của một người trong hệ thống Thaksa.",
+      "thaksa.graha.chan": "Mặt Trăng phản ánh cảm xúc, trực giác và khí chất nuôi dưỡng định hình đời sống nội tâm trong chiêm tinh Thaksa.",
+      "thaksa.graha.angkhan": "Sao Hỏa cung cấp động lực, lòng can đảm và năng lượng quả quyết thúc đẩy hành động và tranh đấu trong hệ thống Thaksa.",
+      "thaksa.graha.phut": "Sao Thủy cai quản trí tuệ, lời nói và sự linh hoạt, đánh dấu khả năng học hỏi và giao tiếp trong Thaksa.",
+      "thaksa.graha.sao": "Sao Thổ biểu thị kỷ luật, gian khó và sức chịu đựng, thử thách sự kiên nhẫn và rèn ý chí lâu dài trong chiêm tinh Thaksa.",
+      "thaksa.graha.pharuehat": "Sao Mộc ban cho trí tuệ, vận may và lòng nhân từ, mở rộng cơ hội và sự dẫn dắt đạo đức trong hệ thống Thaksa.",
+      "thaksa.graha.rahu": "Rahu hiện thân của biến động, ảo tưởng và thay đổi đột ngột, mang đến những khúc quanh bất ngờ và những ảnh hưởng tối tăm trong Thaksa.",
+      "thaksa.graha.suk": "Sao Kim tượng trưng cho tình yêu, cái đẹp và sự hài hòa, vun đắp lạc thú, các mối quan hệ và vẻ duyên dáng nghệ thuật trong chiêm tinh Thaksa."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "locale": "hi-IN",
+  "templates": {
+    "branch": "{cjk} {animal} {polarity} {element} की ची और गुप्त तने धारण करता है।"
+  },
+  "vocab": {
+    "elements": {
+      "wood": "काष्ठ",
+      "fire": "अग्नि",
+      "earth": "पृथ्वी",
+      "metal": "धातु",
+      "water": "जल"
+    },
+    "polarities": {
+      "yang": "यांग",
+      "yin": "यिन"
+    },
+    "animals": {
+      "Rat": "चूहा",
+      "Ox": "बैल",
+      "Tiger": "बाघ",
+      "Rabbit": "खरगोश",
+      "Dragon": "ड्रैगन",
+      "Snake": "साँप",
+      "Horse": "घोड़ा",
+      "Goat": "बकरी",
+      "Monkey": "बंदर",
+      "Rooster": "मुर्गा",
+      "Dog": "कुत्ता",
+      "Pig": "सूअर"
+    }
+  }
+}

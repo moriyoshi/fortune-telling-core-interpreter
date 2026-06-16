@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cc.can.giap": "Giáp, the yang Wood stem, signals bold pioneering drive and upright growth like a great tree reaching for the light.",
+      "cc.can.at": "Ất, the yin Wood stem, suggests gentle adaptability and quiet persistence, bending like a vine yet never breaking.",
+      "cc.can.binh": "Bính, the yang Fire stem, blazes with radiant warmth, charisma and an open, generous spirit.",
+      "cc.can.dinh": "Đinh, the yin Fire stem, glows with the steady, intimate light of a lamp, marking refined insight and devotion.",
+      "cc.can.mau": "Mậu, the yang Earth stem, stands solid and dependable as a mountain, offering stability and steadfast resolve.",
+      "cc.can.ky": "Kỷ, the yin Earth stem, nurtures like fertile soil, favouring patience, care and quiet cultivation.",
+      "cc.can.canh": "Canh, the yang Metal stem, carries the keen strength of forged iron, denoting decisiveness, justice and resolve.",
+      "cc.can.tan": "Tân, the yin Metal stem, shines like a polished jewel, marking elegance, discernment and a love of fine things.",
+      "cc.can.nham": "Nhâm, the yang Water stem, flows with the depth and ambition of a great river, embracing change and far horizons.",
+      "cc.can.quy": "Quý, the yin Water stem, moves like gentle rain or mist, suggesting intuition, sensitivity and quiet wisdom.",
+      "cc.chi.ty": "Tý, the Rat, embodies quick wit, resourcefulness and shrewd opportunism.",
+      "cc.chi.suu": "Sửu, the Ox, signifies patient endurance, diligence and unshakeable reliability.",
+      "cc.chi.dan": "Dần, the Tiger, conveys courage, dynamic energy and a commanding, fearless presence.",
+      "cc.chi.mao": "Mão, the Cat, suggests gentleness, tact and a refined love of comfort and harmony.",
+      "cc.chi.thin": "Thìn, the Dragon, radiates power, ambition and an auspicious, larger-than-life vitality.",
+      "cc.chi.ti": "Tỵ, the Snake, denotes deep wisdom, subtlety and quietly enigmatic intuition.",
+      "cc.chi.ngo": "Ngọ, the Horse, gallops with freedom, enthusiasm and restless adventurous spirit.",
+      "cc.chi.mui": "Mùi, the Goat, reflects tenderness, creativity and a peace-loving, compassionate nature.",
+      "cc.chi.than": "Thân, the Monkey, sparkles with cleverness, versatility and playful ingenuity.",
+      "cc.chi.dau": "Dậu, the Rooster, marks precision, confidence and a candid, meticulous eye for detail.",
+      "cc.chi.tuat": "Tuất, the Dog, stands for loyalty, honesty and a protective sense of justice.",
+      "cc.chi.hoi": "Hợi, the Pig, embodies sincerity, generosity and an easy-going, good-natured warmth."
+    }
+  }
+}

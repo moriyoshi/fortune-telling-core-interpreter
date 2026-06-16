@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "te-IN",
+  "templates": {
+    "placement": "{sign} లోని {body} {element} తత్త్వపు {modality} లక్షణాల ద్వారా వ్యక్తమవుతుంది.",
+    "retrograde_suffix": " వక్ర గతి ఆ వ్యక్తీకరణను పునఃపరిశీలన కోసం అంతర్ముఖంగా మళ్లిస్తుంది."
+  },
+  "vocab": {
+    "signs": {
+      "aries": "మేషం",
+      "taurus": "వృషభం",
+      "gemini": "మిథునం",
+      "cancer": "కర్కాటకం",
+      "leo": "సింహం",
+      "virgo": "కన్య",
+      "libra": "తుల",
+      "scorpio": "వృశ్చికం",
+      "sagittarius": "ధనుస్సు",
+      "capricorn": "మకరం",
+      "aquarius": "కుంభం",
+      "pisces": "మీనం"
+    },
+    "bodies": {
+      "sun": "సూర్యుడు",
+      "moon": "చంద్రుడు",
+      "mercury": "బుధుడు",
+      "venus": "శుక్రుడు",
+      "mars": "కుజుడు",
+      "jupiter": "గురుడు",
+      "saturn": "శని",
+      "uranus": "యురేనస్",
+      "neptune": "నెప్ట్యూన్",
+      "pluto": "ప్లూటో",
+      "north_node": "ఉత్తర నోడ్",
+      "south_node": "దక్షిణ నోడ్",
+      "ascendant": "లగ్నం",
+      "midheaven": "మధ్యాకాశం"
+    },
+    "elements": {
+      "fire": "అగ్ని",
+      "earth": "భూమి",
+      "air": "వాయు",
+      "water": "జలం"
+    },
+    "modalities": {
+      "cardinal": "చర",
+      "fixed": "స్థిర",
+      "mutable": "ద్విస్వభావ"
+    }
+  }
+}

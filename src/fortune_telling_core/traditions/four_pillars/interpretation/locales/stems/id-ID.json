@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {
+    "stem": "{cjk} membawa qi {element} {polarity}."
+  },
+  "vocab": {
+    "elements": {
+      "wood": "kayu",
+      "fire": "api",
+      "earth": "tanah",
+      "metal": "logam",
+      "water": "air"
+    },
+    "polarities": {
+      "yang": "yang",
+      "yin": "yin"
+    }
+  }
+}

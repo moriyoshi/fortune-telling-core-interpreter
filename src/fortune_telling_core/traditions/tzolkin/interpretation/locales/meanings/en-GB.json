@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "tzolkin.daysign.imix": "Imix signals primal beginnings, nurturing instincts and the fertile waters from which new ventures emerge.",
+      "tzolkin.daysign.ik": "Ik' carries the breath of spirit and the wind of change, inviting communication, inspiration and renewed vitality.",
+      "tzolkin.daysign.akbal": "Ak'b'al draws you into the darkened house of dreams, intuition and the inner search for hidden truth.",
+      "tzolkin.daysign.kan": "K'an embodies ripening seed and growing abundance, promising fertility, knowledge and the steady maturing of potential.",
+      "tzolkin.daysign.chikchan": "Chikchan stirs the serpent's life-force, awakening instinct, vitality and powerful spiritual energy rising within.",
+      "tzolkin.daysign.kimi": "Kimi speaks of death and release, marking transformation, letting go and graceful passage between cycles.",
+      "tzolkin.daysign.manik": "Manik' offers the healing, grasping hand, calling for cooperation, stewardship and harmony with all living things.",
+      "tzolkin.daysign.lamat": "Lamat shines as the star of abundance and harmony, scattering seeds of beauty, fertility and new growth.",
+      "tzolkin.daysign.muluk": "Muluk flows with the offering of water and emotion, awakening memory, gratitude and the call to the heart.",
+      "tzolkin.daysign.ok": "Ok embodies faithful companionship, loyalty and guidance, walking beside you with devotion through life's journey.",
+      "tzolkin.daysign.chuwen": "Chuwen weaves the artist's playful thread, inviting creativity, craft and the joyful spinning of time.",
+      "tzolkin.daysign.eb": "Eb marks the road of life and human destiny, encouraging service, humility and steady progress along your path.",
+      "tzolkin.daysign.ben": "B'en raises the upright reed of authority, championing principle, growth and the courageous defence of home and ideals.",
+      "tzolkin.daysign.ix": "Ix carries the jaguar's quiet strength, drawing on instinct, magic and a deep bond with the earth.",
+      "tzolkin.daysign.men": "Men soars as the eagle of vision, lifting the mind to higher perspective, ambition and far-reaching aspiration.",
+      "tzolkin.daysign.kib": "Kib' kindles the wisdom of the ancestors, urging reflection, forgiveness and gratitude for guidance received.",
+      "tzolkin.daysign.kaban": "Kab'an pulses with the movement of earth and thought, sparking intelligence, synchronicity and grounded insight.",
+      "tzolkin.daysign.etznab": "Etz'nab' gleams as the obsidian blade, cutting through illusion with truth, clarity and decisive discernment.",
+      "tzolkin.daysign.kawak": "Kawak gathers the storm's renewing power, heralding upheaval, cleansing and the dawning of fresh awakening.",
+      "tzolkin.daysign.ajaw": "Ajaw radiates the lord of the sun, expressing illumination, fulfilment and the flowering of higher purpose."
+    }
+  }
+}

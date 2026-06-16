@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {
+    "ten_god": "{label} menggambarkan bagaimana batang ini berhubungan dengan Penguasa Hari."
+  },
+  "vocab": {
+    "labels": {
+      "friend": "Sahabat",
+      "rob_wealth": "Perampas Harta",
+      "eating_god": "Dewa Makan",
+      "hurting_officer": "Pejabat Pelukai",
+      "indirect_wealth": "Harta Tak Langsung",
+      "direct_wealth": "Harta Langsung",
+      "seven_killings": "Tujuh Pembunuh",
+      "direct_officer": "Pejabat Langsung",
+      "indirect_resource": "Sumber Daya Tak Langsung",
+      "direct_resource": "Sumber Daya Langsung"
+    }
+  }
+}

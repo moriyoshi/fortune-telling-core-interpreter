@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "es-ES",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "name_numerology.number.1": "Un nombre que expresa independencia, empuje y liderazgo, proyectando un carácter pionero y autónomo.",
+      "name_numerology.number.2": "Un nombre que expresa tacto, sensibilidad y cooperación, proyectando un carácter dulce y armonizador.",
+      "name_numerology.number.3": "Un nombre que expresa creatividad, encanto y autoexpresión, proyectando un carácter sociable y optimista.",
+      "name_numerology.number.4": "Un nombre que expresa orden, fiabilidad y diligencia, proyectando un carácter firme y práctico.",
+      "name_numerology.number.5": "Un nombre que expresa versatilidad, libertad y curiosidad, proyectando un carácter dinámico y aventurero.",
+      "name_numerology.number.6": "Un nombre que expresa cuidado, responsabilidad y calidez, proyectando un carácter protector y entregado.",
+      "name_numerology.number.7": "Un nombre que expresa profundidad, análisis y reflexión, proyectando un carácter reflexivo y enigmático.",
+      "name_numerology.number.8": "Un nombre que expresa ambición, autoridad y competencia, proyectando un carácter seguro y consumado.",
+      "name_numerology.number.9": "Un nombre que expresa compasión, idealismo y amplitud, proyectando un carácter generoso y humanitario.",
+      "name_numerology.number.11": "Un nombre que porta la vibración maestra de la intuición y la inspiración, proyectando un carácter visionario e iluminador.",
+      "name_numerology.number.22": "Un nombre que porta la vibración maestra del maestro constructor, proyectando un carácter capaz y de largo alcance.",
+      "name_numerology.number.33": "Un nombre que porta la vibración maestra del amor altruista y la sanación, proyectando un carácter profundamente compasivo."
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "pt-BR",
+  "templates": {
+    "ten_god": "{label} descreve como este tronco se relaciona com o Mestre do Dia."
+  },
+  "vocab": {
+    "labels": {
+      "friend": "Amigo",
+      "rob_wealth": "Roubo de Riqueza",
+      "eating_god": "Deus que Come",
+      "hurting_officer": "Oficial que Fere",
+      "indirect_wealth": "Riqueza Indireta",
+      "direct_wealth": "Riqueza Direta",
+      "seven_killings": "Sete Mortes",
+      "direct_officer": "Oficial Direto",
+      "indirect_resource": "Recurso Indireto",
+      "direct_resource": "Recurso Direto"
+    }
+  }
+}

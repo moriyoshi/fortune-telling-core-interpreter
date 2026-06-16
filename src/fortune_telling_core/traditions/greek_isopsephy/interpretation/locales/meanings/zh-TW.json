@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "locale": "zh-TW",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "greek_isopsephy.result.total": "等數總和（isopsephy）藉由加總希臘名字各字母的數值而得，表達被認為能揭示其底蘊性格與意義的隱藏數字本質。"
+    }
+  }
+}

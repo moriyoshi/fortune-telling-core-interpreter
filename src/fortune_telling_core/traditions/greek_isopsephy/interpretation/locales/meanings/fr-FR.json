@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "greek_isopsephy.result.total": "Le total isopséphique, obtenu en additionnant les valeurs numériques des lettres d'un nom grec, exprime l'essence numérique cachée censée révéler son caractère et sa signification sous-jacents."
+    }
+  }
+}

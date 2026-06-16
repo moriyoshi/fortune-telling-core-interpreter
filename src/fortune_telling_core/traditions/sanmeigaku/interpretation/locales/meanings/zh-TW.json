@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "locale": "zh-TW",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "sanmeigaku.main.kansaku": "貫索星，獨立之星，賦予堅定不移的意志、自立自強，以及獨自堅守一條道路的耐性。",
+      "sanmeigaku.main.sekimon": "石門星，社交之星，以和諧、協作與在群體中怡然而得的人緣，聚攏眾人。",
+      "sanmeigaku.main.hokaku": "鳳閣星，天然自在之星，帶來童趣、表達，以及對人生簡單樂趣的細細品味。",
+      "sanmeigaku.main.chosho": "調舒星，敏感之星，賜予藝術天分與深刻情感，並帶有完美主義者那孤高而苛求的一面。",
+      "sanmeigaku.main.rokuson": "祿存星，仁愛之星，以慷慨、魅力，以及對他人不吝付出的溫暖，招來福分。",
+      "sanmeigaku.main.shiroku": "司祿星，積蓄之星，看重穩健、節儉，以及對家庭安穩的耐心經營。",
+      "sanmeigaku.main.shaki": "車騎星，行動之星，以速度、勇氣與直率而毫不遲疑的鬥志一往直前。",
+      "sanmeigaku.main.kengyu": "牽牛星，自尊與職責之星，承載榮譽、責任，以及對地位與體面那份莊重的在意。",
+      "sanmeigaku.main.ryuko": "龍高星，冒險之星，追尋非常規、異域與創新之事，在變化與風險中如魚得水。",
+      "sanmeigaku.main.gyokudo": "玉堂星，學問之星，鍾愛才智、傳統與學養，並懷有一份哺育似的母性智慧。",
+      "sanmeigaku.subordinate.tenki": "天貴星，孩童之星，純真、守原則而敏感，帶著一份高潔而良好教養的優雅。",
+      "sanmeigaku.subordinate.tenkou": "天恍星，少年之星，多夢而浪漫，傾心於漂泊、嚮往，以及未知之物的魅惑。",
+      "sanmeigaku.subordinate.tennan": "天南星，青年之星，大膽而充沛，滿是好勝、不安分的衝勁與身體上的自信。",
+      "sanmeigaku.subordinate.tenroku": "天祿星，壯年之星，賦予穩健的工作力、可靠，以及踏實而豐產的成熟。",
+      "sanmeigaku.subordinate.tensho": "天將星，將帥之星，是最為強大者，激烈、具支配力，天生即為在重壓之下領導而生。",
+      "sanmeigaku.subordinate.tendo": "天堂星，長者之星，沉穩而老練，緩緩而行，懷著歷練的智慧與靜默的耐力。",
+      "sanmeigaku.subordinate.tenko": "天胡星，病者之星，纖細而多夢，天賦想像力、藝術才華與細膩的感受力。",
+      "sanmeigaku.subordinate.tenkyoku": "天極星，死星，超然而靈性，傾向於放下、內省與不屬塵世的寧靜。",
+      "sanmeigaku.subordinate.tenkura": "天庫星，倉庫之星，善於保存與鑽研，醉心於過往、累積與耐心的深掘。",
+      "sanmeigaku.subordinate.tenso": "天馳星，靈魂之星，迅捷而不安分，充滿著迅疾、近乎不屬塵世而從不止息的能量。",
+      "sanmeigaku.subordinate.tenpo": "天報星，胎之星，無盡善變而適應力極強，是一股充滿開端與不斷流動的躁動能量。",
+      "sanmeigaku.subordinate.tenin": "天印星，嬰兒之星，天真而惹人憐愛，蒙受周遭眾人的善意與庇護。"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cyrillic_slavonic_numerals.result.total": "Le total des chiffres slavons d'église, additionnant les valeurs traditionnelles attribuées à chaque lettre du vieux cyrillique, traduit l'essence numérique symbolique attribuée au nom dans son ensemble."
+    }
+  }
+}

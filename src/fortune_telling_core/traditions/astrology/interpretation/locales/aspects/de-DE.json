@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "conjunction": "Eine Konjunktion verschmilzt die beiden Himmelskörper und vereint ihre Energien zu einem einzigen, verstärkten Brennpunkt, der färbt, wie sich jeder von ihnen ausdrückt.",
+      "opposition": "Eine Opposition spannt die beiden Himmelskörper zu einer Polarität auf und verlangt Gleichgewicht und Bewusstsein zwischen gegensätzlichen Zugkräften, die sich oft über andere Menschen entfalten.",
+      "trine": "Ein Trigon verbindet die beiden Himmelskörper in leichtem, harmonischem Fluss, eine mühelose Gabe von Talent und Unterstützung, die nur darum bittet, genutzt zu werden.",
+      "square": "Ein Quadrat stellt die beiden Himmelskörper in Reibung, eine Spannung, die zwar frustriert, aber Wachstum, Erfolg und die Bildung des Charakters antreibt.",
+      "sextile": "Ein Sextil bietet einen unterstützenden, offenen Kanal zwischen den beiden Himmelskörpern, eine Gelegenheit, die Eigeninitiative und sanfte Bemühung belohnt."
+    }
+  }
+}

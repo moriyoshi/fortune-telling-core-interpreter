@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "sanmeigaku.main.kansaku": "Kansaku-sei (貫索星), the star of independence, gives steadfast willpower, self-reliance and the patience to hold a course alone.",
+      "sanmeigaku.main.sekimon": "Sekimon-sei (石門星), the star of sociability, gathers people through harmony, cooperation and easy popularity within a circle.",
+      "sanmeigaku.main.hokaku": "Hōkaku-sei (鳳閣星), the star of natural ease, brings playfulness, expression and a relish for the simple pleasures of life.",
+      "sanmeigaku.main.chosho": "Chōsho-sei (調舒星), the star of sensitivity, grants artistry and deep feeling, with a perfectionist's solitary, exacting streak.",
+      "sanmeigaku.main.rokuson": "Rokuson-sei (禄存星), the star of benevolence, draws fortune through generosity, charm and warmth freely given to others.",
+      "sanmeigaku.main.shiroku": "Shiroku-sei (司禄星), the star of accumulation, prizes steadiness, thrift and the patient building of domestic security.",
+      "sanmeigaku.main.shaki": "Shaki-sei (車騎星), the star of action, charges ahead with speed, courage and a direct, unhesitating fighting spirit.",
+      "sanmeigaku.main.kengyu": "Kengyū-sei (牽牛星), the star of pride and duty, carries honour, responsibility and a dignified concern for status and form.",
+      "sanmeigaku.main.ryuko": "Ryūkō-sei (龍高星), the star of adventure, seeks the unconventional, the foreign and the inventive, thriving on change and risk.",
+      "sanmeigaku.main.gyokudo": "Gyokudō-sei (玉堂星), the star of learning, loves intellect, tradition and scholarship, with a nurturing, maternal wisdom.",
+      "sanmeigaku.subordinate.tenki": "Tenki-sei (天貴星), the child star, is pure, principled and sensitive, carrying an honourable, well-bred refinement.",
+      "sanmeigaku.subordinate.tenkou": "Tenkō-sei (天恍星), the adolescent star, is dreamy and romantic, drawn to wandering, longing and the allure of the unknown.",
+      "sanmeigaku.subordinate.tennan": "Tennan-sei (天南星), the youth star, is bold and vigorous, full of competitive, restless drive and physical confidence.",
+      "sanmeigaku.subordinate.tenroku": "Tenroku-sei (天禄星), the prime-of-life star, gives steady working strength, reliability and grounded, productive maturity.",
+      "sanmeigaku.subordinate.tensho": "Tenshō-sei (天将星), the commander star, is the most powerful — intense, dominant and born to lead under great pressure.",
+      "sanmeigaku.subordinate.tendo": "Tendō-sei (天堂星), the elder star, is calm and matured, moving slowly with seasoned wisdom and quiet endurance.",
+      "sanmeigaku.subordinate.tenko": "Tenko-sei (天胡星), the convalescent star, is delicate and dreamy, gifted with imagination, artistry and refined sensitivity.",
+      "sanmeigaku.subordinate.tenkyoku": "Tenkyoku-sei (天極星), the death star, is detached and spiritual, inclined to surrender, introspection and otherworldly calm.",
+      "sanmeigaku.subordinate.tenkura": "Tenkura-sei (天庫星), the storehouse star, preserves and researches, drawn to the past, accumulation and patient depth.",
+      "sanmeigaku.subordinate.tenso": "Tensō-sei (天馳星), the spirit star, is swift and restless, charged with quick, almost otherworldly energy that never rests.",
+      "sanmeigaku.subordinate.tenpo": "Tenpō-sei (天報星), the gestation star, is endlessly changeable and adaptive — a restless energy of beginnings and constant motion.",
+      "sanmeigaku.subordinate.tenin": "Ten'in-sei (天印星), the infant star, is innocent and endearing, blessed with the goodwill and protection of those around it."
+    }
+  }
+}

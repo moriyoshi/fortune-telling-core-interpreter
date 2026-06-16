@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "dominoes.tile.0_0": "Kartu kosong memperingatkan akan kekecewaan, kehilangan, atau rencana yang gagal, menyerukan kehati-hatian dan kesabaran.",
+      "dominoes.tile.1_0": "Satu titik tunggal menandakan skandal, gosip, atau masalah yang dipicu oleh kenalan yang tidak dapat dipercaya.",
+      "dominoes.tile.1_1": "Keharmonisan dan kasih sayang menguasai, menjanjikan hubungan yang bahagia dan mapan serta ketentraman di rumah.",
+      "dominoes.tile.2_0": "Perjalanan menyenangkan atau acara sosial menanti di depan, meski waspadalah terhadap pengeluaran yang sembrono.",
+      "dominoes.tile.2_1": "Urusan keuangan tampak akan membaik, dengan bantuan yang datang melalui seorang teman atau kenalan baru.",
+      "dominoes.tile.2_2": "Kesuksesan dan pertumbuhan diunggulkan, membawa imbalan melalui kemitraan dan usaha bersama.",
+      "dominoes.tile.3_0": "Berita tak terduga atau pertengkaran mendadak dapat mengganggumu, maka timbanglah kata-katamu dengan hati-hati.",
+      "dominoes.tile.3_1": "Berita berguna atau ide cerdas datang, meski berhati-hatilah terhadap kecerobohan dalam urusan asmara.",
+      "dominoes.tile.3_2": "Kemajuan yang mantap dan kehati-hatian akan menguntungkanmu, terutama dalam urusan uang dan harta.",
+      "dominoes.tile.3_3": "Perubahan nasib atau keadaan akan datang, sering kali menyentuh urusan hati.",
+      "dominoes.tile.4_0": "Kekecewaan atau kemunduran kecil ditunjukkan, tetapi akan berlalu jika kamu tetap sabar.",
+      "dominoes.tile.4_1": "Utang mungkin terlunasi dan kekhawatiran keuangan mereda, membawa kelegaan yang dinanti tak lama lagi.",
+      "dominoes.tile.4_2": "Perubahan ke arah yang lebih baik sudah dekat, dengan uang atau kabar baik yang datang tak terduga.",
+      "dominoes.tile.4_3": "Kebahagiaan rumah tangga dan keberuntungan menjadi ganjaran atas usaha tekunmu.",
+      "dominoes.tile.4_4": "Masa perayaan, pesta, dan kebahagiaan bersama teman atau keluarga sedang mendekat.",
+      "dominoes.tile.5_0": "Berikan penghiburan kepada orang lain dan berhati-hatilah, karena keterpurukan emosi atau keuangan dapat segera berlalu.",
+      "dominoes.tile.5_1": "Cinta baru atau pertemuan sosial membawa kegembiraan, meski mungkin hanya sesaat.",
+      "dominoes.tile.5_2": "Kesabaran dibutuhkan karena rencana matang perlahan, namun seorang tamu yang membantu membawa semangat.",
+      "dominoes.tile.5_3": "Kabar baik dan jeda yang damai menjanjikan ketenangan setelah masalah yang baru lalu.",
+      "dominoes.tile.5_4": "Keuntungan finansial besar kemungkinan, meski waspadalah terhadap keputusan gegabah dan tindakan berlebihan.",
+      "dominoes.tile.5_5": "Perubahan yang menguntungkan dan peluang baru datang, terutama dalam bisnis atau karier.",
+      "dominoes.tile.6_0": "Peringatan akan kehilangan atau perpisahan; hal-hal lama berakhir, membuka jalan bagi sesuatu yang baru.",
+      "dominoes.tile.6_1": "Rekonsiliasi, pernikahan, atau reuni bahagia diramalkan, memperbaiki perselisihan masa lalu.",
+      "dominoes.tile.6_2": "Keberuntungan dan urusan yang jujur membawa kesuksesan, terutama melalui perjalanan atau perdagangan.",
+      "dominoes.tile.6_3": "Perjalanan menyenangkan, hadiah, atau gerak murah hati mengangkat semangat dan prospekmu.",
+      "dominoes.tile.6_4": "Hasil yang menguntungkan dalam urusan hukum atau bisnis mengganjar ketekunanmu.",
+      "dominoes.tile.6_5": "Kebaikan yang diberikan atau diterima membawa penghiburan, dan kemajuan sederhana menyusul.",
+      "dominoes.tile.6_6": "Kartu tertinggi menjanjikan kesuksesan besar, kemakmuran, dan terkabulnya keinginan terdalammu."
+    }
+  }
+}

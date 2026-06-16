@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "locale": "zh-TW",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "celtic_tree.sign.birch": "樺木標誌著堅定而有抱負的開拓者，清除舊有事物，以沉靜的韌性重新開始。",
+      "celtic_tree.sign.rowan": "花楸代表富有遠見與理想的靈魂，既具保護性又獨樹一格，受強烈的內在使命感所指引。",
+      "celtic_tree.sign.ash": "白蠟木揭示出富想像力與直覺的靈魂，內斂而藝術，透過創作表達尋得自由。",
+      "celtic_tree.sign.alder": "赤楊象徵自信而具魅力的先鋒，以勇氣、自信與天生的權威行事。",
+      "celtic_tree.sign.willow": "柳樹訴說著敏銳而直覺的天性，耐心而善於變通，深諳生命中隱藏的潛流。",
+      "celtic_tree.sign.hawthorn": "山楂在內斂的外表下隱藏著好奇而善變的機智，輕鬆地調和諸多對立的特質。",
+      "celtic_tree.sign.oak": "橡樹體現了堅強、慷慨而堅定的守護者，以樂觀與持久的決心鼓舞他人。",
+      "celtic_tree.sign.holly": "冬青標誌著高貴而能幹的領袖，自信而有抱負，以尊嚴與決心克服阻礙。",
+      "celtic_tree.sign.hazel": "榛樹反映出聰慧而博學的心智，觀察敏銳、言詞清晰，富有學習與洞察的天賦。",
+      "celtic_tree.sign.vine": "藤蔓代表精緻而多變的天性，敏感而明辨，在生命的矛盾中尋求平衡與美。",
+      "celtic_tree.sign.ivy": "常春藤揭示出忠誠而富同情的靈魂，堅韌而忠實，以耐心與堅定的奉獻而興盛。",
+      "celtic_tree.sign.reed": "蘆葦象徵敏銳而隱密的真理追尋者，受隱藏的意義所吸引，能洞察表象之下的真相。",
+      "celtic_tree.sign.elder": "接骨木體現了自由不羈而深思的漫遊者，誠實而充滿活力，珍視經驗與個人的獨立。"
+    }
+  }
+}

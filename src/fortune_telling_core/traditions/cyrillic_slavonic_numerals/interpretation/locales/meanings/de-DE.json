@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cyrillic_slavonic_numerals.result.total": "Die kirchenslawische Zahlensumme, die die jedem altkyrillischen Buchstaben zugewiesenen überlieferten Werte aufaddiert, vermittelt die symbolische zahlenmäßige Essenz, die dem Namen als Ganzem zugeschrieben wird."
+    }
+  }
+}

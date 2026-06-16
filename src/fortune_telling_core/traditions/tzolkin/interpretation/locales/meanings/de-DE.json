@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "tzolkin.daysign.imix": "Imix steht für urtümliche Anfänge, nährende Instinkte und die fruchtbaren Wasser, aus denen neue Unternehmungen entspringen.",
+      "tzolkin.daysign.ik": "Ik' trägt den Atem des Geistes und den Wind des Wandels und lädt zu Kommunikation, Inspiration und erneuerter Lebenskraft ein.",
+      "tzolkin.daysign.akbal": "Ak'b'al zieht dich in das dunkle Haus der Träume, der Intuition und der inneren Suche nach verborgener Wahrheit.",
+      "tzolkin.daysign.kan": "K'an verkörpert reifenden Samen und wachsende Fülle und verheißt Fruchtbarkeit, Wissen und das stete Reifen von Möglichkeiten.",
+      "tzolkin.daysign.chikchan": "Chikchan rührt die Lebenskraft der Schlange auf und erweckt Instinkt, Vitalität und mächtige spirituelle Energie, die im Inneren aufsteigt.",
+      "tzolkin.daysign.kimi": "Kimi spricht von Tod und Loslösung und kennzeichnet Wandlung, Loslassen und den anmutigen Übergang zwischen den Zyklen.",
+      "tzolkin.daysign.manik": "Manik' reicht die heilende, greifende Hand und ruft zu Zusammenarbeit, Fürsorge und Einklang mit allem Lebendigen auf.",
+      "tzolkin.daysign.lamat": "Lamat leuchtet als Stern der Fülle und Harmonie und streut die Samen von Schönheit, Fruchtbarkeit und neuem Wachstum aus.",
+      "tzolkin.daysign.muluk": "Muluk fließt mit der Gabe von Wasser und Gefühl und erweckt Erinnerung, Dankbarkeit und den Ruf des Herzens.",
+      "tzolkin.daysign.ok": "Ok verkörpert treue Begleitung, Loyalität und Führung und schreitet hingebungsvoll an deiner Seite durch die Reise des Lebens.",
+      "tzolkin.daysign.chuwen": "Chuwen webt den verspielten Faden des Künstlers und lädt zu Kreativität, Handwerk und dem freudigen Spinnen der Zeit ein.",
+      "tzolkin.daysign.eb": "Eb markiert den Weg des Lebens und das menschliche Schicksal und ermutigt zu Dienst, Demut und stetigem Fortschritt auf deinem Pfad.",
+      "tzolkin.daysign.ben": "B'en erhebt das aufrechte Rohr der Autorität und tritt für Prinzipien, Wachstum und die mutige Verteidigung von Heim und Idealen ein.",
+      "tzolkin.daysign.ix": "Ix trägt die stille Stärke des Jaguars und schöpft aus Instinkt, Magie und einer tiefen Verbindung zur Erde.",
+      "tzolkin.daysign.men": "Men schwingt sich als Adler der Vision empor und hebt den Geist zu höherer Sicht, Ehrgeiz und weitreichendem Streben.",
+      "tzolkin.daysign.kib": "Kib' entfacht die Weisheit der Ahnen und mahnt zu Besinnung, Vergebung und Dankbarkeit für empfangene Führung.",
+      "tzolkin.daysign.kaban": "Kab'an pulsiert mit der Bewegung von Erde und Gedanke und entzündet Intelligenz, Synchronizität und geerdete Einsicht.",
+      "tzolkin.daysign.etznab": "Etz'nab' glänzt als Obsidianklinge und durchschneidet Illusion mit Wahrheit, Klarheit und entschlossener Unterscheidung.",
+      "tzolkin.daysign.kawak": "Kawak sammelt die erneuernde Kraft des Sturms und kündigt Umbruch, Reinigung und das Anbrechen frischen Erwachens an.",
+      "tzolkin.daysign.ajaw": "Ajaw strahlt als Herr der Sonne und drückt Erleuchtung, Erfüllung und das Erblühen höheren Sinns aus."
+    }
+  }
+}

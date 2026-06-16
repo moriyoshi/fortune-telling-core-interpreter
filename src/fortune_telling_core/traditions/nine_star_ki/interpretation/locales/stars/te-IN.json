@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "locale": "te-IN",
+  "templates": {
+    "element_line": "{cjk} {color} {element} మరియు {trigram} త్రిగ్రామ్‌తో సంబంధం కలిగి ఉంది.",
+    "natal_line": "{cjk} నైన్ స్టార్ కీ జన్మ ప్రభావం."
+  },
+  "vocab": {
+    "colors": {
+      "white": "తెలుపు",
+      "black": "నలుపు",
+      "jade": "జేడ్",
+      "green": "ఆకుపచ్చ",
+      "yellow": "పసుపు",
+      "red": "ఎరుపు",
+      "purple": "ఊదా"
+    },
+    "elements": {
+      "water": "జలం",
+      "earth": "భూమి",
+      "wood": "కాష్ఠం",
+      "metal": "లోహం",
+      "fire": "అగ్ని"
+    },
+    "trigrams": {
+      "kan": "కాన్",
+      "kun": "కున్",
+      "zhen": "జెన్",
+      "xun": "షున్",
+      "center": "కేంద్రం",
+      "qian": "చియన్",
+      "dui": "దుయ్",
+      "gen": "గెన్",
+      "li": "లీ"
+    }
+  }
+}

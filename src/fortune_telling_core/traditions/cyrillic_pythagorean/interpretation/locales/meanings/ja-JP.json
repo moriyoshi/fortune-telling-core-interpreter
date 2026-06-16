@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "locale": "ja-JP",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cyrillic_pythagorean.number.1": "一は開拓者を示し、独立と主導性、率いようとする意志を表します。",
+      "cyrillic_pythagorean.number.2": "二は調停者を示し、均衡と協調、静かな受容性を表します。",
+      "cyrillic_pythagorean.number.3": "三は伝達者を示し、創造性と社交性、喜びに満ちた自己表現を表します。",
+      "cyrillic_pythagorean.number.4": "四は建設者を示し、安定と勤勉、秩序を愛する実際的な性質を表します。",
+      "cyrillic_pythagorean.number.5": "五は探求者を示し、自由と適応力、経験への旺盛な好奇心を表します。",
+      "cyrillic_pythagorean.number.6": "六は世話役を示し、責任感と慈しみ、家族と共同体への献身を表します。",
+      "cyrillic_pythagorean.number.7": "七は思索者を示し、分析と内省、隠れた真理の探求を表します。",
+      "cyrillic_pythagorean.number.8": "八は達成者を示し、権威と野心、物質を統御する力を表します。",
+      "cyrillic_pythagorean.number.9": "九は博愛者を示し、理想主義と慈悲、寛大で広い視野を表します。"
+    }
+  }
+}

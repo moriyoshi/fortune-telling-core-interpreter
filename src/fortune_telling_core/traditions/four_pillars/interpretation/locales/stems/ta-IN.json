@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "locale": "ta-IN",
+  "templates": {
+    "stem": "{cjk} {polarity} {element} கியை தாங்குகிறது."
+  },
+  "vocab": {
+    "elements": {
+      "wood": "மரம்",
+      "fire": "நெருப்பு",
+      "earth": "பூமி",
+      "metal": "உலோகம்",
+      "water": "நீர்"
+    },
+    "polarities": {
+      "yang": "யாங்",
+      "yin": "யின்"
+    }
+  }
+}

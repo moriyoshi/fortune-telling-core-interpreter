@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "locale": "bn-IN",
+  "templates": {
+    "element_line": "{cjk} {color} {element} এবং {trigram} ত্রিগ্রামের সঙ্গে যুক্ত।",
+    "natal_line": "{cjk} একটি নাইন স্টার কি জন্মগত প্রভাব।"
+  },
+  "vocab": {
+    "colors": {
+      "white": "সাদা",
+      "black": "কালো",
+      "jade": "মরকত",
+      "green": "সবুজ",
+      "yellow": "হলুদ",
+      "red": "লাল",
+      "purple": "বেগুনি"
+    },
+    "elements": {
+      "water": "জল",
+      "earth": "মাটি",
+      "wood": "কাঠ",
+      "metal": "ধাতু",
+      "fire": "অগ্নি"
+    },
+    "trigrams": {
+      "kan": "কান",
+      "kun": "কুন",
+      "zhen": "চেন",
+      "xun": "শুন",
+      "center": "কেন্দ্র",
+      "qian": "ছিয়েন",
+      "dui": "দুই",
+      "gen": "গেন",
+      "li": "লি"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "pt-BR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "weton.saptawara.senin": "Senin, o nascido na segunda-feira, sugere uma natureza calma e paciente, inclinada à reflexão serena e ao juízo constante e ponderado.",
+      "weton.saptawara.selasa": "Selasa, o nascido na terça-feira, aponta para ímpeto e ambição, com um temperamento fervoroso e enérgico que persegue objetivos com ousadia.",
+      "weton.saptawara.rabu": "Rabu, o nascido na quarta-feira, indica sociabilidade e eloquência, favorecendo os hábeis na comunicação e agradáveis na companhia.",
+      "weton.saptawara.kamis": "Kamis, o nascido na quinta-feira, sinaliza generosidade e boa fortuna, marcando um caráter digno, atraído pelo saber e pela prosperidade.",
+      "weton.saptawara.jumat": "Jumat, o nascido na sexta-feira, denota devoção e afeto, abençoando uma alma gentil e harmoniosa, atenta à fé e à família.",
+      "weton.saptawara.sabtu": "Sabtu, o nascido no sábado, reflete disciplina e resiliência, condizendo com uma natureza trabalhadora e perseverante que suporta as dificuldades.",
+      "weton.saptawara.minggu": "Minggu, o nascido no domingo, transmite brilho e liderança, iluminando um caráter confiante e radiante que atrai os outros.",
+      "weton.pancawara.legi": "Legi, o doce dia de feira, confere graça e gentileza, fomentando uma disposição simpática e agradável que põe os outros à vontade.",
+      "weton.pancawara.pahing": "Pahing, o amargo dia de feira, traz tenacidade e assertividade, moldando uma natureza determinada e de forte vontade, sem medo do conflito.",
+      "weton.pancawara.pon": "Pon, o radiante dia de feira, imparte charme e refinamento, favorecendo um caráter atraente e engenhoso, com olhar para a beleza.",
+      "weton.pancawara.wage": "Wage, o firme dia de feira, incute frugalidade e constância, marcando uma alma equilibrada e prática, firme em suas convicções.",
+      "weton.pancawara.kliwon": "Kliwon, o dia central de feira, carrega intuição e profundidade espiritual, agraciando uma natureza perspicaz e contemplativa, sintonizada com o invisível."
+    }
+  }
+}

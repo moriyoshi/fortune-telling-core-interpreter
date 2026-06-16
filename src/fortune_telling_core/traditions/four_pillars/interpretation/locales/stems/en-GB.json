@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {
+    "stem": "{cjk} carries {polarity} {element} qi."
+  },
+  "vocab": {
+    "elements": {
+      "wood": "wood",
+      "fire": "fire",
+      "earth": "earth",
+      "metal": "metal",
+      "water": "water"
+    },
+    "polarities": {
+      "yang": "yang",
+      "yin": "yin"
+    }
+  }
+}

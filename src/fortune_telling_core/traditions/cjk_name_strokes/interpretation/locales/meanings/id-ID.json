@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cjk_name_strokes.result.heaven": "Kisi Langit, yang berasal dari guratan nama keluarga, melambangkan pengaruh warisan dan keberuntungan leluhur yang membingkai keadaan awal seseorang.",
+      "cjk_name_strokes.result.person": "Kisi Manusia, yang terbentuk dari karakter terakhir nama keluarga dan karakter pertama nama pemberian, mencerminkan watak inti, perangai, dan masa puncak kehidupan seseorang.",
+      "cjk_name_strokes.result.earth": "Kisi Bumi, yang diambil dari guratan nama pemberian, menunjukkan keberuntungan masa muda dan landasan tempat kehidupan awal dan hubungan dibangun.",
+      "cjk_name_strokes.result.outer": "Kisi Luar mengatur kedudukan sosial seseorang dan interaksinya dengan dunia luas, membentuk reputasi dan hubungan di luar keluarga terdekat.",
+      "cjk_name_strokes.result.total": "Kisi Total, jumlah dari seluruh guratan nama, melambangkan takdir secara keseluruhan dan keberuntungan di tahun-tahun belakangan kehidupan."
+    }
+  }
+}

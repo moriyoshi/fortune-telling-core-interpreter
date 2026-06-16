@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "numerology.number.1": "Jalan hidup penuh kemandirian, inisiatif, dan kepemimpinan, terdorong untuk merintis jalannya sendiri.",
+      "numerology.number.2": "Jalan hidup penuh kerja sama, kepekaan, dan diplomasi, yang berkembang melalui kemitraan dan keseimbangan.",
+      "numerology.number.3": "Jalan hidup penuh kreativitas, ekspresi, dan optimisme, yang mekar melalui komunikasi dan kegembiraan.",
+      "numerology.number.4": "Jalan hidup penuh disiplin, kestabilan, dan kerja keras, yang membangun fondasi langgeng melalui keteraturan.",
+      "numerology.number.5": "Jalan hidup penuh kebebasan, kemampuan beradaptasi, dan petualangan, yang bersemangat oleh perubahan dan pengalaman baru.",
+      "numerology.number.6": "Jalan hidup penuh tanggung jawab, pengasuhan, dan keselarasan, yang mengabdi pada keluarga, pelayanan, dan kepedulian.",
+      "numerology.number.7": "Jalan hidup penuh perenungan, analisis, dan pencarian, yang tertarik pada kebijaksanaan dan kebenaran lebih dalam.",
+      "numerology.number.8": "Jalan hidup penuh ambisi, kewibawaan, dan pencapaian, yang mengarah pada penguasaan dan kesuksesan duniawi.",
+      "numerology.number.9": "Jalan hidup penuh welas asih, idealisme, dan kedermawanan, yang mengabdi pada kemanusiaan dan kebaikan yang lebih luas.",
+      "numerology.number.11": "Jalan hidup utama penuh intuisi dan ilham, terpanggil untuk mencerahkan dan mengangkat sesama.",
+      "numerology.number.22": "Jalan hidup utama sang pembangun visioner, mampu mewujudkan cita-cita luhur menjadi kenyataan yang langgeng.",
+      "numerology.number.33": "Jalan hidup utama penuh pengabdian tanpa pamrih dan penyembuhan, mewujudkan welas asih melalui pelayanan kepada semua."
+    }
+  }
+}

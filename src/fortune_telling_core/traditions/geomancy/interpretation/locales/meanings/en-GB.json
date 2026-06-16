@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "geomancy.figure.via": "Via signals change, movement and journeys, marking a turning point where one path closes and another opens.",
+      "geomancy.figure.cauda_draconis": "Cauda Draconis marks endings and departures, favouring the release of what is finished though it may leave disorder in its wake.",
+      "geomancy.figure.puer": "Puer denotes youthful, headstrong energy that brings boldness and swift action but also impulsiveness and conflict.",
+      "geomancy.figure.fortuna_minor": "Fortuna Minor brings fleeting, modest fortune that favours swift action taken with outside help rather than lasting gain.",
+      "geomancy.figure.caput_draconis": "Caput Draconis heralds beginnings and fresh opportunity, an auspicious threshold for new ventures and growth.",
+      "geomancy.figure.coniunctio": "Coniunctio signifies union, meetings and partnerships, bringing people, matters or ideas together for good or ill.",
+      "geomancy.figure.acquisitio": "Acquisitio is a figure of gain and profit, promising the successful acquisition of wealth, goods or desired ends.",
+      "geomancy.figure.rubeus": "Rubeus warns of passion, anger and deceit, an unfavourable figure best handled with caution and restraint.",
+      "geomancy.figure.puella": "Puella signifies harmony, beauty and affection, a gentle and favourable figure especially in matters of love and pleasure.",
+      "geomancy.figure.amissio": "Amissio denotes loss and letting go, unfavourable for keeping things yet helpful when release is what is sought.",
+      "geomancy.figure.carcer": "Carcer represents confinement, delay and restriction, binding matters in place and counselling patience.",
+      "geomancy.figure.laetitia": "Laetitia is a joyful figure of happiness, health and hope, lifting the spirits and favouring upward progress.",
+      "geomancy.figure.fortuna_maior": "Fortuna Maior brings great and lasting good fortune, success won through one's own steady strength and inner resources.",
+      "geomancy.figure.albus": "Albus signifies clarity, peace and wisdom, a calm and favourable figure suited to thought, counsel and careful judgement.",
+      "geomancy.figure.tristitia": "Tristitia denotes sorrow, hardship and melancholy, a downward figure counselling endurance through difficult times.",
+      "geomancy.figure.populus": "Populus represents the crowd or gathering, a neutral and passive figure that reflects surrounding influences without acting of its own accord."
+    }
+  }
+}

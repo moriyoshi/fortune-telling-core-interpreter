@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "numerology.number.1": "Ein Lebensweg der Unabhängigkeit, Initiative und Führung, getrieben davon, den eigenen Weg zu bahnen.",
+      "numerology.number.2": "Ein Lebensweg der Zusammenarbeit, Sensibilität und Diplomatie, der durch Partnerschaft und Ausgleich gedeiht.",
+      "numerology.number.3": "Ein Lebensweg der Kreativität, des Ausdrucks und des Optimismus, der durch Kommunikation und Freude aufblüht.",
+      "numerology.number.4": "Ein Lebensweg der Disziplin, Beständigkeit und harten Arbeit, der durch Ordnung dauerhafte Fundamente schafft.",
+      "numerology.number.5": "Ein Lebensweg der Freiheit, Anpassungsfähigkeit und des Abenteuers, beflügelt von Wandel und neuen Erfahrungen.",
+      "numerology.number.6": "Ein Lebensweg der Verantwortung, Fürsorge und Harmonie, hingegeben an Familie, Dienst und Zuwendung.",
+      "numerology.number.7": "Ein Lebensweg der Selbstbesinnung, Analyse und Suche, hingezogen zu Weisheit und tieferen Wahrheiten.",
+      "numerology.number.8": "Ein Lebensweg des Ehrgeizes, der Autorität und des Erfolgs, ausgerichtet auf materielle Meisterschaft und Gelingen.",
+      "numerology.number.9": "Ein Lebensweg des Mitgefühls, Idealismus und der Großzügigkeit, hingegeben an die Menschheit und das höhere Wohl.",
+      "numerology.number.11": "Ein Meister-Lebensweg der Intuition und Inspiration, berufen, andere zu erleuchten und zu erheben.",
+      "numerology.number.22": "Ein Meister-Lebensweg des visionären Baumeisters, der hohe Ideale in dauerhafte Wirklichkeit verwandeln kann.",
+      "numerology.number.33": "Ein Meister-Lebensweg selbstloser Hingabe und Heilung, der Mitgefühl durch Dienst an allen verkörpert."
+    }
+  }
+}

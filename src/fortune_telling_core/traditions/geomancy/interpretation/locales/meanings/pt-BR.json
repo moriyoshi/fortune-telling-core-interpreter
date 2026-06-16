@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "locale": "pt-BR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "geomancy.figure.via": "Via sinaliza mudança, movimento e jornadas, marcando um ponto de virada em que um caminho se fecha e outro se abre.",
+      "geomancy.figure.cauda_draconis": "Cauda Draconis marca finais e partidas, favorecendo a libertação do que está concluído, embora possa deixar desordem em seu rastro.",
+      "geomancy.figure.puer": "Puer denota uma energia jovem e impetuosa que traz ousadia e ação rápida, mas também impulsividade e conflito.",
+      "geomancy.figure.fortuna_minor": "Fortuna Minor traz uma sorte fugaz e modesta que favorece a ação rápida feita com ajuda externa, mais do que ganho duradouro.",
+      "geomancy.figure.caput_draconis": "Caput Draconis anuncia começos e novas oportunidades, um limiar auspicioso para novos empreendimentos e crescimento.",
+      "geomancy.figure.coniunctio": "Coniunctio significa união, encontros e parcerias, reunindo pessoas, assuntos ou ideias para o bem ou para o mal.",
+      "geomancy.figure.acquisitio": "Acquisitio é uma figura de ganho e lucro, prometendo a aquisição bem-sucedida de riqueza, bens ou fins desejados.",
+      "geomancy.figure.rubeus": "Rubeus adverte sobre paixão, raiva e engano, uma figura desfavorável que se enfrenta melhor com cautela e moderação.",
+      "geomancy.figure.puella": "Puella significa harmonia, beleza e afeto, uma figura suave e favorável, especialmente em assuntos de amor e prazer.",
+      "geomancy.figure.amissio": "Amissio denota perda e desapego, desfavorável para reter coisas, mas útil quando o que se busca é a libertação.",
+      "geomancy.figure.carcer": "Carcer representa confinamento, atraso e restrição, prendendo os assuntos no lugar e aconselhando paciência.",
+      "geomancy.figure.laetitia": "Laetitia é uma figura alegre de felicidade, saúde e esperança, que eleva o ânimo e favorece o progresso ascendente.",
+      "geomancy.figure.fortuna_maior": "Fortuna Maior traz uma grande e duradoura boa sorte, sucesso conquistado pela própria força constante e pelos recursos interiores.",
+      "geomancy.figure.albus": "Albus significa clareza, paz e sabedoria, uma figura calma e favorável, adequada à reflexão, ao conselho e ao julgamento ponderado.",
+      "geomancy.figure.tristitia": "Tristitia denota tristeza, dificuldade e melancolia, uma figura descendente que aconselha resistência em tempos difíceis.",
+      "geomancy.figure.populus": "Populus representa a multidão ou a reunião, uma figura neutra e passiva que reflete as influências ao redor sem agir por conta própria."
+    }
+  }
+}

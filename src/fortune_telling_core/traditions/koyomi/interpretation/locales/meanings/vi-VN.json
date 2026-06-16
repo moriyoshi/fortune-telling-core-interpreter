@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "koyomi.rokuyo.taian": "Taian (大安) là ngày may mắn nhất trong sáu ngày, thuận lợi cho mọi việc từ sáng đến tối — cưới hỏi, khai trương, đi xa và những khởi đầu mới đều hanh thông.",
+      "koyomi.rokuyo.shakko": "Shakkō (赤口) là ngày xấu chịu sự cai quản của hiểm nguy; chỉ có giờ quanh trưa là an toàn, và cần thận trọng với dao kiếm, lửa và tranh chấp.",
+      "koyomi.rokuyo.sensho": "Senshō (先勝) tưởng thưởng cho sự khẩn trương: buổi sáng mang lại điều tốt lành và hành động sớm dẫn đến thành công, còn buổi chiều trở nên xui rủi.",
+      "koyomi.rokuyo.tomobiki": "Tomobiki (友引) 'lôi kéo bạn bè'; sáng và tối đều thuận lợi và những việc chung cùng nhau hưng thịnh, nhưng giờ trưa là điềm xấu và tránh tổ chức tang lễ.",
+      "koyomi.rokuyo.sembu": "Senbu (先負) khuyên nên kiên nhẫn: buổi sáng xui rủi và sự vội vàng chuốc lấy mất mát, nhưng buổi chiều trở nên yên ả và những việc đã ổn định thì thuận lợi hơn.",
+      "koyomi.rokuyo.butsumetsu": "Butsumetsu (仏滅) là ngày xấu nhất, không thích hợp cho lễ lạt, khai trương hay khởi đầu mới; nghỉ ngơi, suy ngẫm và kết thúc công việc thì khôn ngoan hơn."
+    }
+  }
+}

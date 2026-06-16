@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "locale": "es-ES",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "conjunction": "La conjunción fusiona los dos astros, uniendo sus energías en un foco único e intensificado que tiñe la forma en que cada uno se expresa.",
+      "opposition": "La oposición tensa los dos astros en una polaridad, exigiendo equilibrio y conciencia entre fuerzas opuestas que a menudo se manifiestan a través de los demás.",
+      "trine": "El trígono une los dos astros en un flujo fácil y armonioso, un don natural de talento y apoyo que solo pide ser aprovechado.",
+      "square": "La cuadratura enfrenta los dos astros en una fricción, una tensión que frustra pero que impulsa el crecimiento, el logro y la formación del carácter.",
+      "sextile": "El sextil ofrece un canal abierto y favorable entre los dos astros, una oportunidad que recompensa la iniciativa y el esfuerzo medido."
+    }
+  }
+}

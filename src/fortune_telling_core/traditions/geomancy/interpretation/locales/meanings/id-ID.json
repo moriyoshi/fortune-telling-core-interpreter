@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "geomancy.figure.via": "Via menandakan perubahan, pergerakan, dan perjalanan, menandai titik balik di mana satu jalan tertutup dan jalan lain terbuka.",
+      "geomancy.figure.cauda_draconis": "Cauda Draconis menandai akhir dan kepergian, mendukung pelepasan apa yang telah usai meski dapat meninggalkan kekacauan di belakangnya.",
+      "geomancy.figure.puer": "Puer menggambarkan energi muda yang keras kepala, membawa keberanian dan tindakan cepat namun juga sifat impulsif dan konflik.",
+      "geomancy.figure.fortuna_minor": "Fortuna Minor membawa keberuntungan sekejap dan sederhana yang mendukung tindakan cepat dengan bantuan dari luar ketimbang perolehan yang langgeng.",
+      "geomancy.figure.caput_draconis": "Caput Draconis menjadi pertanda permulaan dan peluang baru, ambang yang baik bagi usaha baru dan pertumbuhan.",
+      "geomancy.figure.coniunctio": "Coniunctio melambangkan persatuan, pertemuan, dan kemitraan, menyatukan orang, urusan, atau gagasan untuk baik maupun buruk.",
+      "geomancy.figure.acquisitio": "Acquisitio adalah figur perolehan dan keuntungan, menjanjikan keberhasilan memperoleh kekayaan, barang, atau tujuan yang diinginkan.",
+      "geomancy.figure.rubeus": "Rubeus memperingatkan akan nafsu, kemarahan, dan tipu daya, figur yang tidak menguntungkan yang sebaiknya dihadapi dengan kehati-hatian dan pengendalian diri.",
+      "geomancy.figure.puella": "Puella melambangkan keharmonisan, keindahan, dan kasih sayang, figur yang lembut dan menguntungkan terutama dalam urusan cinta dan kesenangan.",
+      "geomancy.figure.amissio": "Amissio menandakan kehilangan dan pelepasan, tidak menguntungkan untuk mempertahankan sesuatu namun membantu ketika pelepasan yang dicari.",
+      "geomancy.figure.carcer": "Carcer mewakili pengurungan, penundaan, dan pembatasan, mengikat urusan di tempatnya dan menasihati kesabaran.",
+      "geomancy.figure.laetitia": "Laetitia adalah figur gembira berisi kebahagiaan, kesehatan, dan harapan, mengangkat semangat dan mendukung kemajuan ke atas.",
+      "geomancy.figure.fortuna_maior": "Fortuna Maior membawa keberuntungan besar dan langgeng, kesuksesan yang diraih melalui kekuatan diri yang mantap dan sumber daya batin sendiri.",
+      "geomancy.figure.albus": "Albus melambangkan kejernihan, kedamaian, dan kebijaksanaan, figur yang tenang dan menguntungkan, cocok untuk pemikiran, nasihat, dan pertimbangan yang cermat.",
+      "geomancy.figure.tristitia": "Tristitia menandakan kesedihan, kesulitan, dan kemurungan, figur menurun yang menasihati ketabahan melalui masa-masa sulit.",
+      "geomancy.figure.populus": "Populus mewakili kerumunan atau perkumpulan, figur netral dan pasif yang mencerminkan pengaruh sekitarnya tanpa bertindak atas kehendaknya sendiri."
+    }
+  }
+}

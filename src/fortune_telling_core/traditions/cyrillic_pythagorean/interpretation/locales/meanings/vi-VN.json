@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cyrillic_pythagorean.number.1": "Số một đánh dấu người tiên phong, thể hiện sự độc lập, óc khởi xướng và ý chí dẫn dắt.",
+      "cyrillic_pythagorean.number.2": "Số hai đánh dấu người kiến tạo hòa bình, thể hiện sự cân bằng, tình bằng hữu và sự tiếp nhận lặng lẽ.",
+      "cyrillic_pythagorean.number.3": "Số ba đánh dấu người giao tiếp, thể hiện óc sáng tạo, sự hòa đồng và niềm vui tự thể hiện.",
+      "cyrillic_pythagorean.number.4": "Số bốn đánh dấu người xây dựng, thể hiện sự ổn định, cần mẫn và niềm yêu thích trật tự thiết thực.",
+      "cyrillic_pythagorean.number.5": "Số năm đánh dấu người tìm kiếm, thể hiện sự tự do, linh hoạt và khát khao trải nghiệm đầy tò mò.",
+      "cyrillic_pythagorean.number.6": "Số sáu đánh dấu người chăm sóc, thể hiện tinh thần trách nhiệm, lòng trắc ẩn và sự tận tụy với gia đình và cộng đồng.",
+      "cyrillic_pythagorean.number.7": "Số bảy đánh dấu người suy tư, thể hiện óc phân tích, sự nội tâm và cuộc tìm kiếm sự thật ẩn giấu.",
+      "cyrillic_pythagorean.number.8": "Số tám đánh dấu người chinh phục, thể hiện uy quyền, hoài bão và khả năng làm chủ vật chất.",
+      "cyrillic_pythagorean.number.9": "Số chín đánh dấu người nhân ái, thể hiện lý tưởng, lòng trắc ẩn và tầm nhìn rộng lớn, hào phóng."
+    }
+  }
+}

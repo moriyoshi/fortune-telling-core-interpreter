@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "dominoes.tile.0_0": "Le domino blanc met en garde contre la déception, la perte ou des projets sans suite, invitant à la prudence et à la patience.",
+      "dominoes.tile.1_0": "Un point solitaire signale un scandale, des ragots ou des ennuis suscités par une connaissance peu fiable.",
+      "dominoes.tile.1_1": "L'harmonie et l'affection l'emportent, promettant une relation heureuse et stable et le bonheur au foyer.",
+      "dominoes.tile.2_0": "Un voyage agréable ou une sortie mondaine se profile, mais gardez-vous de dépenses inconsidérées.",
+      "dominoes.tile.2_1": "Les questions d'argent semblent appelées à s'améliorer, avec une aide venant d'un ami ou d'une nouvelle connaissance.",
+      "dominoes.tile.2_2": "Le succès et la croissance sont favorisés, apportant récompense par le partenariat et l'effort commun.",
+      "dominoes.tile.3_0": "Une nouvelle inattendue ou une querelle soudaine peut vous troubler, alors pesez vos mots avec soin.",
+      "dominoes.tile.3_1": "Une nouvelle utile ou une idée ingénieuse arrive, mais méfiez-vous des indiscrétions en amour.",
+      "dominoes.tile.3_2": "Un progrès régulier et la prudence vous servent bien, surtout dans les affaires d'argent et de biens.",
+      "dominoes.tile.3_3": "Un changement de fortune ou de situation approche, touchant souvent les affaires de cœur.",
+      "dominoes.tile.4_0": "Une déception ou un revers mineur est indiqué, mais cela passe si vous restez patient.",
+      "dominoes.tile.4_1": "Des dettes peuvent être réglées et les soucis financiers apaisés, apportant bientôt un soulagement bienvenu.",
+      "dominoes.tile.4_2": "Un changement en mieux est imminent, avec de l'argent ou de bonnes nouvelles arrivant à l'improviste.",
+      "dominoes.tile.4_3": "Le bonheur domestique et un coup de chance récompensent vos efforts constants.",
+      "dominoes.tile.4_4": "Une période de fête, de célébration et de joie partagée avec des amis ou la famille approche.",
+      "dominoes.tile.5_0": "Offrez du réconfort à autrui et prenez soin de vous, car un creux émotionnel ou financier peut vite passer.",
+      "dominoes.tile.5_1": "Un nouvel amour ou une rencontre mondaine apporte de l'excitation, même si elle peut s'avérer éphémère.",
+      "dominoes.tile.5_2": "La patience est nécessaire car les projets mûrissent lentement, mais un visiteur secourable apporte des encouragements.",
+      "dominoes.tile.5_3": "Une nouvelle bienvenue et une accalmie paisible promettent le calme après des troubles récents.",
+      "dominoes.tile.5_4": "Un gain financier est probable, mais gardez-vous des décisions hâtives et de la démesure.",
+      "dominoes.tile.5_5": "Un changement bénéfique et une nouvelle opportunité arrivent, surtout dans les affaires ou la carrière.",
+      "dominoes.tile.6_0": "Un avertissement de perte ou de séparation ; de vieilles affaires s'achèvent, faisant place à du nouveau.",
+      "dominoes.tile.6_1": "Une réconciliation, un mariage ou d'heureuses retrouvailles sont annoncés, réparant les différends passés.",
+      "dominoes.tile.6_2": "La bonne fortune et des transactions honnêtes apportent le succès, surtout par les voyages ou le commerce.",
+      "dominoes.tile.6_3": "Un voyage agréable, un cadeau ou un geste généreux remonte le moral et améliore vos perspectives.",
+      "dominoes.tile.6_4": "Une issue favorable dans les affaires juridiques ou commerciales récompense votre persévérance.",
+      "dominoes.tile.6_5": "Une gentillesse offerte ou reçue apporte du réconfort, et un modeste progrès s'ensuit.",
+      "dominoes.tile.6_6": "Le plus haut domino promet un grand succès, la prospérité et l'accomplissement de vos vœux les plus chers."
+    }
+  }
+}

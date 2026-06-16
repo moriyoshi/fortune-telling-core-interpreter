@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cyrillic_slavonic_numerals.result.total": "The Church Slavonic numeral total, summing the traditional values assigned to each Old Cyrillic letter, conveys the symbolic numerical essence ascribed to the name as a whole."
+    }
+  }
+}

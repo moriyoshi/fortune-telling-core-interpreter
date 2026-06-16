@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "locale": "ja-JP",
+  "templates": {
+    "branch": "{cjk}（{animal}）は{polarity}の{element}の気と蔵干を持ちます。"
+  },
+  "vocab": {
+    "elements": {
+      "wood": "木",
+      "fire": "火",
+      "earth": "土",
+      "metal": "金",
+      "water": "水"
+    },
+    "polarities": {
+      "yang": "陽",
+      "yin": "陰"
+    },
+    "animals": {
+      "Rat": "鼠",
+      "Ox": "牛",
+      "Tiger": "虎",
+      "Rabbit": "兎",
+      "Dragon": "龍",
+      "Snake": "蛇",
+      "Horse": "馬",
+      "Goat": "羊",
+      "Monkey": "猿",
+      "Rooster": "鶏",
+      "Dog": "犬",
+      "Pig": "猪"
+    }
+  }
+}

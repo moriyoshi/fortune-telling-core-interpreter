@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "sanmeigaku.main.kansaku": "Kansaku-sei (貫索星), bintang kemandirian, memberikan tekad yang teguh, kepercayaan pada diri sendiri dan kesabaran untuk mempertahankan arah seorang diri.",
+      "sanmeigaku.main.sekimon": "Sekimon-sei (石門星), bintang kemampuan bergaul, mengumpulkan orang melalui keselarasan, kerja sama dan popularitas yang mudah dalam suatu lingkaran.",
+      "sanmeigaku.main.hokaku": "Hōkaku-sei (鳳閣星), bintang kemudahan alami, membawa keceriaan, ekspresi dan kenikmatan akan kesenangan-kesenangan sederhana dalam hidup.",
+      "sanmeigaku.main.chosho": "Chōsho-sei (調舒星), bintang kepekaan, menganugerahkan jiwa seni dan perasaan yang mendalam, dengan sifat soliter dan menuntut seorang perfeksionis.",
+      "sanmeigaku.main.rokuson": "Rokuson-sei (禄存星), bintang kebajikan, menarik keberuntungan melalui kedermawanan, pesona dan kehangatan yang diberikan dengan tulus kepada orang lain.",
+      "sanmeigaku.main.shiroku": "Shiroku-sei (司禄星), bintang penimbunan, menjunjung kemantapan, kehematan dan pembangunan keamanan rumah tangga yang sabar.",
+      "sanmeigaku.main.shaki": "Shaki-sei (車騎星), bintang tindakan, melaju ke depan dengan kecepatan, keberanian dan semangat juang yang langsung tanpa ragu.",
+      "sanmeigaku.main.kengyu": "Kengyū-sei (牽牛星), bintang kebanggaan dan kewajiban, membawa kehormatan, tanggung jawab dan kepedulian yang bermartabat terhadap status serta tata krama.",
+      "sanmeigaku.main.ryuko": "Ryūkō-sei (龍高星), bintang petualangan, mencari yang tidak lazim, yang asing dan yang inovatif, berkembang dalam perubahan serta risiko.",
+      "sanmeigaku.main.gyokudo": "Gyokudō-sei (玉堂星), bintang pembelajaran, mencintai kecerdasan, tradisi dan keilmuan, dengan kebijaksanaan keibuan yang mengasuh.",
+      "sanmeigaku.subordinate.tenki": "Tenki-sei (天貴星), bintang anak, murni, berprinsip dan peka, membawa kehalusan budi yang terhormat dan terpelajar.",
+      "sanmeigaku.subordinate.tenkou": "Tenkō-sei (天恍星), bintang remaja, penuh impian dan romantis, terpikat oleh pengembaraan, kerinduan dan daya tarik hal yang tak diketahui.",
+      "sanmeigaku.subordinate.tennan": "Tennan-sei (天南星), bintang pemuda, berani dan bersemangat, penuh dorongan kompetitif yang gelisah dan kepercayaan diri fisik.",
+      "sanmeigaku.subordinate.tenroku": "Tenroku-sei (天禄星), bintang puncak usia, memberikan kekuatan kerja yang mantap, keandalan dan kematangan yang membumi serta produktif.",
+      "sanmeigaku.subordinate.tensho": "Tenshō-sei (天将星), bintang panglima, adalah yang paling perkasa — intens, dominan dan terlahir untuk memimpin di bawah tekanan besar.",
+      "sanmeigaku.subordinate.tendo": "Tendō-sei (天堂星), bintang sesepuh, tenang dan matang, bergerak perlahan dengan kebijaksanaan terlatih dan ketabahan yang hening.",
+      "sanmeigaku.subordinate.tenko": "Tenko-sei (天胡星), bintang masa pemulihan, halus dan penuh impian, dianugerahi imajinasi, jiwa seni dan kepekaan yang halus.",
+      "sanmeigaku.subordinate.tenkyoku": "Tenkyoku-sei (天極星), bintang kematian, terlepas dan spiritual, cenderung pada kepasrahan, introspeksi dan ketenangan dunia lain.",
+      "sanmeigaku.subordinate.tenkura": "Tenkura-sei (天庫星), bintang gudang, melestarikan dan meneliti, tertarik pada masa lalu, penimbunan dan kedalaman yang sabar.",
+      "sanmeigaku.subordinate.tenso": "Tensō-sei (天馳星), bintang roh, gesit dan gelisah, bermuatan energi cepat yang nyaris seperti dunia lain dan tak pernah berhenti.",
+      "sanmeigaku.subordinate.tenpo": "Tenpō-sei (天報星), bintang masa kandungan, tak henti berubah dan adaptif — energi gelisah dari permulaan dan gerakan yang terus-menerus.",
+      "sanmeigaku.subordinate.tenin": "Ten'in-sei (天印星), bintang bayi, polos dan menggemaskan, diberkahi dengan niat baik dan perlindungan dari orang-orang di sekitarnya."
+    }
+  }
+}

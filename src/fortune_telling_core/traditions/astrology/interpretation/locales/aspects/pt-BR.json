@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "locale": "pt-BR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "conjunction": "Uma conjunção funde os dois corpos, unindo suas energias em um foco único e intensificado que tinge a maneira como cada um se expressa.",
+      "opposition": "Uma oposição estende os dois corpos em uma polaridade, exigindo equilíbrio e consciência entre forças que se opõem e que muitas vezes se manifestam por meio dos outros.",
+      "trine": "Um trígono une os dois corpos em um fluxo fácil e harmonioso, um dom natural de talento e apoio que apenas pede para ser usado.",
+      "square": "Uma quadratura coloca os dois corpos em atrito, uma tensão que frustra mas também impulsiona o crescimento, a realização e a formação do caráter.",
+      "sextile": "Um sextil oferece um canal aberto e favorável entre os dois corpos, uma oportunidade que recompensa a iniciativa e o esforço delicado."
+    }
+  }
+}

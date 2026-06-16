@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "name_numerology.number.1": "Ein Name, der Unabhängigkeit, Tatkraft und Führungsstärke ausdrückt und einen pionierhaften, eigenständigen Charakter ausstrahlt.",
+      "name_numerology.number.2": "Ein Name, der Taktgefühl, Sensibilität und Kooperationsbereitschaft ausdrückt und einen sanften, ausgleichenden Charakter ausstrahlt.",
+      "name_numerology.number.3": "Ein Name, der Kreativität, Charme und Selbstausdruck ausdrückt und einen geselligen, optimistischen Charakter ausstrahlt.",
+      "name_numerology.number.4": "Ein Name, der Ordnung, Zuverlässigkeit und Fleiß ausdrückt und einen beständigen, praktischen Charakter ausstrahlt.",
+      "name_numerology.number.5": "Ein Name, der Vielseitigkeit, Freiheit und Neugier ausdrückt und einen dynamischen, abenteuerlustigen Charakter ausstrahlt.",
+      "name_numerology.number.6": "Ein Name, der Fürsorge, Verantwortung und Wärme ausdrückt und einen liebevollen, hingebungsvollen Charakter ausstrahlt.",
+      "name_numerology.number.7": "Ein Name, der Tiefe, Analyse und Besinnung ausdrückt und einen nachdenklichen, geheimnisvollen Charakter ausstrahlt.",
+      "name_numerology.number.8": "Ein Name, der Ehrgeiz, Autorität und Kompetenz ausdrückt und einen selbstbewussten, erfolgreichen Charakter ausstrahlt.",
+      "name_numerology.number.9": "Ein Name, der Mitgefühl, Idealismus und Weite ausdrückt und einen großzügigen, humanitären Charakter ausstrahlt.",
+      "name_numerology.number.11": "Ein Name mit der Meisterschwingung von Intuition und Inspiration, der einen visionären, erleuchtenden Charakter ausstrahlt.",
+      "name_numerology.number.22": "Ein Name mit der Meisterschwingung des Meisterbaumeisters, der einen fähigen, weitreichenden Charakter ausstrahlt.",
+      "name_numerology.number.33": "Ein Name mit der Meisterschwingung selbstloser Liebe und Heilung, der einen zutiefst mitfühlenden Charakter ausstrahlt."
+    }
+  }
+}

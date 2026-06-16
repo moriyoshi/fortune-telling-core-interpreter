@@ -1,0 +1,68 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+# Cancel superseded runs on the same ref to save CI minutes.
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    name: lint + type-check + test (py${{ matrix.python-version }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.12", "3.13", "3.14"]
+    # Both repos are checked out as siblings under the workspace so that, from
+    # the interpreter dir, core resolves at ../fortune-telling-core (matching
+    # mypy_path and the editable install below).
+    defaults:
+      run:
+        working-directory: fortune-telling-core-interpreter
+    steps:
+      - name: Checkout
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
+        with:
+          path: fortune-telling-core-interpreter
+
+      # This package extends the fortune_telling_core namespace owned by the
+      # sibling core project. Check it out alongside so the namespace resolves
+      # before fortune-telling-core is published to PyPI. fetch-depth: 0 brings
+      # the tags hatch-vcs needs to compute core's version (>=1.1.0 is required).
+      - name: Checkout sibling core
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
+        with:
+          repository: moriyoshi/fortune-telling-core
+          path: fortune-telling-core
+          fetch-depth: 0
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405 # v6.2.0
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+          cache-dependency-path: fortune-telling-core-interpreter/pyproject.toml
+
+      - name: Install
+        run: python -m pip install -e ../fortune-telling-core -e ".[dev]"
+
+      - name: Format check (ruff)
+        run: python -m ruff format --check .
+
+      - name: Lint (ruff)
+        run: python -m ruff check --output-format=github .
+
+      - name: Type-check (mypy)
+        run: python -m mypy src tests
+
+      - name: Test (pytest)
+        run: python -m pytest

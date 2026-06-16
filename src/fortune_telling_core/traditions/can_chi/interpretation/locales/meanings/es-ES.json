@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "locale": "es-ES",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cc.can.giap": "Giáp, el tronco Madera yang, anuncia un audaz impulso pionero y un crecimiento recto, como un gran árbol que se alza hacia la luz.",
+      "cc.can.at": "Ất, el tronco Madera yin, sugiere una suave adaptabilidad y una callada perseverancia, doblándose como una enredadera sin romperse jamás.",
+      "cc.can.binh": "Bính, el tronco Fuego yang, arde con un calor radiante, carisma y un espíritu abierto y generoso.",
+      "cc.can.dinh": "Đinh, el tronco Fuego yin, brilla con la luz firme e íntima de una lámpara, señalando una percepción refinada y la devoción.",
+      "cc.can.mau": "Mậu, el tronco Tierra yang, se yergue sólido y fiable como una montaña, ofreciendo estabilidad y una resolución inquebrantable.",
+      "cc.can.ky": "Kỷ, el tronco Tierra yin, nutre como un suelo fértil, favoreciendo la paciencia, el cuidado y el cultivo sosegado.",
+      "cc.can.canh": "Canh, el tronco Metal yang, porta la aguda fuerza del hierro forjado, denotando decisión, justicia y firmeza.",
+      "cc.can.tan": "Tân, el tronco Metal yin, reluce como una joya pulida, señalando elegancia, discernimiento y el gusto por las cosas bellas.",
+      "cc.can.nham": "Nhâm, el tronco Agua yang, fluye con la profundidad y la ambición de un gran río, abrazando el cambio y los horizontes lejanos.",
+      "cc.can.quy": "Quý, el tronco Agua yin, se mueve como la lluvia suave o la niebla, sugiriendo intuición, sensibilidad y una sabiduría callada.",
+      "cc.chi.ty": "Tý, la Rata, encarna el ingenio rápido, los recursos y un astuto oportunismo.",
+      "cc.chi.suu": "Sửu, el Búfalo, significa resistencia paciente, diligencia y una fiabilidad inquebrantable.",
+      "cc.chi.dan": "Dần, el Tigre, transmite valor, energía dinámica y una presencia imponente e intrépida.",
+      "cc.chi.mao": "Mão, el Gato, sugiere dulzura, tacto y un refinado gusto por la comodidad y la armonía.",
+      "cc.chi.thin": "Thìn, el Dragón, irradia poder, ambición y una vitalidad auspiciosa y desbordante.",
+      "cc.chi.ti": "Tỵ, la Serpiente, denota una profunda sabiduría, sutileza y una intuición callada y enigmática.",
+      "cc.chi.ngo": "Ngọ, el Caballo, galopa con libertad, entusiasmo y un inquieto espíritu aventurero.",
+      "cc.chi.mui": "Mùi, la Cabra, refleja ternura, creatividad y una naturaleza pacífica y compasiva.",
+      "cc.chi.than": "Thân, el Mono, destella con astucia, versatilidad e ingenio juguetón.",
+      "cc.chi.dau": "Dậu, el Gallo, marca la precisión, la confianza y un ojo franco y meticuloso para el detalle.",
+      "cc.chi.tuat": "Tuất, el Perro, representa la lealtad, la honestidad y un protector sentido de la justicia.",
+      "cc.chi.hoi": "Hợi, el Cerdo, encarna la sinceridad, la generosidad y una calidez afable y bondadosa."
+    }
+  }
+}

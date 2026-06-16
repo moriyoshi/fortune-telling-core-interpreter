@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "locale": "ja-JP",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cyrillic_slavonic_numerals.result.total": "古代キリル文字の各字に割り当てられた伝統的な数値を合計した教会スラヴ語数価の総和は、名前全体に与えられた象徴的な数の本質を伝えます。"
+    }
+  }
+}

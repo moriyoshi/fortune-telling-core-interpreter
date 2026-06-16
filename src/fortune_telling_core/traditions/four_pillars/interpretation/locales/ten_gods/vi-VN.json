@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {
+    "ten_god": "{label} mô tả cách thiên can này liên hệ với Nhật Chủ."
+  },
+  "vocab": {
+    "labels": {
+      "friend": "Tỷ Kiên",
+      "rob_wealth": "Kiếp Tài",
+      "eating_god": "Thực Thần",
+      "hurting_officer": "Thương Quan",
+      "indirect_wealth": "Thiên Tài",
+      "direct_wealth": "Chính Tài",
+      "seven_killings": "Thất Sát",
+      "direct_officer": "Chính Quan",
+      "indirect_resource": "Thiên Ấn",
+      "direct_resource": "Chính Ấn"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {},
+  "vocab": {
+    "texts": {
+      "principal": "Der Hauptstern beschreibt das Muster des Geburtsjahres.",
+      "monthly": "Der Monatsstern verfeinert das Geburtsmuster durch den Sonnenmonat.",
+      "daily": "Der Tagesstern erfasst den Sonnenwenden-Hemmungszyklus für den Tag.",
+      "tendency": "Der Tendenzstern wird aus dem Palast des Monatssterns im Geburtsjahresdiagramm abgeleitet."
+    }
+  }
+}

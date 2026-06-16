@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {},
+  "vocab": {
+    "texts": {
+      "ming": "Le Palais de la Vie (命宮) est le cœur du thème, décrivant votre caractère essentiel, votre tempérament et l'arc général de votre destinée.",
+      "siblings": "Le Palais des Frères et Sœurs (兄弟宮) parle des frères, des sœurs et des proches pairs, et de la façon dont vous coopérez et partagez avec ceux qui se tiennent à vos côtés.",
+      "spouse": "Le Palais du Conjoint (夫妻宮) régit le mariage et le partenariat, révélant la nature de vos liens les plus étroits et le rythme de votre vie amoureuse.",
+      "children": "Le Palais des Enfants (子女宮) concerne tout autant la progéniture, les élèves que les œuvres créatives, et le soin, la vitalité et l'héritage que vous transmettez.",
+      "wealth": "Le Palais de la Richesse (財帛宮) décrit les revenus, l'argent et la fortune matérielle — comment les ressources affluent vers vous et comment vous les conservez.",
+      "health": "Le Palais de la Santé (疾厄宮) reflète la constitution, la vitalité et la vulnérabilité à la maladie, ainsi que les tensions corporelles et émotionnelles à surveiller.",
+      "travel": "Le Palais du Voyage (遷移宮) régit le mouvement, les voyages et les opportunités loin de chez soi, et la façon dont le monde extérieur vous reçoit.",
+      "friends": "Le Palais des Amis (僕役宮) couvre les compagnons, les collègues et les subordonnés, et le soutien ou les frictions que vous rencontrez au sein de votre cercle.",
+      "career": "Le Palais de la Carrière (官祿宮) décrit la vocation, le statut et la réussite, et la position que vous bâtissez par votre travail.",
+      "property": "Le Palais des Biens (田宅宮) concerne le foyer, la terre et les biens familiaux, et la sécurité et l'atmosphère du lieu où vous demeurez.",
+      "fortune": "Le Palais de la Félicité (福德宮) parle du contentement, de la vie spirituelle et des bénédictions, et de la paix intérieure qui sous-tend la fortune extérieure.",
+      "parents": "Le Palais des Parents (父母宮) régit les parents, les aînés et l'autorité, et la protection, les conseils et l'héritage que vous recevez d'eux."
+    }
+  }
+}

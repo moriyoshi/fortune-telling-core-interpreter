@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "locale": "ja-JP",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "sanmeigaku.main.kansaku": "貫索星は独立の星であり、揺るがぬ意志と自立心、そして一人で道を貫き通す忍耐力を授けます。",
+      "sanmeigaku.main.sekimon": "石門星は社交の星であり、和合と協調、そして仲間うちでの気さくな人望によって人々を引き寄せます。",
+      "sanmeigaku.main.hokaku": "鳳閣星は天真爛漫の星であり、遊び心と表現力、そして人生のささやかな楽しみを味わう心をもたらします。",
+      "sanmeigaku.main.chosho": "調舒星は感受性の星であり、芸術性と深い情感を授ける一方で、孤独で妥協を許さない完璧主義の一面を帯びます。",
+      "sanmeigaku.main.rokuson": "禄存星は慈愛の星であり、惜しみなく注がれる寛大さと魅力と温かさによって福を引き寄せます。",
+      "sanmeigaku.main.shiroku": "司禄星は蓄積の星であり、堅実さと倹約、そして家庭の安定を粘り強く築くことを尊びます。",
+      "sanmeigaku.main.shaki": "車騎星は行動の星であり、速さと勇気、そしてためらわぬ直線的な闘争心をもって突き進みます。",
+      "sanmeigaku.main.kengyu": "牽牛星は誇りと務めの星であり、名誉と責任感、そして地位や体面を重んじる気品ある心構えを備えます。",
+      "sanmeigaku.main.ryuko": "龍高星は冒険の星であり、型破りなもの・異国のもの・独創的なものを求め、変化と冒険のうちに生き生きとします。",
+      "sanmeigaku.main.gyokudo": "玉堂星は学問の星であり、知性と伝統と学識を愛し、慈しみ育む母性的な叡智を備えます。",
+      "sanmeigaku.subordinate.tenki": "天貴星は幼児の星であり、純真で筋を通し、感受性に富み、気高く育ちのよい洗練を帯びます。",
+      "sanmeigaku.subordinate.tenkou": "天恍星は青年の星であり、夢見がちで情緒的、放浪と憧れ、そして未知のものの魅力に惹かれます。",
+      "sanmeigaku.subordinate.tennan": "天南星は少年の星であり、大胆で精力的、競争心と落ち着かぬ意欲、そして身体的な自信に満ちています。",
+      "sanmeigaku.subordinate.tenroku": "天禄星は壮年の星であり、着実な働きの力と信頼性、そして地に足のついた実り多い成熟を授けます。",
+      "sanmeigaku.subordinate.tensho": "天将星は将の星であり、最も強力で、激しく支配的、大いなる重圧のもとで人を率いるために生まれついています。",
+      "sanmeigaku.subordinate.tendo": "天堂星は長老の星であり、穏やかで円熟し、年季の入った叡智と静かな忍耐をもってゆっくりと歩みます。",
+      "sanmeigaku.subordinate.tenko": "天胡星は病人の星であり、繊細で夢見がち、想像力と芸術性、そして洗練された感性に恵まれます。",
+      "sanmeigaku.subordinate.tenkyoku": "天極星は死の星であり、執着がなく霊性に富み、明け渡しと内省、そして俗を離れた静けさへと傾きます。",
+      "sanmeigaku.subordinate.tenkura": "天庫星は蔵の星であり、保存と探究をつかさどり、過去・蓄積・粘り強い深みに惹かれます。",
+      "sanmeigaku.subordinate.tenso": "天馳星は魂の星であり、すばやく落ち着きなく、決して休まぬ俊敏でほとんど超自然的な気を帯びます。",
+      "sanmeigaku.subordinate.tenpo": "天報星は胎児の星であり、果てしなく移ろい順応し、始まりと絶えざる動きに満ちた落ち着かぬ気を宿します。",
+      "sanmeigaku.subordinate.tenin": "天印星は赤子の星であり、無邪気で愛らしく、周囲の好意と庇護に恵まれます。"
+    }
+  }
+}

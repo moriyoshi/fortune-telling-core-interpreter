@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "locale": "zh-TW",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cyrillic_slavonic_numerals.result.total": "教會斯拉夫數字總和，匯總賦予每個古西里爾字母的傳統數值，傳達歸於整個姓名的象徵性數字本質。"
+    }
+  }
+}

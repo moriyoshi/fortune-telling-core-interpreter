@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "celtic_tree.sign.birch": "Le bouleau désigne un pionnier déterminé et ambitieux qui balaie l'ancien pour repartir à neuf avec une résilience tranquille.",
+      "celtic_tree.sign.rowan": "Le sorbier dénote un esprit visionnaire et idéaliste, protecteur et original, guidé par un fort sens intérieur de sa vocation.",
+      "celtic_tree.sign.ash": "Le frêne révèle une âme imaginative et intuitive, tournée vers l'intérieur mais artistique, qui trouve la liberté par l'expression créatrice.",
+      "celtic_tree.sign.alder": "L'aulne signale un pionnier assuré et charismatique qui agit avec courage, confiance et une autorité naturelle.",
+      "celtic_tree.sign.willow": "Le saule parle d'une nature perspicace et intuitive, patiente et adaptable, dotée d'une compréhension profonde des courants cachés de la vie.",
+      "celtic_tree.sign.hawthorn": "L'aubépine dissimule un esprit curieux et adaptable sous une apparence réservée, conciliant avec aisance de nombreuses qualités contrastées.",
+      "celtic_tree.sign.oak": "Le chêne incarne un protecteur fort, généreux et constant qui inspire les autres par son optimisme et sa détermination durable.",
+      "celtic_tree.sign.holly": "Le houx désigne un chef noble et capable, confiant et ambitieux, qui surmonte les obstacles avec dignité et résolution.",
+      "celtic_tree.sign.hazel": "Le noisetier reflète un esprit habile et savant, vif observateur et éloquent, doté d'un don pour l'apprentissage et la perspicacité.",
+      "celtic_tree.sign.vine": "La vigne dénote une nature raffinée et changeante, sensible et perspicace, qui cherche l'équilibre et la beauté parmi les contradictions de la vie.",
+      "celtic_tree.sign.ivy": "Le lierre révèle une âme loyale et compatissante, résiliente et fidèle, qui s'épanouit par la patience et un dévouement constant.",
+      "celtic_tree.sign.reed": "Le roseau signale un chercheur de vérité perspicace et secret, attiré par les significations cachées et capable de discerner ce qui se trame sous la surface.",
+      "celtic_tree.sign.elder": "Le sureau incarne un vagabond libre et réfléchi, honnête et énergique, qui prise l'expérience et l'indépendance personnelle."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {
+    "branch": "{cjk} {animal} trägt {polarity}-{element}-Qi und verborgene Stämme."
+  },
+  "vocab": {
+    "elements": {
+      "wood": "Holz",
+      "fire": "Feuer",
+      "earth": "Erde",
+      "metal": "Metall",
+      "water": "Wasser"
+    },
+    "polarities": {
+      "yang": "Yang",
+      "yin": "Yin"
+    },
+    "animals": {
+      "Rat": "Ratte",
+      "Ox": "Büffel",
+      "Tiger": "Tiger",
+      "Rabbit": "Hase",
+      "Dragon": "Drache",
+      "Snake": "Schlange",
+      "Horse": "Pferd",
+      "Goat": "Ziege",
+      "Monkey": "Affe",
+      "Rooster": "Hahn",
+      "Dog": "Hund",
+      "Pig": "Schwein"
+    }
+  }
+}

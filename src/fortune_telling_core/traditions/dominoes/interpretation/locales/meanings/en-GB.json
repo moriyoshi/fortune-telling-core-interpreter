@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "dominoes.tile.0_0": "The blank tile warns of disappointment, loss, or plans that come to nothing, urging caution and patience.",
+      "dominoes.tile.1_0": "A solitary spot signals scandal, gossip, or trouble stirred by an unreliable acquaintance.",
+      "dominoes.tile.1_1": "Harmony and affection prevail, promising a happy, settled relationship and contentment at home.",
+      "dominoes.tile.2_0": "A pleasant journey or social outing lies ahead, though guard against careless spending.",
+      "dominoes.tile.2_1": "Money matters look set to improve, with help arriving through a friend or new acquaintance.",
+      "dominoes.tile.2_2": "Success and growth are favoured, bringing reward through partnership and shared effort.",
+      "dominoes.tile.3_0": "Unexpected news or a sudden quarrel may unsettle you, so weigh your words with care.",
+      "dominoes.tile.3_1": "Useful news or a clever idea arrives, though beware of indiscretion in love affairs.",
+      "dominoes.tile.3_2": "Steady progress and caution serve you well, especially in money and property matters.",
+      "dominoes.tile.3_3": "A change of fortune or circumstance is coming, often touching matters of the heart.",
+      "dominoes.tile.4_0": "Disappointment or a minor setback is indicated, but it passes if you remain patient.",
+      "dominoes.tile.4_1": "Debts may be cleared and financial worries eased, bringing welcome relief soon.",
+      "dominoes.tile.4_2": "A change for the better is at hand, with money or good news arriving unexpectedly.",
+      "dominoes.tile.4_3": "Domestic happiness and a stroke of good luck reward your steady efforts.",
+      "dominoes.tile.4_4": "A time of festivity, celebration, and shared joy with friends or family approaches.",
+      "dominoes.tile.5_0": "Offer comfort to another and take care, for an emotional or financial low may pass quickly.",
+      "dominoes.tile.5_1": "A new love or social engagement brings excitement, though it may prove fleeting.",
+      "dominoes.tile.5_2": "Patience is needed as plans mature slowly, yet a helpful visitor brings encouragement.",
+      "dominoes.tile.5_3": "Welcome news and a peaceful interlude promise calm after recent troubles.",
+      "dominoes.tile.5_4": "Financial gain is likely, though guard against rash decisions and overreaching.",
+      "dominoes.tile.5_5": "Beneficial change and fresh opportunity arrive, especially in business or career.",
+      "dominoes.tile.6_0": "A warning of loss or parting; old matters end, making way for something new.",
+      "dominoes.tile.6_1": "A reconciliation, marriage, or happy reunion is foretold, mending past differences.",
+      "dominoes.tile.6_2": "Good fortune and honest dealings bring success, especially through travel or trade.",
+      "dominoes.tile.6_3": "A pleasant trip, gift, or generous gesture lifts your spirits and your prospects.",
+      "dominoes.tile.6_4": "A favourable outcome in legal or business affairs rewards your perseverance.",
+      "dominoes.tile.6_5": "Kindness offered or received brings comfort, and modest progress follows.",
+      "dominoes.tile.6_6": "The highest tile promises great success, prosperity, and the fulfilment of your dearest wishes."
+    }
+  }
+}

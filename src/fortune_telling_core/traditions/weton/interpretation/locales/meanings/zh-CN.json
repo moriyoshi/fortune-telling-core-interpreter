@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "zh-CN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "weton.saptawara.senin": "Senin，星期一所生者，喻示沉静而耐心的天性，倾向于静默的省思与稳健周详的判断。",
+      "weton.saptawara.selasa": "Selasa，星期二所生者，指向干劲与抱负，怀着炽热而充沛的性情大胆追逐目标。",
+      "weton.saptawara.rabu": "Rabu，星期三所生者，预示合群与善辩，眷顾善于沟通且为人和悦之人。",
+      "weton.saptawara.kamis": "Kamis，星期四所生者，示意慷慨与好运，标志着崇尚学问、趋向昌盛的庄重性格。",
+      "weton.saptawara.jumat": "Jumat，星期五所生者，喻示虔敬与温情，赐福于一个留心信仰与家庭、温和而和谐的灵魂。",
+      "weton.saptawara.sabtu": "Sabtu，星期六所生者，映照出自律与韧性，适合勤勉坚韧、能耐艰难的天性。",
+      "weton.saptawara.minggu": "Minggu，星期日所生者，传达光明与领导力，照亮一个自信而灿烂、能吸引众人亲近的性格。",
+      "weton.pancawara.legi": "Legi，甘甜的集日，赋予优雅与温柔，培养讨人喜欢、令人安心的随和性情。",
+      "weton.pancawara.pahing": "Pahing，苦涩的集日，带来坚韧与果敢，塑造坚定执着、不惧冲突的强韧天性。",
+      "weton.pancawara.pon": "Pon，明丽的集日，赋予魅力与雅致，眷顾富有吸引力、巧思且具审美眼光的性格。",
+      "weton.pancawara.wage": "Wage，坚定的集日，植入节俭与恒常，标志着脚踏实地、务实而信念坚定的灵魂。",
+      "weton.pancawara.kliwon": "Kliwon，居中的集日，承载直觉与灵性的深度，赐予敏锐沉思、通达冥冥之物的天性。"
+    }
+  }
+}

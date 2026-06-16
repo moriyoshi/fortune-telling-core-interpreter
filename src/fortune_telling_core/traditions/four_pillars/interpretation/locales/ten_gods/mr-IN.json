@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "mr-IN",
+  "templates": {
+    "ten_god": "{label} हे कांड दिवसस्वामीशी कसे संबंधित आहे ते सांगते."
+  },
+  "vocab": {
+    "labels": {
+      "friend": "मित्र",
+      "rob_wealth": "धनहरण",
+      "eating_god": "भोजन देव",
+      "hurting_officer": "अधिकारी दुखावणारा",
+      "indirect_wealth": "अप्रत्यक्ष संपत्ती",
+      "direct_wealth": "प्रत्यक्ष संपत्ती",
+      "seven_killings": "सात हत्यारे",
+      "direct_officer": "प्रत्यक्ष अधिकारी",
+      "indirect_resource": "अप्रत्यक्ष संसाधन",
+      "direct_resource": "प्रत्यक्ष संसाधन"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "bn-IN",
+  "templates": {
+    "ten_god": "{label} বর্ণনা করে যে এই কাণ্ড দিন-অধিপতির সঙ্গে কীভাবে সম্পর্কিত।"
+  },
+  "vocab": {
+    "labels": {
+      "friend": "বন্ধু",
+      "rob_wealth": "সম্পদ-হরণ",
+      "eating_god": "ভোজন-দেবতা",
+      "hurting_officer": "আঘাতকারী-কর্মকর্তা",
+      "indirect_wealth": "পরোক্ষ-সম্পদ",
+      "direct_wealth": "প্রত্যক্ষ-সম্পদ",
+      "seven_killings": "সপ্ত-হত্যা",
+      "direct_officer": "প্রত্যক্ষ-কর্মকর্তা",
+      "indirect_resource": "পরোক্ষ-সম্পদ-উৎস",
+      "direct_resource": "প্রত্যক্ষ-সম্পদ-উৎস"
+    }
+  }
+}

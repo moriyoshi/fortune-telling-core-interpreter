@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "locale": "ja-JP",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cjk_name_strokes.result.heaven": "姓の画数から導かれる天格は、受け継がれた影響と、人生の初期の境遇を形づくる先祖代々の運勢を表します。",
+      "cjk_name_strokes.result.person": "姓の末字と名の頭字から成る人格は、核となる性格と気質、そして人生の盛りを映します。",
+      "cjk_name_strokes.result.earth": "名の画数から取られる地格は、若年期の運勢と、初期の人生や人間関係を築く土台を示します。",
+      "cjk_name_strokes.result.outer": "外格は、社会的地位と世間との関わりを司り、身内の外での評判や交流を形づくります。",
+      "cjk_name_strokes.result.total": "姓名の全画数の合計である総格は、全体の運命と晩年の運勢を示します。"
+    }
+  }
+}

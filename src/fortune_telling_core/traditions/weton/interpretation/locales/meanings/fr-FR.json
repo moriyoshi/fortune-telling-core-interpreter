@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "weton.saptawara.senin": "Senin, né un lundi, suggère une nature calme et patiente, encline à la réflexion tranquille et à un jugement posé et réfléchi.",
+      "weton.saptawara.selasa": "Selasa, né un mardi, indique l'élan et l'ambition, avec un tempérament fervent et énergique qui poursuit ses buts avec audace.",
+      "weton.saptawara.rabu": "Rabu, né un mercredi, indique la sociabilité et l'éloquence, favorisant ceux qui sont habiles à communiquer et agréables en société.",
+      "weton.saptawara.kamis": "Kamis, né un jeudi, signale la générosité et la bonne fortune, marquant un caractère digne attiré par le savoir et la prospérité.",
+      "weton.saptawara.jumat": "Jumat, né un vendredi, dénote la dévotion et la chaleur, bénissant une âme douce et harmonieuse soucieuse de la foi et de la famille.",
+      "weton.saptawara.sabtu": "Sabtu, né un samedi, reflète la discipline et la résilience, convenant à une nature laborieuse et persévérante qui endure l'épreuve.",
+      "weton.saptawara.minggu": "Minggu, né un dimanche, traduit l'éclat et le leadership, illuminant un caractère confiant et rayonnant qui attire les autres à lui.",
+      "weton.pancawara.legi": "Legi, le doux jour de marché, prête grâce et douceur, favorisant un naturel aimable et agréable qui met les autres à l'aise.",
+      "weton.pancawara.pahing": "Pahing, l'amer jour de marché, apporte ténacité et assurance, façonnant une nature déterminée et volontaire qui ne craint pas le conflit.",
+      "weton.pancawara.pon": "Pon, le radieux jour de marché, confère charme et raffinement, favorisant un caractère séduisant et habile doté d'un œil pour la beauté.",
+      "weton.pancawara.wage": "Wage, le constant jour de marché, instille l'économie et la constance, marquant une âme ancrée et pratique, ferme dans ses convictions.",
+      "weton.pancawara.kliwon": "Kliwon, le central jour de marché, porte l'intuition et la profondeur spirituelle, parant une nature perspicace et contemplative à l'écoute de l'invisible."
+    }
+  }
+}

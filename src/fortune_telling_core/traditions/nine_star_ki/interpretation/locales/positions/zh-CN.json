@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "locale": "zh-CN",
+  "templates": {},
+  "vocab": {
+    "texts": {
+      "principal": "本命星描述出生年的格局。",
+      "monthly": "月命星通过节气月份对本命格局加以细化。",
+      "daily": "日命星记录该日的至点循环周期。",
+      "tendency": "倾向星由月命星在本命年盘中的宫位推导而来。"
+    }
+  }
+}

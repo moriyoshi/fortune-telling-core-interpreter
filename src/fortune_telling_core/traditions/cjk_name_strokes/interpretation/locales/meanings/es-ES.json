@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "locale": "es-ES",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cjk_name_strokes.result.heaven": "El Cuadro del Cielo, derivado de los trazos del apellido, representa las influencias heredadas y la fortuna ancestral que enmarca las primeras circunstancias de una persona.",
+      "cjk_name_strokes.result.person": "El Cuadro de la Persona, formado por el último carácter del apellido y el primero del nombre, refleja el carácter esencial, el temperamento y la plenitud de la vida.",
+      "cjk_name_strokes.result.earth": "El Cuadro de la Tierra, tomado de los trazos del nombre, indica la fortuna juvenil y el cimiento sobre el que se construyen los primeros años y las relaciones.",
+      "cjk_name_strokes.result.outer": "El Cuadro Exterior rige la posición social y el trato con el mundo más amplio, modelando la reputación y las interacciones más allá de la familia inmediata.",
+      "cjk_name_strokes.result.total": "El Cuadro Total, suma de todos los trazos del nombre, significa el destino global y la fortuna de los últimos años."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "locale": "ta-IN",
+  "templates": {
+    "branch": "{cjk} {animal} {polarity} {element} கியையும் மறைந்த தண்டுகளையும் தாங்குகிறது."
+  },
+  "vocab": {
+    "elements": {
+      "wood": "மரம்",
+      "fire": "நெருப்பு",
+      "earth": "பூமி",
+      "metal": "உலோகம்",
+      "water": "நீர்"
+    },
+    "polarities": {
+      "yang": "யாங்",
+      "yin": "யின்"
+    },
+    "animals": {
+      "Rat": "எலி",
+      "Ox": "எருது",
+      "Tiger": "புலி",
+      "Rabbit": "முயல்",
+      "Dragon": "டிராகன்",
+      "Snake": "பாம்பு",
+      "Horse": "குதிரை",
+      "Goat": "ஆடு",
+      "Monkey": "குரங்கு",
+      "Rooster": "சேவல்",
+      "Dog": "நாய்",
+      "Pig": "பன்றி"
+    }
+  }
+}

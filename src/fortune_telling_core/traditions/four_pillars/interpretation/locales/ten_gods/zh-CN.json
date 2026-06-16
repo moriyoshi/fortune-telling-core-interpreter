@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "zh-CN",
+  "templates": {
+    "ten_god": "{label}描述该天干与日主之间的关系。"
+  },
+  "vocab": {
+    "labels": {
+      "friend": "比肩",
+      "rob_wealth": "劫财",
+      "eating_god": "食神",
+      "hurting_officer": "伤官",
+      "indirect_wealth": "偏财",
+      "direct_wealth": "正财",
+      "seven_killings": "七杀",
+      "direct_officer": "正官",
+      "indirect_resource": "偏印",
+      "direct_resource": "正印"
+    }
+  }
+}

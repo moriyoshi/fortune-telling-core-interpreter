@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "locale": "mr-IN",
+  "templates": {
+    "stem": "{cjk} मध्ये {polarity} {element} ची ऊर्जा असते."
+  },
+  "vocab": {
+    "elements": {
+      "wood": "लाकूड",
+      "fire": "अग्नी",
+      "earth": "पृथ्वी",
+      "metal": "धातू",
+      "water": "जल"
+    },
+    "polarities": {
+      "yang": "यांग",
+      "yin": "यिन"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "celtic_tree.sign.birch": "Cây bạch dương đánh dấu một người tiên phong quyết tâm và đầy hoài bão, dọn sạch cái cũ để bắt đầu lại với sức bền bỉ lặng lẽ.",
+      "celtic_tree.sign.rowan": "Cây thanh lương trà biểu thị một tâm hồn nhìn xa và lý tưởng, biết che chở và độc đáo, được dẫn dắt bởi ý thức mạnh mẽ về mục đích bên trong.",
+      "celtic_tree.sign.ash": "Cây tần bì hé lộ một tâm hồn giàu trí tưởng tượng và trực giác, hướng nội mà nghệ sĩ, tìm thấy tự do qua sự thể hiện sáng tạo.",
+      "celtic_tree.sign.alder": "Cây tổng quán sủi báo hiệu một người dẫn đường tự tin và lôi cuốn, hành động bằng lòng can đảm, sự tự tin và uy quyền tự nhiên.",
+      "celtic_tree.sign.willow": "Cây liễu nói lên một bản tính tinh tường và trực giác, kiên nhẫn và linh hoạt, thấu hiểu sâu sắc những dòng chảy ẩn giấu của cuộc đời.",
+      "celtic_tree.sign.hawthorn": "Cây táo gai che giấu một trí tuệ tò mò và linh hoạt sau vẻ ngoài dè dặt, dung hòa nhẹ nhàng nhiều phẩm chất trái ngược.",
+      "celtic_tree.sign.oak": "Cây sồi hiện thân của người che chở mạnh mẽ, hào phóng và kiên định, truyền cảm hứng cho người khác bằng sự lạc quan và lòng quyết tâm bền bỉ.",
+      "celtic_tree.sign.holly": "Cây nhựa ruồi đánh dấu một thủ lĩnh cao quý và tài năng, tự tin và đầy hoài bão, vượt qua trở ngại bằng phẩm giá và ý chí.",
+      "celtic_tree.sign.hazel": "Cây phỉ phản ánh một trí óc thông minh và uyên bác, sắc bén trong quan sát và diễn đạt, có thiên phú học hỏi và thấu hiểu.",
+      "celtic_tree.sign.vine": "Cây nho biểu thị một bản tính tinh tế và hay thay đổi, nhạy cảm và sáng suốt, tìm kiếm sự cân bằng và cái đẹp giữa những mâu thuẫn của đời.",
+      "celtic_tree.sign.ivy": "Cây thường xuân hé lộ một tâm hồn trung thành và giàu trắc ẩn, bền bỉ và thủy chung, nở rộ nhờ sự kiên nhẫn và lòng tận tụy vững vàng.",
+      "celtic_tree.sign.reed": "Cây sậy báo hiệu một người tìm kiếm sự thật tinh tường và kín đáo, bị cuốn hút bởi những ý nghĩa ẩn giấu và biết nhìn thấu điều nằm dưới bề mặt.",
+      "celtic_tree.sign.elder": "Cây cơm cháy hiện thân của một kẻ lang thang tự do và sâu sắc, trung thực và tràn đầy năng lượng, trân trọng trải nghiệm và sự độc lập cá nhân."
+    }
+  }
+}

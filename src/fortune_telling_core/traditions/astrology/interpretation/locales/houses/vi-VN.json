@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {
+    "placement": "{body} ở nhà {house} nhấn mạnh {topics}."
+  },
+  "vocab": {
+    "bodies": {
+      "sun": "Mặt Trời",
+      "moon": "Mặt Trăng",
+      "mercury": "Sao Thủy",
+      "venus": "Sao Kim",
+      "mars": "Sao Hỏa",
+      "jupiter": "Sao Mộc",
+      "saturn": "Sao Thổ",
+      "uranus": "Sao Thiên Vương",
+      "neptune": "Sao Hải Vương",
+      "pluto": "Sao Diêm Vương",
+      "north_node": "La Hầu",
+      "south_node": "Kế Đô",
+      "ascendant": "Cung Mọc",
+      "midheaven": "Thiên Đỉnh"
+    },
+    "topics": {
+      "1": "bản ngã, thân thể, cách tiếp cận",
+      "2": "tài nguyên, giá trị, sự an toàn",
+      "3": "giao tiếp, anh chị em, học tập",
+      "4": "gia đình, cội nguồn, đời sống riêng tư",
+      "5": "sáng tạo, niềm vui, con cái",
+      "6": "công việc, sức khỏe, phục vụ",
+      "7": "quan hệ đối tác, hợp đồng, người khác",
+      "8": "tài sản chung, mất mát, chuyển hóa",
+      "9": "niềm tin, du hành, học vấn cao hơn",
+      "10": "sự nghiệp, địa vị, đời sống công cộng",
+      "11": "bạn bè, hy vọng, nhóm hội",
+      "12": "ẩn dật, điều ẩn giấu, tự hủy hoại"
+    }
+  }
+}

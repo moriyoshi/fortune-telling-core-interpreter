@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {},
+  "vocab": {
+    "texts": {
+      "ming": "Cung Mệnh (命宮) là trái tim của lá số, mô tả tính cách cốt lõi, khí chất và toàn bộ cung đường vận mệnh của bạn.",
+      "siblings": "Cung Huynh Đệ (兄弟宮) nói về anh em trai gái và những người đồng trang lứa thân thiết, cùng cách bạn hợp tác và sẻ chia với những người đứng cạnh mình.",
+      "spouse": "Cung Phu Thê (夫妻宮) cai quản hôn nhân và sự gắn kết lứa đôi, hé lộ bản chất những mối ràng buộc thân mật nhất và nhịp điệu đời sống tình cảm của bạn.",
+      "children": "Cung Tử Nữ (子女宮) liên quan đến con cái, học trò cũng như những thành quả sáng tạo, cùng sự chăm sóc, sinh khí và di sản bạn truyền lại.",
+      "wealth": "Cung Tài Bạch (財帛宮) mô tả thu nhập, tiền bạc và vận may vật chất — cách của cải chảy đến với bạn và cách bạn nắm giữ chúng.",
+      "health": "Cung Tật Ách (疾厄宮) phản ánh thể trạng, sinh khí và sự dễ tổn thương trước bệnh tật, cùng những căng thẳng về thân thể và cảm xúc cần lưu tâm.",
+      "travel": "Cung Thiên Di (遷移宮) cai quản sự di chuyển, những chuyến đi và cơ hội xa nhà, cùng cách thế giới rộng lớn đón nhận bạn.",
+      "friends": "Cung Nô Bộc (僕役宮) bao quát bằng hữu, đồng nghiệp và thuộc cấp, cùng sự hỗ trợ hay va chạm bạn gặp trong vòng quan hệ của mình.",
+      "career": "Cung Quan Lộc (官祿宮) mô tả nghề nghiệp, địa vị và thành tựu, cùng vị thế bạn gây dựng qua công việc của mình.",
+      "property": "Cung Điền Trạch (田宅宮) liên quan đến nhà cửa, đất đai và tài sản gia đình, cùng sự an toàn và bầu không khí nơi bạn cư ngụ.",
+      "fortune": "Cung Phúc Đức (福德宮) nói về sự mãn nguyện, đời sống tinh thần và phúc lành, cùng sự bình an nội tâm làm nền cho vận may bên ngoài.",
+      "parents": "Cung Phụ Mẫu (父母宮) cai quản cha mẹ, bậc trưởng thượng và quyền uy, cùng sự che chở, dẫn dắt và thừa kế bạn nhận được từ họ."
+    }
+  }
+}

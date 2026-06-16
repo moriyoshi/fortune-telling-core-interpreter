@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {
+    "placement": "{body} ở cung {sign} biểu lộ qua phẩm chất {element} {modality}.",
+    "retrograde_suffix": " Chuyển động nghịch hành hướng sự biểu lộ vào bên trong để xem xét lại."
+  },
+  "vocab": {
+    "signs": {
+      "aries": "Bạch Dương",
+      "taurus": "Kim Ngưu",
+      "gemini": "Song Tử",
+      "cancer": "Cự Giải",
+      "leo": "Sư Tử",
+      "virgo": "Xử Nữ",
+      "libra": "Thiên Bình",
+      "scorpio": "Bọ Cạp",
+      "sagittarius": "Nhân Mã",
+      "capricorn": "Ma Kết",
+      "aquarius": "Bảo Bình",
+      "pisces": "Song Ngư"
+    },
+    "bodies": {
+      "sun": "Mặt Trời",
+      "moon": "Mặt Trăng",
+      "mercury": "Sao Thủy",
+      "venus": "Sao Kim",
+      "mars": "Sao Hỏa",
+      "jupiter": "Sao Mộc",
+      "saturn": "Sao Thổ",
+      "uranus": "Sao Thiên Vương",
+      "neptune": "Sao Hải Vương",
+      "pluto": "Sao Diêm Vương",
+      "north_node": "La Hầu",
+      "south_node": "Kế Đô",
+      "ascendant": "Cung Mọc",
+      "midheaven": "Thiên Đỉnh"
+    },
+    "elements": {
+      "fire": "hỏa",
+      "earth": "thổ",
+      "air": "khí",
+      "water": "thủy"
+    },
+    "modalities": {
+      "cardinal": "tiên phong",
+      "fixed": "cố định",
+      "mutable": "linh hoạt"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "thaksa.graha.athit": "The Sun governs vitality, authority and the core sense of self that anchors a person's standing within the Thaksa system.",
+      "thaksa.graha.chan": "The Moon reflects the emotions, intuition and nurturing temperament that shape one's inner life in Thaksa astrology.",
+      "thaksa.graha.angkhan": "Mars supplies the drive, courage and assertive energy that propels action and contest within the Thaksa scheme.",
+      "thaksa.graha.phut": "Mercury rules intellect, speech and adaptability, marking the capacity for learning and communication in Thaksa.",
+      "thaksa.graha.sao": "Saturn signifies discipline, hardship and endurance, testing patience and shaping long-term resolve in Thaksa astrology.",
+      "thaksa.graha.pharuehat": "Jupiter bestows wisdom, fortune and benevolence, expanding opportunity and moral guidance within the Thaksa system.",
+      "thaksa.graha.rahu": "Rahu embodies upheaval, illusion and sudden change, introducing unexpected turns and shadowy influences in Thaksa.",
+      "thaksa.graha.suk": "Venus represents love, beauty and harmony, fostering pleasure, relationships and artistic grace in Thaksa astrology."
+    }
+  }
+}

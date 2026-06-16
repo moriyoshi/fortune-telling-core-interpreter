@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "locale": "te-IN",
+  "templates": {
+    "branch": "{cjk} {animal} {polarity} {element} చీని మరియు దాగి ఉన్న కాండాలను మోస్తుంది."
+  },
+  "vocab": {
+    "elements": {
+      "wood": "కాష్ఠం",
+      "fire": "అగ్ని",
+      "earth": "భూమి",
+      "metal": "లోహం",
+      "water": "జలం"
+    },
+    "polarities": {
+      "yang": "యాంగ్",
+      "yin": "యిన్"
+    },
+    "animals": {
+      "Rat": "ఎలుక",
+      "Ox": "ఎద్దు",
+      "Tiger": "పులి",
+      "Rabbit": "కుందేలు",
+      "Dragon": "డ్రాగన్",
+      "Snake": "పాము",
+      "Horse": "గుర్రం",
+      "Goat": "మేక",
+      "Monkey": "కోతి",
+      "Rooster": "కోడిపుంజు",
+      "Dog": "కుక్క",
+      "Pig": "పంది"
+    }
+  }
+}

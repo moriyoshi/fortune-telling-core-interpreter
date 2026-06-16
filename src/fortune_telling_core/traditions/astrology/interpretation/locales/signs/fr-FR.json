@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {
+    "placement": "En {sign}, {body} s'exprime à travers l'élément {element} en mode {modality}.",
+    "retrograde_suffix": " Le mouvement rétrograde tourne cette expression vers l'intérieur pour la réexaminer."
+  },
+  "vocab": {
+    "signs": {
+      "aries": "Bélier",
+      "taurus": "Taureau",
+      "gemini": "Gémeaux",
+      "cancer": "Cancer",
+      "leo": "Lion",
+      "virgo": "Vierge",
+      "libra": "Balance",
+      "scorpio": "Scorpion",
+      "sagittarius": "Sagittaire",
+      "capricorn": "Capricorne",
+      "aquarius": "Verseau",
+      "pisces": "Poissons"
+    },
+    "bodies": {
+      "sun": "le Soleil",
+      "moon": "la Lune",
+      "mercury": "Mercure",
+      "venus": "Vénus",
+      "mars": "Mars",
+      "jupiter": "Jupiter",
+      "saturn": "Saturne",
+      "uranus": "Uranus",
+      "neptune": "Neptune",
+      "pluto": "Pluton",
+      "north_node": "le Nœud Nord",
+      "south_node": "le Nœud Sud",
+      "ascendant": "l'Ascendant",
+      "midheaven": "le Milieu du Ciel"
+    },
+    "elements": {
+      "fire": "Feu",
+      "earth": "Terre",
+      "air": "Air",
+      "water": "Eau"
+    },
+    "modalities": {
+      "cardinal": "cardinal",
+      "fixed": "fixe",
+      "mutable": "mutable"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {},
+  "vocab": {
+    "texts": {
+      "principal": "Bintang utama menggambarkan pola tahun natal.",
+      "monthly": "Bintang bulanan memperhalus pola natal melalui bulan matahari.",
+      "daily": "Bintang harian mencatat siklus escapement titik balik matahari untuk hari itu.",
+      "tendency": "Bintang kecenderungan diturunkan dari istana bintang bulanan dalam bagan tahun natal."
+    }
+  }
+}

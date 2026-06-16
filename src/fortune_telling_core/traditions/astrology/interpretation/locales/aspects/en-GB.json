@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "conjunction": "A conjunction fuses the two bodies, merging their energies into a single, intensified focus that colours how each is expressed.",
+      "opposition": "An opposition stretches the two bodies into a polarity, calling for balance and awareness between competing pulls that often play out through others.",
+      "trine": "A trine joins the two bodies in easy, harmonious flow, an effortless gift of talent and support that asks only to be used.",
+      "square": "A square sets the two bodies at friction, a tension that frustrates yet drives growth, achievement and the building of character.",
+      "sextile": "A sextile offers a supportive, open channel between the two bodies, an opportunity that rewards initiative and gentle effort."
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "geomancy.figure.via": "Via báo hiệu sự thay đổi, chuyển động và những chuyến đi, đánh dấu một bước ngoặt nơi một con đường khép lại và một con đường khác mở ra.",
+      "geomancy.figure.cauda_draconis": "Cauda Draconis đánh dấu sự kết thúc và ra đi, thuận cho việc buông bỏ điều đã hết dù có thể để lại sự hỗn loạn theo sau.",
+      "geomancy.figure.puer": "Puer biểu thị năng lượng trẻ trung, bốc đồng mang lại sự táo bạo và hành động mau lẹ nhưng cũng cả sự nóng vội và xung đột.",
+      "geomancy.figure.fortuna_minor": "Fortuna Minor mang lại vận may nhỏ nhoi, thoáng qua, ưu ái hành động mau lẹ với sự trợ giúp bên ngoài hơn là lợi lộc lâu bền.",
+      "geomancy.figure.caput_draconis": "Caput Draconis báo hiệu sự khởi đầu và cơ hội mới mẻ, một ngưỡng cửa tốt lành cho những dự định mới và sự phát triển.",
+      "geomancy.figure.coniunctio": "Coniunctio tượng trưng cho sự kết hợp, gặp gỡ và hợp tác, đưa con người, sự việc hay ý tưởng lại với nhau dù tốt hay xấu.",
+      "geomancy.figure.acquisitio": "Acquisitio là hình tượng của lợi lộc và thu hoạch, hứa hẹn sự thâu nhận thành công của cải, tài sản hay những mục đích mong muốn.",
+      "geomancy.figure.rubeus": "Rubeus cảnh báo về dục vọng, cơn giận và sự lừa dối, một hình tượng bất lợi tốt nhất nên xử lý với sự thận trọng và kiềm chế.",
+      "geomancy.figure.puella": "Puella tượng trưng cho sự hài hòa, cái đẹp và tình cảm, một hình tượng dịu dàng và thuận lợi, nhất là trong chuyện tình ái và lạc thú.",
+      "geomancy.figure.amissio": "Amissio biểu thị sự mất mát và buông bỏ, bất lợi cho việc giữ gìn nhưng hữu ích khi điều ta tìm là sự giải thoát.",
+      "geomancy.figure.carcer": "Carcer tượng trưng cho sự giam hãm, trì hoãn và ràng buộc, khiến sự việc bị neo tại chỗ và khuyên ta kiên nhẫn.",
+      "geomancy.figure.laetitia": "Laetitia là hình tượng vui tươi của hạnh phúc, sức khỏe và hy vọng, nâng đỡ tinh thần và thuận cho sự tiến lên.",
+      "geomancy.figure.fortuna_maior": "Fortuna Maior mang lại vận may lớn lao và lâu bền, thành công giành được nhờ sức mạnh vững vàng và nguồn lực nội tại của chính mình.",
+      "geomancy.figure.albus": "Albus tượng trưng cho sự sáng tỏ, an bình và trí tuệ, một hình tượng điềm tĩnh và thuận lợi hợp với suy tư, mưu lược và phán xét cẩn trọng.",
+      "geomancy.figure.tristitia": "Tristitia biểu thị nỗi buồn, gian khó và sầu muộn, một hình tượng đi xuống khuyên ta chịu đựng qua những thời điểm khó khăn.",
+      "geomancy.figure.populus": "Populus tượng trưng cho đám đông hay sự tụ họp, một hình tượng trung tính và thụ động, phản ánh những ảnh hưởng xung quanh mà không tự mình hành động."
+    }
+  }
+}

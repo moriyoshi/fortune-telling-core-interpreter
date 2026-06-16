@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cc.can.giap": "Giáp, le tronc Bois yang, annonce un élan pionnier audacieux et une croissance droite, tel un grand arbre s'élevant vers la lumière.",
+      "cc.can.at": "Ất, le tronc Bois yin, suggère une douce capacité d'adaptation et une persévérance tranquille, ployant comme une liane sans jamais rompre.",
+      "cc.can.binh": "Bính, le tronc Feu yang, flamboie d'une chaleur rayonnante, de charisme et d'un esprit ouvert et généreux.",
+      "cc.can.dinh": "Đinh, le tronc Feu yin, rayonne de la lumière stable et intime d'une lampe, marquant une intuition raffinée et le dévouement.",
+      "cc.can.mau": "Mậu, le tronc Terre yang, se dresse solide et fiable comme une montagne, offrant stabilité et résolution inébranlable.",
+      "cc.can.ky": "Kỷ, le tronc Terre yin, nourrit comme un sol fertile, favorisant la patience, le soin et la culture tranquille.",
+      "cc.can.canh": "Canh, le tronc Métal yang, porte la force aiguisée du fer forgé, signe de décision, de justice et de fermeté.",
+      "cc.can.tan": "Tân, le tronc Métal yin, brille comme un joyau poli, marquant l'élégance, le discernement et l'amour des belles choses.",
+      "cc.can.nham": "Nhâm, le tronc Eau yang, coule avec la profondeur et l'ambition d'un grand fleuve, embrassant le changement et les vastes horizons.",
+      "cc.can.quy": "Quý, le tronc Eau yin, se meut comme une pluie douce ou une brume, suggérant l'intuition, la sensibilité et une sagesse tranquille.",
+      "cc.chi.ty": "Tý, le Rat, incarne la vivacité d'esprit, l'ingéniosité et un opportunisme avisé.",
+      "cc.chi.suu": "Sửu, le Buffle, signifie l'endurance patiente, l'assiduité et une fiabilité inébranlable.",
+      "cc.chi.dan": "Dần, le Tigre, exprime le courage, une énergie dynamique et une présence dominante et intrépide.",
+      "cc.chi.mao": "Mão, le Chat, suggère la douceur, le tact et un amour raffiné du confort et de l'harmonie.",
+      "cc.chi.thin": "Thìn, le Dragon, rayonne de puissance, d'ambition et d'une vitalité fastueuse et hors du commun.",
+      "cc.chi.ti": "Tỵ, le Serpent, dénote une sagesse profonde, la subtilité et une intuition discrètement énigmatique.",
+      "cc.chi.ngo": "Ngọ, le Cheval, galope avec liberté, enthousiasme et un esprit d'aventure insatiable.",
+      "cc.chi.mui": "Mùi, la Chèvre, reflète la tendresse, la créativité et une nature pacifique et compatissante.",
+      "cc.chi.than": "Thân, le Singe, étincelle d'intelligence, de polyvalence et d'une ingéniosité espiègle.",
+      "cc.chi.dau": "Dậu, le Coq, marque la précision, l'assurance et un œil franc et méticuleux pour le détail.",
+      "cc.chi.tuat": "Tuất, le Chien, représente la loyauté, l'honnêteté et un sens protecteur de la justice.",
+      "cc.chi.hoi": "Hợi, le Cochon, incarne la sincérité, la générosité et une chaleur bon enfant et facile à vivre."
+    }
+  }
+}

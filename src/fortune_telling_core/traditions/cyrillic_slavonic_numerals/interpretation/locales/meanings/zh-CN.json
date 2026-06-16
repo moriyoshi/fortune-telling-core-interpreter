@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "locale": "zh-CN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cyrillic_slavonic_numerals.result.total": "教会斯拉夫数值之和，汇总每个古西里尔字母所对应的传统数值，传达赋予整个姓名的象征性数字精髓。"
+    }
+  }
+}

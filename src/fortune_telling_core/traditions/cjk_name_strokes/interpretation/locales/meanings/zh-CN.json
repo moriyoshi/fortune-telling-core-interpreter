@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "locale": "zh-CN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cjk_name_strokes.result.heaven": "天格由姓氏笔画推算而来，代表承袭的影响与祖荫余泽，框定一个人早年的境遇。",
+      "cjk_name_strokes.result.person": "人格由姓氏末字与名字首字组合而成，反映核心性格、气质以及人生的壮年时期。",
+      "cjk_name_strokes.result.earth": "地格取自名字的笔画，预示少年运势，以及早年生活与人际关系赖以建立的根基。",
+      "cjk_name_strokes.result.outer": "外格主宰一个人的社会地位与对外交往，塑造其在直系家庭之外的声誉与互动。",
+      "cjk_name_strokes.result.total": "总格为姓名全部笔画之和，象征总体的命运以及晚年的运势。"
+    }
+  }
+}

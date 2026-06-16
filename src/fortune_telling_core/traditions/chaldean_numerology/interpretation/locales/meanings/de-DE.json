@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "chaldean_numerology.number.1": "Von der Sonne beherrscht, steht die Eins für Führungskraft, Originalität und einen starken, selbstständigen Schaffensdrang.",
+      "chaldean_numerology.number.2": "Vom Mond beherrscht, steht die Zwei für Feinfühligkeit, Diplomatie und eine intuitive Gabe zur Zusammenarbeit.",
+      "chaldean_numerology.number.3": "Von Jupiter beherrscht, steht die Drei für Optimismus, Selbstausdruck und einen disziplinierten Ehrgeiz zu wachsen.",
+      "chaldean_numerology.number.4": "Von Uranus beherrscht, steht die Vier für unkonventionelles Denken, Ruhelosigkeit und eine stille Auflehnung gegen das Herkömmliche.",
+      "chaldean_numerology.number.5": "Von Merkur beherrscht, steht die Fünf für Vielseitigkeit, geistige Wendigkeit und eine ruhelose Liebe zu Kommunikation und Wandel.",
+      "chaldean_numerology.number.6": "Von Venus beherrscht, steht die Sechs für Harmonie, Zuneigung und eine fürsorgliche Hingabe an Heim und Schönheit.",
+      "chaldean_numerology.number.7": "Von Neptun beherrscht, steht die Sieben für Innenschau, Vorstellungskraft und eine mystische Suche nach tieferem Sinn.",
+      "chaldean_numerology.number.8": "Von Saturn beherrscht, steht die Acht für Disziplin, materiellen Ehrgeiz und eine erprobte Widerstandskraft in weltlichen Belangen.",
+      "chaldean_numerology.number.9": "Von Mars beherrscht, steht die Neun für Mut, Entschlossenheit und einen leidenschaftlichen Drang zu kühnem Handeln."
+    }
+  }
+}

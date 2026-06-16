@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "locale": "pt-BR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cyrillic_slavonic_numerals.result.total": "O total dos numerais eslavos eclesiásticos, somando os valores tradicionais atribuídos a cada letra do cirílico antigo, transmite a essência numérica simbólica conferida ao nome como um todo."
+    }
+  }
+}

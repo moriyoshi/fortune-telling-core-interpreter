@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "locale": "bn-IN",
+  "templates": {
+    "stem": "{cjk} {polarity} {element} চি বহন করে।"
+  },
+  "vocab": {
+    "elements": {
+      "wood": "কাঠ",
+      "fire": "অগ্নি",
+      "earth": "মাটি",
+      "metal": "ধাতু",
+      "water": "জল"
+    },
+    "polarities": {
+      "yang": "ইয়াং",
+      "yin": "ইন"
+    }
+  }
+}

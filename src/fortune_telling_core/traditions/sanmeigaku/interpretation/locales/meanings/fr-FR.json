@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "sanmeigaku.main.kansaku": "Kansaku-sei (貫索星), l'étoile de l'indépendance, donne une volonté inébranlable, l'autonomie et la patience de tenir seul un cap.",
+      "sanmeigaku.main.sekimon": "Sekimon-sei (石門星), l'étoile de la sociabilité, rassemble les gens par l'harmonie, la coopération et une popularité aisée au sein d'un cercle.",
+      "sanmeigaku.main.hokaku": "Hōkaku-sei (鳳閣星), l'étoile de l'aisance naturelle, apporte l'enjouement, l'expression et le goût des plaisirs simples de la vie.",
+      "sanmeigaku.main.chosho": "Chōsho-sei (調舒星), l'étoile de la sensibilité, confère l'art et le sentiment profond, avec la veine solitaire et exigeante d'un perfectionniste.",
+      "sanmeigaku.main.rokuson": "Rokuson-sei (禄存星), l'étoile de la bienveillance, attire la fortune par la générosité, le charme et la chaleur offerte librement aux autres.",
+      "sanmeigaku.main.shiroku": "Shiroku-sei (司禄星), l'étoile de l'accumulation, prise la constance, l'épargne et l'édification patiente de la sécurité domestique.",
+      "sanmeigaku.main.shaki": "Shaki-sei (車騎星), l'étoile de l'action, fonce en avant avec rapidité, courage et un esprit combatif direct et sans hésitation.",
+      "sanmeigaku.main.kengyu": "Kengyū-sei (牽牛星), l'étoile de la fierté et du devoir, porte l'honneur, la responsabilité et un souci digne du statut et de la forme.",
+      "sanmeigaku.main.ryuko": "Ryūkō-sei (龍高星), l'étoile de l'aventure, recherche l'inhabituel, l'étranger et l'inventif, s'épanouissant dans le changement et le risque.",
+      "sanmeigaku.main.gyokudo": "Gyokudō-sei (玉堂星), l'étoile du savoir, aime l'intellect, la tradition et l'érudition, avec une sagesse maternelle et nourricière.",
+      "sanmeigaku.subordinate.tenki": "Tenki-sei (天貴星), l'étoile de l'enfant, est pure, intègre et sensible, portant un raffinement honorable et bien né.",
+      "sanmeigaku.subordinate.tenkou": "Tenkō-sei (天恍星), l'étoile de l'adolescent, est rêveuse et romantique, attirée par l'errance, la nostalgie et l'attrait de l'inconnu.",
+      "sanmeigaku.subordinate.tennan": "Tennan-sei (天南星), l'étoile de la jeunesse, est audacieuse et vigoureuse, pleine d'un élan compétitif et impatient et d'une confiance physique.",
+      "sanmeigaku.subordinate.tenroku": "Tenroku-sei (天禄星), l'étoile de la force de l'âge, donne une force de travail constante, la fiabilité et une maturité ancrée et productive.",
+      "sanmeigaku.subordinate.tensho": "Tenshō-sei (天将星), l'étoile du commandant, est la plus puissante — intense, dominante et née pour diriger sous une grande pression.",
+      "sanmeigaku.subordinate.tendo": "Tendō-sei (天堂星), l'étoile de l'aîné, est calme et mûrie, avançant lentement avec une sagesse éprouvée et une endurance tranquille.",
+      "sanmeigaku.subordinate.tenko": "Tenko-sei (天胡星), l'étoile du convalescent, est délicate et rêveuse, douée d'imagination, d'art et d'une sensibilité raffinée.",
+      "sanmeigaku.subordinate.tenkyoku": "Tenkyoku-sei (天極星), l'étoile de la mort, est détachée et spirituelle, encline à l'abandon, à l'introspection et à un calme d'un autre monde.",
+      "sanmeigaku.subordinate.tenkura": "Tenkura-sei (天庫星), l'étoile de l'entrepôt, préserve et recherche, attirée par le passé, l'accumulation et la profondeur patiente.",
+      "sanmeigaku.subordinate.tenso": "Tensō-sei (天馳星), l'étoile de l'esprit, est rapide et agitée, chargée d'une énergie vive, presque surnaturelle, qui ne se repose jamais.",
+      "sanmeigaku.subordinate.tenpo": "Tenpō-sei (天報星), l'étoile de la gestation, est infiniment changeante et adaptable — une énergie agitée de commencements et de mouvement constant.",
+      "sanmeigaku.subordinate.tenin": "Ten'in-sei (天印星), l'étoile du nourrisson, est innocente et attachante, bénie de la bienveillance et de la protection de son entourage."
+    }
+  }
+}

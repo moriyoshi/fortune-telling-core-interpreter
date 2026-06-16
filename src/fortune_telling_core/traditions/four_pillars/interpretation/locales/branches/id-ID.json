@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {
+    "branch": "{cjk} {animal} membawa qi {element} {polarity} dan batang tersembunyi."
+  },
+  "vocab": {
+    "elements": {
+      "wood": "kayu",
+      "fire": "api",
+      "earth": "tanah",
+      "metal": "logam",
+      "water": "air"
+    },
+    "polarities": {
+      "yang": "yang",
+      "yin": "yin"
+    },
+    "animals": {
+      "Rat": "Tikus",
+      "Ox": "Kerbau",
+      "Tiger": "Macan",
+      "Rabbit": "Kelinci",
+      "Dragon": "Naga",
+      "Snake": "Ular",
+      "Horse": "Kuda",
+      "Goat": "Kambing",
+      "Monkey": "Monyet",
+      "Rooster": "Ayam Jago",
+      "Dog": "Anjing",
+      "Pig": "Babi"
+    }
+  }
+}

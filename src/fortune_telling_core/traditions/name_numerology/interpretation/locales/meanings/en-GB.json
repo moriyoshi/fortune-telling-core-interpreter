@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "name_numerology.number.1": "A name expressing independence, drive and leadership, projecting a pioneering, self-reliant character.",
+      "name_numerology.number.2": "A name expressing tact, sensitivity and cooperation, projecting a gentle, harmonising character.",
+      "name_numerology.number.3": "A name expressing creativity, charm and self-expression, projecting a sociable, optimistic character.",
+      "name_numerology.number.4": "A name expressing order, reliability and diligence, projecting a steady, practical character.",
+      "name_numerology.number.5": "A name expressing versatility, freedom and curiosity, projecting a dynamic, adventurous character.",
+      "name_numerology.number.6": "A name expressing care, responsibility and warmth, projecting a nurturing, devoted character.",
+      "name_numerology.number.7": "A name expressing depth, analysis and reflection, projecting a thoughtful, enigmatic character.",
+      "name_numerology.number.8": "A name expressing ambition, authority and competence, projecting a confident, accomplished character.",
+      "name_numerology.number.9": "A name expressing compassion, idealism and breadth, projecting a generous, humanitarian character.",
+      "name_numerology.number.11": "A name carrying master vibration of intuition and inspiration, projecting a visionary, illuminating character.",
+      "name_numerology.number.22": "A name carrying master vibration of the master builder, projecting a capable, far-reaching character.",
+      "name_numerology.number.33": "A name carrying master vibration of selfless love and healing, projecting a deeply compassionate character."
+    }
+  }
+}

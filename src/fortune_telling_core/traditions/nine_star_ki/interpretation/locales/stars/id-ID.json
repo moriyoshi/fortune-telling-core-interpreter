@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {
+    "element_line": "{cjk} dikaitkan dengan {element} {color} dan trigram {trigram}.",
+    "natal_line": "{cjk} adalah pengaruh natal Nine Star Ki."
+  },
+  "vocab": {
+    "colors": {
+      "white": "putih",
+      "black": "hitam",
+      "jade": "giok",
+      "green": "hijau",
+      "yellow": "kuning",
+      "red": "merah",
+      "purple": "ungu"
+    },
+    "elements": {
+      "water": "air",
+      "earth": "tanah",
+      "wood": "kayu",
+      "metal": "logam",
+      "fire": "api"
+    },
+    "trigrams": {
+      "kan": "kan",
+      "kun": "kun",
+      "zhen": "zhen",
+      "xun": "xun",
+      "center": "pusat",
+      "qian": "qian",
+      "dui": "dui",
+      "gen": "gen",
+      "li": "li"
+    }
+  }
+}

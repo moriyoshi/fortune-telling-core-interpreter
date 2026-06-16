@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "koyomi.rokuyo.taian": "Taian (大安) ist der glückverheißendste der sechs Tage, günstig für jedes Vorhaben von der Morgen- bis zur Abenddämmerung – Hochzeiten, Eröffnungen, Reisen und Neuanfänge gedeihen alle.",
+      "koyomi.rokuyo.shakko": "Shakkō (赤口) ist ein unheilvoller Tag, beherrscht von Gefahr; nur die Stunde um Mittag ist sicher, und zur Vorsicht wird gemahnt bei Klingen, Feuer und Streitigkeiten.",
+      "koyomi.rokuyo.sensho": "Senshō (先勝) belohnt Eile: Der Morgen trägt Glück, und frühes Handeln bringt Erfolg, während der Nachmittag sich ins Unglück wendet.",
+      "koyomi.rokuyo.tomobiki": "Tomobiki (友引) „zieht Freunde mit sich“; Morgen und Abend sind günstig und gemeinsame Unternehmungen gedeihen, doch die Mittagsstunde ist unheilvoll und Beerdigungen werden gemieden.",
+      "koyomi.rokuyo.sembu": "Senbu (先負) rät zur Geduld: Der Morgen ist unglücklich und Eile lädt zu Verlust ein, doch der Nachmittag wird ruhig und gesetzt, und geregelte Angelegenheiten ergehen besser.",
+      "koyomi.rokuyo.butsumetsu": "Butsumetsu (仏滅) ist der unheilvollste Tag, ungeeignet für Feiern, Eröffnungen oder Neuanfänge; Ruhe, Besinnung und das Abschließen von Angelegenheiten sind klüger."
+    }
+  }
+}

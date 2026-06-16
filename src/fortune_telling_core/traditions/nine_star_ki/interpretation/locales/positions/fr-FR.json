@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {},
+  "vocab": {
+    "texts": {
+      "principal": "L'étoile principale décrit le schéma de l'année natale.",
+      "monthly": "L'étoile mensuelle affine le schéma natal au fil du mois solaire.",
+      "daily": "L'étoile journalière enregistre le cycle d'échappement des solstices pour le jour.",
+      "tendency": "L'étoile de tendance dérive du palais de l'étoile mensuelle dans le thème de l'année natale."
+    }
+  }
+}

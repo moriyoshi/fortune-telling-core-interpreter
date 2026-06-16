@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {
+    "ten_god": "{label} décrit la relation de ce tronc avec le Maître du Jour."
+  },
+  "vocab": {
+    "labels": {
+      "friend": "Ami",
+      "rob_wealth": "Voleur de Richesse",
+      "eating_god": "Dieu Nourricier",
+      "hurting_officer": "Officier Blessant",
+      "indirect_wealth": "Richesse Indirecte",
+      "direct_wealth": "Richesse Directe",
+      "seven_killings": "Sept Meurtres",
+      "direct_officer": "Officier Direct",
+      "indirect_resource": "Ressource Indirecte",
+      "direct_resource": "Ressource Directe"
+    }
+  }
+}

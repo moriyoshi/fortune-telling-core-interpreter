@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "locale": "zh-CN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "celtic_tree.sign.birch": "白桦象征坚定而进取的开拓者，清除旧事旧物，以沉静的韧性开启新的篇章。",
+      "celtic_tree.sign.rowan": "花楸喻示富有远见与理想的心灵，护佑而独创，受强烈内在使命感的引导。",
+      "celtic_tree.sign.ash": "白蜡树展现富于想象与直觉的灵魂，内敛而具艺术气质，在创造性表达中寻得自由。",
+      "celtic_tree.sign.alder": "桤木标志着自信而富魅力的先锋，以勇气、自信和天然的权威果敢行事。",
+      "celtic_tree.sign.willow": "柳树诉说着敏锐而直觉的天性，耐心而善于适应，深谙生命中隐秘的暗流。",
+      "celtic_tree.sign.hawthorn": "山楂在内敛的外表之下藏着好奇而灵活的智慧，从容地平衡着诸多对立的特质。",
+      "celtic_tree.sign.oak": "橡树体现着坚强、慷慨而坚定的守护者，以乐观与持久的决心激励他人。",
+      "celtic_tree.sign.holly": "冬青标志着高贵而能干的领袖，自信而进取，以尊严和决心克服重重障碍。",
+      "celtic_tree.sign.hazel": "榛树映照出聪慧而博学的心智，目光敏锐、能言善辩，富于学习与洞察的天赋。",
+      "celtic_tree.sign.vine": "葡萄藤喻示着精致而善变的天性，敏感而明辨，于生命的矛盾中寻求平衡与美。",
+      "celtic_tree.sign.ivy": "常春藤展现忠诚而悲悯的灵魂，坚韧而笃信，凭借耐心与坚定的奉献而繁盛。",
+      "celtic_tree.sign.reed": "芦苇标志着敏锐而隐秘的求真者，为隐含的意义所吸引，能洞察表象之下的真相。",
+      "celtic_tree.sign.elder": "接骨木体现着自由不羁而善思的漫游者，诚实而充满活力，珍视阅历与个人的独立。"
+    }
+  }
+}

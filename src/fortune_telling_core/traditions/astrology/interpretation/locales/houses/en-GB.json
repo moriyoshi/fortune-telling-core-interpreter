@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {
+    "placement": "{body} in house {house} emphasises {topics}."
+  },
+  "vocab": {
+    "bodies": {
+      "sun": "Sun",
+      "moon": "Moon",
+      "mercury": "Mercury",
+      "venus": "Venus",
+      "mars": "Mars",
+      "jupiter": "Jupiter",
+      "saturn": "Saturn",
+      "uranus": "Uranus",
+      "neptune": "Neptune",
+      "pluto": "Pluto",
+      "north_node": "North Node",
+      "south_node": "South Node",
+      "ascendant": "Ascendant",
+      "midheaven": "Midheaven"
+    },
+    "topics": {
+      "1": "identity, body, approach",
+      "2": "resources, values, security",
+      "3": "communication, siblings, learning",
+      "4": "home, roots, private-life",
+      "5": "creativity, pleasure, children",
+      "6": "work, health, service",
+      "7": "partnership, contracts, others",
+      "8": "shared-resources, loss, transformation",
+      "9": "belief, travel, higher-learning",
+      "10": "vocation, status, public-life",
+      "11": "friends, hopes, groups",
+      "12": "retreat, hidden-matters, self-undoing"
+    }
+  }
+}

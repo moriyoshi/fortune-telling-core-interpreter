@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "greek_isopsephy.result.total": "Tổng isopsephy, có được bằng cách cộng các giá trị số của những chữ cái trong một tên Hy Lạp, biểu thị bản chất số học ẩn giấu được cho là hé lộ tính cách và ý nghĩa nền tảng của nó."
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "chaldean_numerology.number.1": "Được Mặt Trời cai quản, số một biểu thị tài lãnh đạo, óc độc đáo và động lực mạnh mẽ, tự lực để sáng tạo.",
+      "chaldean_numerology.number.2": "Được Mặt Trăng cai quản, số hai biểu thị sự nhạy cảm, tài ngoại giao và thiên phú trực giác về hợp tác.",
+      "chaldean_numerology.number.3": "Được Sao Mộc cai quản, số ba biểu thị sự lạc quan, khả năng tự thể hiện và hoài bão phát triển có kỷ luật.",
+      "chaldean_numerology.number.4": "Được Sao Thiên Vương cai quản, số bốn biểu thị lối tư duy khác thường, sự bồn chồn và một sự nổi loạn thầm lặng chống lại quy ước.",
+      "chaldean_numerology.number.5": "Được Sao Thủy cai quản, số năm biểu thị sự đa năng, nhanh trí và niềm yêu thích không yên đối với giao tiếp và đổi thay.",
+      "chaldean_numerology.number.6": "Được Sao Kim cai quản, số sáu biểu thị sự hài hòa, tình cảm và lòng tận tụy nuôi dưỡng dành cho tổ ấm và cái đẹp.",
+      "chaldean_numerology.number.7": "Được Sao Hải Vương cai quản, số bảy biểu thị sự nội tâm, trí tưởng tượng và cuộc tìm kiếm huyền bí về ý nghĩa sâu xa.",
+      "chaldean_numerology.number.8": "Được Sao Thổ cai quản, số tám biểu thị tính kỷ luật, hoài bão vật chất và sức bền bỉ đã được tôi luyện trong việc đời.",
+      "chaldean_numerology.number.9": "Được Sao Hỏa cai quản, số chín biểu thị lòng can đảm, sự quyết tâm và động lực mãnh liệt hướng tới hành động táo bạo."
+    }
+  }
+}

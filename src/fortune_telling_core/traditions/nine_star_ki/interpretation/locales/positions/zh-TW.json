@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "locale": "zh-TW",
+  "templates": {},
+  "vocab": {
+    "texts": {
+      "principal": "本命星描述出生年的命盤格局。",
+      "monthly": "月命星透過節氣月份細化本命格局。",
+      "daily": "日命星記錄當日的冬至遁甲循環。",
+      "tendency": "傾向星由月命星在本命年命盤中所在的宮位推得。"
+    }
+  }
+}

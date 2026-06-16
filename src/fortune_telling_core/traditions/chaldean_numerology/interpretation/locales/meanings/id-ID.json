@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "chaldean_numerology.number.1": "Dikuasai oleh Matahari, angka satu melambangkan kepemimpinan, orisinalitas, dan dorongan kuat yang mandiri untuk mencipta.",
+      "chaldean_numerology.number.2": "Dikuasai oleh Bulan, angka dua melambangkan kepekaan, diplomasi, dan bakat intuitif untuk bekerja sama.",
+      "chaldean_numerology.number.3": "Dikuasai oleh Jupiter, angka tiga melambangkan optimisme, ekspresi diri, dan ambisi yang disiplin untuk berkembang.",
+      "chaldean_numerology.number.4": "Dikuasai oleh Uranus, angka empat melambangkan pemikiran yang tak lazim, kegelisahan, dan pemberontakan tenang terhadap kelaziman.",
+      "chaldean_numerology.number.5": "Dikuasai oleh Merkurius, angka lima melambangkan keserbabisaan, kecerdasan gesit, dan kecintaan yang gelisah pada komunikasi dan perubahan.",
+      "chaldean_numerology.number.6": "Dikuasai oleh Venus, angka enam melambangkan keselarasan, kasih sayang, dan pengabdian yang mengasuh pada rumah dan keindahan.",
+      "chaldean_numerology.number.7": "Dikuasai oleh Neptunus, angka tujuh melambangkan introspeksi, imajinasi, dan pencarian mistis akan makna yang lebih dalam.",
+      "chaldean_numerology.number.8": "Dikuasai oleh Saturnus, angka delapan melambangkan disiplin, ambisi materi, dan ketangguhan yang teruji dalam urusan duniawi.",
+      "chaldean_numerology.number.9": "Dikuasai oleh Mars, angka sembilan melambangkan keberanian, ketetapan hati, dan dorongan penuh gairah menuju tindakan yang berani."
+    }
+  }
+}

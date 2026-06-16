@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "haab.month.pop": "Pop, la natte tressée de l'autorité, ouvre l'année Haab' par le commandement, l'ordre communautaire et un mandat nouveau pour commencer.",
+      "haab.month.wo": "Wo' rassemble les nuages sombres avant les pluies, un temps de préparation tranquille, de patience rituelle et de rassemblement caché des forces.",
+      "haab.month.sip": "Sip appartient à la chasse et aux seigneurs de la forêt, éveillant l'instinct, la vigilance et la poursuite de ce dont on a besoin.",
+      "haab.month.sotz": "Sotz', la chauve-souris de la grotte, voit dans l'obscurité — favorisant l'intuition, la sagesse nocturne et la confiance en l'invisible.",
+      "haab.month.sek": "Sek équilibre le ciel et la terre, un intervalle stable et fertile pour soigner les abeilles, la douceur et l'accroissement régulier de l'abondance.",
+      "haab.month.xul": "Xul, le chien qui guide les âmes, marque les fins et les transitions, éclairant le chemin à travers la clôture d'un cycle.",
+      "haab.month.yaxkin": "Yaxk'in, le soleil neuf, apporte chaleur, maturation et clarté — une saison lumineuse pour sécher, achever et mener les choses à leur fruit.",
+      "haab.month.mol": "Mol est le rassemblement et la liaison des eaux et du jade, appelant à la collecte, à l'effort commun et à la consolidation patiente.",
+      "haab.month.chen": "Ch'en, le puits et la lune, puise dans les eaux cachées, le mystère et les sources intérieures profondes du sentiment et du rêve.",
+      "haab.month.yax": "Yax, premier et vert, renouvelle toute chose — le bleu-vert frais des commencements, de la croissance et de l'étoile de Vénus.",
+      "haab.month.sak": "Sak, le blanc, apporte la lumière de l'aube et la pureté, dégageant la route blanche pour l'honnêteté, la guérison et l'air frais.",
+      "haab.month.keh": "Keh, le cerf rouge, porte la vigueur, le courage et la vitalité sauvage de la forêt, incitant à un mouvement vif et fougueux.",
+      "haab.month.mak": "Mak, l'enclos et le couvercle, recouvre et protège — un temps abrité et intérieur pour garder ce qui ne doit pas être dérangé.",
+      "haab.month.kankin": "K'ank'in mûrit jusqu'au jaune doré, la maturité de la récolte tardive tempérée par le sobre rappel des limites du chien des enfers.",
+      "haab.month.muwan": "Muwan, le hibou criard des nuages de pluie, parle de prophétie, de cacao et de l'orage qui s'amasse — prêtez attention aux présages et aux signes.",
+      "haab.month.pax": "Pax fait résonner le tambour des semailles, musique pour semer et force du jaguar, ralliant le courage pour la grande entreprise.",
+      "haab.month.kayab": "K'ayab, la tortue, chante le chant de pluie de la fertilité et du renouveau, marquant le tournant de l'année vers une eau nouvelle.",
+      "haab.month.kumku": "Kumk'u, le grenier du vieux crocodile-terre, contient l'abondance accumulée — la récolte engrangée, la sagesse de l'âge, l'année presque pleine.",
+      "haab.month.wayeb": "Wayeb', les cinq jours sans nom, est un seuil liminal de prudence et de repos ; retirez-vous, restez immobile et préparez-vous au renouveau."
+    }
+  }
+}

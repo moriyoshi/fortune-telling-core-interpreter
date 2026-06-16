@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "haab.month.pop": "Pop, the woven mat of authority, opens the Haab' year with leadership, community order and a fresh mandate to begin.",
+      "haab.month.wo": "Wo' gathers the dark clouds before the rains, a time of quiet preparation, ritual patience and hidden gathering of strength.",
+      "haab.month.sip": "Sip belongs to the hunt and the lords of the forest, stirring instinct, alertness and the pursuit of what you need.",
+      "haab.month.sotz": "Sotz', the bat of the cave, sees in darkness — favouring intuition, night wisdom and trust in the unseen.",
+      "haab.month.sek": "Sek balances sky and earth, a settled, fertile interval for tending bees, sweetness and the steady increase of abundance.",
+      "haab.month.xul": "Xul, the dog who guides souls, marks endings and transitions, lighting the way through the close of a cycle.",
+      "haab.month.yaxkin": "Yaxk'in, the new sun, brings warmth, ripening and clarity — a bright season for drying, finishing and bringing things to fruition.",
+      "haab.month.mol": "Mol is the gathering and binding of waters and jade, calling for collection, communal effort and patient consolidation.",
+      "haab.month.chen": "Ch'en, the well and the moon, draws on hidden waters, mystery and the deep inner sources of feeling and dream.",
+      "haab.month.yax": "Yax, first and green, renews all things — the fresh blue-green of beginnings, growth and the Venus star.",
+      "haab.month.sak": "Sak, the white, brings dawn light and purity, clearing the white road for honesty, recovery and fresh air.",
+      "haab.month.keh": "Keh, the red deer, carries vigour, courage and the wild forest's vitality, urging swift, spirited movement.",
+      "haab.month.mak": "Mak, the enclosure and lid, covers and protects — a sheltered, inward time for guarding what must not be disturbed.",
+      "haab.month.kankin": "K'ank'in ripens to golden yellow, the late harvest's maturity tempered by the underworld dog's sober reminder of limits.",
+      "haab.month.muwan": "Muwan, the screech-owl of the rain clouds, speaks of prophecy, cacao and the gathering storm — heed omens and signs.",
+      "haab.month.pax": "Pax sounds the planting drum, music for sowing and the jaguar's strength, rallying courage for the great undertaking.",
+      "haab.month.kayab": "K'ayab, the turtle, sings the rain-song of fertility and renewal, marking the turning of the year toward new water.",
+      "haab.month.kumku": "Kumk'u, the granary of the old crocodile-earth, holds accumulated abundance — the harvest stored, wisdom of age, the year nearly full.",
+      "haab.month.wayeb": "Wayeb', the five nameless days, is a liminal threshold of caution and rest; withdraw, keep still and prepare for renewal."
+    }
+  }
+}

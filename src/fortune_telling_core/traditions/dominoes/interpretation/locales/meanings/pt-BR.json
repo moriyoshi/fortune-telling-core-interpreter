@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "locale": "pt-BR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "dominoes.tile.0_0": "A pedra em branco adverte sobre decepção, perda ou planos que não dão em nada, instando à cautela e à paciência.",
+      "dominoes.tile.1_0": "Um único ponto sinaliza escândalo, fofoca ou problemas provocados por um conhecido não confiável.",
+      "dominoes.tile.1_1": "Harmonia e afeto prevalecem, prometendo um relacionamento feliz e estável e contentamento no lar.",
+      "dominoes.tile.2_0": "Uma viagem agradável ou um passeio social estão por vir, embora seja preciso evitar gastos descuidados.",
+      "dominoes.tile.2_1": "As questões financeiras tendem a melhorar, com ajuda chegando por meio de um amigo ou novo conhecido.",
+      "dominoes.tile.2_2": "Sucesso e crescimento são favorecidos, trazendo recompensa por meio da parceria e do esforço compartilhado.",
+      "dominoes.tile.3_0": "Notícias inesperadas ou uma briga repentina podem perturbá-lo, então pese suas palavras com cuidado.",
+      "dominoes.tile.3_1": "Uma notícia útil ou uma ideia engenhosa chega, mas cuidado com a indiscrição nos assuntos amorosos.",
+      "dominoes.tile.3_2": "Progresso constante e cautela lhe servem bem, especialmente em questões de dinheiro e patrimônio.",
+      "dominoes.tile.3_3": "Uma mudança de sorte ou de circunstância está por vir, muitas vezes tocando assuntos do coração.",
+      "dominoes.tile.4_0": "Decepção ou um pequeno revés é indicado, mas passa se você permanecer paciente.",
+      "dominoes.tile.4_1": "Dívidas podem ser quitadas e preocupações financeiras aliviadas, trazendo em breve um alívio bem-vindo.",
+      "dominoes.tile.4_2": "Uma mudança para melhor está próxima, com dinheiro ou boas notícias chegando inesperadamente.",
+      "dominoes.tile.4_3": "Felicidade doméstica e um golpe de sorte recompensam seus esforços constantes.",
+      "dominoes.tile.4_4": "Aproxima-se um tempo de festa, celebração e alegria compartilhada com amigos ou familiares.",
+      "dominoes.tile.5_0": "Ofereça conforto a outra pessoa e tenha cuidado, pois um momento emocional ou financeiro baixo pode passar rápido.",
+      "dominoes.tile.5_1": "Um novo amor ou compromisso social traz entusiasmo, embora possa se revelar passageiro.",
+      "dominoes.tile.5_2": "É preciso paciência, pois os planos amadurecem lentamente, mas um visitante prestativo traz incentivo.",
+      "dominoes.tile.5_3": "Boas notícias e um interlúdio tranquilo prometem calma após as recentes dificuldades.",
+      "dominoes.tile.5_4": "Ganho financeiro é provável, embora seja preciso evitar decisões precipitadas e excessos.",
+      "dominoes.tile.5_5": "Mudança benéfica e novas oportunidades chegam, especialmente nos negócios ou na carreira.",
+      "dominoes.tile.6_0": "Um aviso de perda ou separação; assuntos antigos terminam, abrindo caminho para algo novo.",
+      "dominoes.tile.6_1": "Uma reconciliação, casamento ou reencontro feliz é previsto, reparando desavenças do passado.",
+      "dominoes.tile.6_2": "Boa sorte e tratos honestos trazem sucesso, especialmente por meio de viagens ou comércio.",
+      "dominoes.tile.6_3": "Uma viagem agradável, um presente ou um gesto generoso elevam seu ânimo e suas perspectivas.",
+      "dominoes.tile.6_4": "Um desfecho favorável em assuntos jurídicos ou comerciais recompensa sua perseverança.",
+      "dominoes.tile.6_5": "A gentileza oferecida ou recebida traz conforto, e um modesto progresso se segue.",
+      "dominoes.tile.6_6": "A pedra mais alta promete grande sucesso, prosperidade e a realização dos seus mais caros desejos."
+    }
+  }
+}

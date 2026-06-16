@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "locale": "pt-BR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cyrillic_pythagorean.number.1": "O um marca o pioneiro, expressando independência, iniciativa e vontade de liderar.",
+      "cyrillic_pythagorean.number.2": "O dois marca o pacificador, expressando equilíbrio, parceria e receptividade serena.",
+      "cyrillic_pythagorean.number.3": "O três marca o comunicador, expressando criatividade, sociabilidade e alegre autoexpressão.",
+      "cyrillic_pythagorean.number.4": "O quatro marca o construtor, expressando estabilidade, diligência e um amor prático pela ordem.",
+      "cyrillic_pythagorean.number.5": "O cinco marca o buscador, expressando liberdade, adaptabilidade e um apetite curioso pela experiência.",
+      "cyrillic_pythagorean.number.6": "O seis marca o cuidador, expressando responsabilidade, compaixão e devoção à família e à comunidade.",
+      "cyrillic_pythagorean.number.7": "O sete marca o pensador, expressando análise, introspecção e a busca pela verdade oculta.",
+      "cyrillic_pythagorean.number.8": "O oito marca o realizador, expressando autoridade, ambição e uma capacidade de domínio material.",
+      "cyrillic_pythagorean.number.9": "O nove marca o humanitário, expressando idealismo, compaixão e uma visão generosa e abrangente."
+    }
+  }
+}

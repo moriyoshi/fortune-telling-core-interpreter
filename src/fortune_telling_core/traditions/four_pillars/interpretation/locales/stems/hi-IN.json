@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "locale": "hi-IN",
+  "templates": {
+    "stem": "{cjk} {polarity} {element} की ची धारण करता है।"
+  },
+  "vocab": {
+    "elements": {
+      "wood": "काष्ठ",
+      "fire": "अग्नि",
+      "earth": "पृथ्वी",
+      "metal": "धातु",
+      "water": "जल"
+    },
+    "polarities": {
+      "yang": "यांग",
+      "yin": "यिन"
+    }
+  }
+}

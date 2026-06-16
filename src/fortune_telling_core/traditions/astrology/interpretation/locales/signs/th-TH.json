@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "th-TH",
+  "templates": {
+    "placement": "{body}ในราศี{sign}แสดงออกผ่านคุณสมบัติธาตุ{element}แบบ{modality}",
+    "retrograde_suffix": " การเคลื่อนที่ถอยหลังหันการแสดงออกเข้าสู่ภายในเพื่อทบทวน"
+  },
+  "vocab": {
+    "signs": {
+      "aries": "เมษ",
+      "taurus": "พฤษภ",
+      "gemini": "เมถุน",
+      "cancer": "กรกฎ",
+      "leo": "สิงห์",
+      "virgo": "กันย์",
+      "libra": "ตุลย์",
+      "scorpio": "พิจิก",
+      "sagittarius": "ธนู",
+      "capricorn": "มังกร",
+      "aquarius": "กุมภ์",
+      "pisces": "มีน"
+    },
+    "bodies": {
+      "sun": "อาทิตย์",
+      "moon": "จันทร์",
+      "mercury": "พุธ",
+      "venus": "ศุกร์",
+      "mars": "อังคาร",
+      "jupiter": "พฤหัสบดี",
+      "saturn": "เสาร์",
+      "uranus": "ยูเรนัส",
+      "neptune": "เนปจูน",
+      "pluto": "พลูโต",
+      "north_node": "ราหู",
+      "south_node": "เกตุ",
+      "ascendant": "ลัคนา",
+      "midheaven": "จุดกลางฟ้า"
+    },
+    "elements": {
+      "fire": "ไฟ",
+      "earth": "ดิน",
+      "air": "ลม",
+      "water": "น้ำ"
+    },
+    "modalities": {
+      "cardinal": "จร",
+      "fixed": "สถิร",
+      "mutable": "อุภยะ"
+    }
+  }
+}

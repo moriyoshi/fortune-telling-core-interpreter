@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "locale": "ta-IN",
+  "templates": {
+    "element_line": "{cjk} {color} {element} மற்றும் {trigram} திரிகிராமுடன் தொடர்புடையது.",
+    "natal_line": "{cjk} ஒரு நைன் ஸ்டார் கி பிறப்பு தாக்கமாகும்."
+  },
+  "vocab": {
+    "colors": {
+      "white": "வெள்ளை",
+      "black": "கருப்பு",
+      "jade": "ஜேட்",
+      "green": "பச்சை",
+      "yellow": "மஞ்சள்",
+      "red": "சிவப்பு",
+      "purple": "ஊதா"
+    },
+    "elements": {
+      "water": "நீர்",
+      "earth": "பூமி",
+      "wood": "மரம்",
+      "metal": "உலோகம்",
+      "fire": "நெருப்பு"
+    },
+    "trigrams": {
+      "kan": "கான்",
+      "kun": "குன்",
+      "zhen": "ஜென்",
+      "xun": "சுன்",
+      "center": "மையம்",
+      "qian": "சியென்",
+      "dui": "துய்",
+      "gen": "கென்",
+      "li": "லி"
+    }
+  }
+}

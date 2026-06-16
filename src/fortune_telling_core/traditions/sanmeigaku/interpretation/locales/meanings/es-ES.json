@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "locale": "es-ES",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "sanmeigaku.main.kansaku": "Kansaku-sei (貫索星), la estrella de la independencia, otorga una voluntad firme, autosuficiencia y la paciencia para mantener un rumbo en solitario.",
+      "sanmeigaku.main.sekimon": "Sekimon-sei (石門星), la estrella de la sociabilidad, reúne a las personas mediante la armonía, la cooperación y una popularidad fácil dentro de un círculo.",
+      "sanmeigaku.main.hokaku": "Hōkaku-sei (鳳閣星), la estrella de la naturalidad, aporta desenfado, expresividad y un gusto por los placeres sencillos de la vida.",
+      "sanmeigaku.main.chosho": "Chōsho-sei (調舒星), la estrella de la sensibilidad, concede arte y sentimiento profundo, con una vena solitaria y exigente de perfeccionista.",
+      "sanmeigaku.main.rokuson": "Rokuson-sei (禄存星), la estrella de la benevolencia, atrae la fortuna mediante la generosidad, el encanto y la calidez ofrecida libremente a los demás.",
+      "sanmeigaku.main.shiroku": "Shiroku-sei (司禄星), la estrella de la acumulación, valora la constancia, el ahorro y la construcción paciente de la seguridad doméstica.",
+      "sanmeigaku.main.shaki": "Shaki-sei (車騎星), la estrella de la acción, se lanza hacia delante con rapidez, valentía y un espíritu combativo directo y sin titubeos.",
+      "sanmeigaku.main.kengyu": "Kengyū-sei (牽牛星), la estrella del orgullo y el deber, lleva honor, responsabilidad y una digna preocupación por el estatus y las formas.",
+      "sanmeigaku.main.ryuko": "Ryūkō-sei (龍高星), la estrella de la aventura, busca lo poco convencional, lo extranjero y lo inventivo, y prospera con el cambio y el riesgo.",
+      "sanmeigaku.main.gyokudo": "Gyokudō-sei (玉堂星), la estrella del saber, ama el intelecto, la tradición y la erudición, con una sabiduría maternal y protectora.",
+      "sanmeigaku.subordinate.tenki": "Tenki-sei (天貴星), la estrella del niño, es pura, íntegra y sensible, portadora de un refinamiento honorable y de buena cuna.",
+      "sanmeigaku.subordinate.tenkou": "Tenkō-sei (天恍星), la estrella del adolescente, es soñadora y romántica, atraída por el vagar, el anhelo y la seducción de lo desconocido.",
+      "sanmeigaku.subordinate.tennan": "Tennan-sei (天南星), la estrella del joven, es audaz y vigorosa, llena de un impulso competitivo e inquieto y de confianza física.",
+      "sanmeigaku.subordinate.tenroku": "Tenroku-sei (天禄星), la estrella de la plenitud de la vida, da una fuerza de trabajo constante, fiabilidad y una madurez sólida y productiva.",
+      "sanmeigaku.subordinate.tensho": "Tenshō-sei (天将星), la estrella del comandante, es la más poderosa: intensa, dominante y nacida para liderar bajo gran presión.",
+      "sanmeigaku.subordinate.tendo": "Tendō-sei (天堂星), la estrella del anciano, es serena y madura, y se mueve con lentitud, con sabiduría experimentada y una callada resistencia.",
+      "sanmeigaku.subordinate.tenko": "Tenko-sei (天胡星), la estrella del convaleciente, es delicada y soñadora, dotada de imaginación, arte y una sensibilidad refinada.",
+      "sanmeigaku.subordinate.tenkyoku": "Tenkyoku-sei (天極星), la estrella de la muerte, es desapegada y espiritual, inclinada a la entrega, la introspección y una calma de otro mundo.",
+      "sanmeigaku.subordinate.tenkura": "Tenkura-sei (天庫星), la estrella del almacén, preserva e investiga, atraída por el pasado, la acumulación y la profundidad paciente.",
+      "sanmeigaku.subordinate.tenso": "Tensō-sei (天馳星), la estrella del espíritu, es veloz e inquieta, cargada de una energía rápida, casi de otro mundo, que nunca descansa.",
+      "sanmeigaku.subordinate.tenpo": "Tenpō-sei (天報星), la estrella de la gestación, es infinitamente cambiante y adaptable: una energía inquieta de comienzos y movimiento constante.",
+      "sanmeigaku.subordinate.tenin": "Ten'in-sei (天印星), la estrella del bebé, es inocente y entrañable, bendecida con la buena voluntad y la protección de quienes la rodean."
+    }
+  }
+}

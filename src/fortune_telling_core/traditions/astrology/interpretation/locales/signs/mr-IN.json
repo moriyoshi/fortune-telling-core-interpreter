@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "mr-IN",
+  "templates": {
+    "placement": "{body} {sign} राशीत असताना {element} {modality} गुणांद्वारे व्यक्त होतो.",
+    "retrograde_suffix": " वक्री गती अभिव्यक्तीला पुनरावलोकनासाठी अंतर्मुख करते."
+  },
+  "vocab": {
+    "signs": {
+      "aries": "मेष",
+      "taurus": "वृषभ",
+      "gemini": "मिथुन",
+      "cancer": "कर्क",
+      "leo": "सिंह",
+      "virgo": "कन्या",
+      "libra": "तूळ",
+      "scorpio": "वृश्चिक",
+      "sagittarius": "धनु",
+      "capricorn": "मकर",
+      "aquarius": "कुंभ",
+      "pisces": "मीन"
+    },
+    "bodies": {
+      "sun": "सूर्य",
+      "moon": "चंद्र",
+      "mercury": "बुध",
+      "venus": "शुक्र",
+      "mars": "मंगळ",
+      "jupiter": "गुरु",
+      "saturn": "शनि",
+      "uranus": "युरेनस",
+      "neptune": "नेपच्यून",
+      "pluto": "प्लूटो",
+      "north_node": "उत्तर नोड",
+      "south_node": "दक्षिण नोड",
+      "ascendant": "लग्न",
+      "midheaven": "मध्यआकाश"
+    },
+    "elements": {
+      "fire": "अग्नी",
+      "earth": "पृथ्वी",
+      "air": "वायू",
+      "water": "जल"
+    },
+    "modalities": {
+      "cardinal": "चर",
+      "fixed": "स्थिर",
+      "mutable": "द्विस्वभावी"
+    }
+  }
+}

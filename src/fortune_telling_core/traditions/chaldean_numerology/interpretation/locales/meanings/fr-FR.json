@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "chaldean_numerology.number.1": "Gouverné par le Soleil, le un signifie le leadership, l'originalité et un élan créateur fort et indépendant.",
+      "chaldean_numerology.number.2": "Gouverné par la Lune, le deux signifie la sensibilité, la diplomatie et un don intuitif pour la coopération.",
+      "chaldean_numerology.number.3": "Gouverné par Jupiter, le trois signifie l'optimisme, l'expression de soi et une ambition disciplinée de grandir.",
+      "chaldean_numerology.number.4": "Gouverné par Uranus, le quatre signifie la pensée non conventionnelle, l'agitation et une révolte discrète contre les conventions.",
+      "chaldean_numerology.number.5": "Gouverné par Mercure, le cinq signifie la polyvalence, la vivacité d'esprit et un amour insatiable de la communication et du changement.",
+      "chaldean_numerology.number.6": "Gouverné par Vénus, le six signifie l'harmonie, l'affection et un dévouement protecteur au foyer et à la beauté.",
+      "chaldean_numerology.number.7": "Gouverné par Neptune, le sept signifie l'introspection, l'imagination et une quête mystique d'un sens plus profond.",
+      "chaldean_numerology.number.8": "Gouverné par Saturne, le huit signifie la discipline, l'ambition matérielle et une résilience éprouvée dans les affaires du monde.",
+      "chaldean_numerology.number.9": "Gouverné par Mars, le neuf signifie le courage, la détermination et un élan passionné vers l'action audacieuse."
+    }
+  }
+}

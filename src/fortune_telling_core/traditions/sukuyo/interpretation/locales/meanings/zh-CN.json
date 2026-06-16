@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "locale": "zh-CN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "sukuyo.mansion.ashvini": "Ashvinī（娄宿）迅捷而富开拓精神，是一处疗愈而充满活力的星宿，大胆起步，以敏捷的行动力迅速推进。",
+      "sukuyo.mansion.bharani": "Bharaṇī（胃宿）以坚忍与克制承担重负，是一处主转化、自律与艰辛成长的星宿。",
+      "sukuyo.mansion.krittika": "Kṛttikā（昴宿）锐利而炽烈，是一处善于切割、净化的星宿，判断敏锐，诚实无畏。",
+      "sukuyo.mansion.rohini": "Rohiṇī（毕宿）美丽而丰饶，是一处迷人的星宿，主生长、吸引与物质上的优雅。",
+      "sukuyo.mansion.mrigashira": "Mṛgaśira（觜宿）是温和的探寻者，一处好奇、求索的星宿，四处游走以追寻心之所向。",
+      "sukuyo.mansion.ardra": "Ārdrā（参宿）是风暴，一处激烈的星宿，主动荡、深沉的情感，以及历经波折后的突破。",
+      "sukuyo.mansion.punarvasu": "Punarvasu（井宿）主更新与归返，是一处乐观的星宿，象征安全的港湾、康复与崭新的开端。",
+      "sukuyo.mansion.pushya": "Puṣya（鬼宿）滋养而护佑，是一处虔诚而兴旺的星宿，被视为极为吉祥。",
+      "sukuyo.mansion.ashlesha": "Āśleṣā（柳宿）是盘绕的蛇，一处直觉敏锐、机巧的星宿，洞察力穿透，缠绕之力深沉。",
+      "sukuyo.mansion.magha": "Maghā（星宿）是先祖的宝座，一处骄傲而庄严的星宿，主权威、传承与荣耀。",
+      "sukuyo.mansion.purva_phalguni": "Pūrva Phalgunī（张宿）是欢愉之星，一处闲适而浪漫的星宿，主休憩、创造与享乐。",
+      "sukuyo.mansion.uttara_phalguni": "Uttara Phalgunī（翼宿）是慷慨的庇护者，一处可靠的星宿，主友谊、契约与稳定的扶持。",
+      "sukuyo.mansion.hasta": "Hasta（轸宿）是灵巧之手，一处敏捷而聪慧的星宿，主技艺、巧手与务实的成就。",
+      "sukuyo.mansion.chitra": "Chitrā（角宿）是璀璨的宝石，一处主设计、美与精雕细琢之绚丽工艺的星宿。",
+      "sukuyo.mansion.svati": "Svātī（亢宿）是风，一处独立而灵活的星宿，主流动、贸易与自主的自由。",
+      "sukuyo.mansion.vishakha": "Viśākhā（氐宿）以目标为驱动，一处坚定的星宿，主雄心、专注与朝向目标渐次成熟的志向。",
+      "sukuyo.mansion.anuradha": "Anurādhā（房宿）是忠贞的情谊，一处善于协作的星宿，主忠诚、在人群中的成功与异乡的福分。",
+      "sukuyo.mansion.jyeshtha": "Jyeṣṭhā（心宿）是长者，一处勇毅的星宿，主资历、护佑与静守的权力。",
+      "sukuyo.mansion.mula": "Mūla（尾宿）是根源，一处善于探究的星宿，连根翻起、刨根究底，直抵事物的核心。",
+      "sukuyo.mansion.purva_ashadha": "Pūrva Āṣāḍhā（箕宿）是不可战胜者，一处富有说服力的星宿，主早来的胜利与不可动摇的信念。",
+      "sukuyo.mansion.uttara_ashadha": "Uttara Āṣāḍhā（斗宿）是持久的胜利，一处正直的星宿，主操守、坚忍与历久不衰的领导力。",
+      "sukuyo.mansion.shravana": "Śravaṇa（女宿）是倾听者，一处博学的星宿，主专注、联结与日渐增长的声望。",
+      "sukuyo.mansion.dhanishtha": "Dhaniṣṭhā（虚宿）是鼓，一处富有节律的星宿，主财富、音乐、声名与充沛的活力。",
+      "sukuyo.mansion.shatabhisha": "Śatabhiṣā（危宿）是百名医者，一处隐秘而神秘的星宿，主疗愈与隐藏的知识。",
+      "sukuyo.mansion.purva_bhadrapada": "Pūrva Bhādrapadā（室宿）热忱而理想主义，一处激烈的星宿，主坚定的信念与化育万象之火。",
+      "sukuyo.mansion.uttara_bhadrapada": "Uttara Bhādrapadā（壁宿）是深沉之水，一处沉静而睿智的星宿，主深度、耐心与稳健的谋断。",
+      "sukuyo.mansion.revati": "Revatī（奎宿）是滋养者，一处温和的星宿，主圆满、平安的渡越与仁厚的兴旺。"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "locale": "zh-CN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cyrillic_pythagorean.number.1": "数字一标志着开拓者，彰显独立、主动与引领他人的意志。",
+      "cyrillic_pythagorean.number.2": "数字二标志着调和者，彰显平衡、伙伴关系与沉静的包容。",
+      "cyrillic_pythagorean.number.3": "数字三标志着沟通者，彰显创造力、合群与欢欣的自我表达。",
+      "cyrillic_pythagorean.number.4": "数字四标志着建造者，彰显稳定、勤勉与对秩序的务实钟爱。",
+      "cyrillic_pythagorean.number.5": "数字五标志着探寻者，彰显自由、适应力与对阅历的好奇渴求。",
+      "cyrillic_pythagorean.number.6": "数字六标志着守护者，彰显责任、悲悯以及对家庭和社群的奉献。",
+      "cyrillic_pythagorean.number.7": "数字七标志着思考者，彰显分析、内省与对隐秘真理的求索。",
+      "cyrillic_pythagorean.number.8": "数字八标志着成就者，彰显权威、抱负与驾驭物质的能力。",
+      "cyrillic_pythagorean.number.9": "数字九标志着博爱者，彰显理想、悲悯与慷慨深远的胸怀。"
+    }
+  }
+}

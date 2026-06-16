@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "locale": "hi-IN",
+  "templates": {
+    "element_line": "{cjk} {color} {element} और {trigram} त्रिग्राम से संबद्ध है।",
+    "natal_line": "{cjk} एक नाइन स्टार की जन्मकालीन प्रभाव है।"
+  },
+  "vocab": {
+    "colors": {
+      "white": "श्वेत",
+      "black": "श्याम",
+      "jade": "जेड हरित",
+      "green": "हरा",
+      "yellow": "पीत",
+      "red": "लाल",
+      "purple": "बैंगनी"
+    },
+    "elements": {
+      "water": "जल",
+      "earth": "पृथ्वी",
+      "wood": "काष्ठ",
+      "metal": "धातु",
+      "fire": "अग्नि"
+    },
+    "trigrams": {
+      "kan": "कान",
+      "kun": "कुन",
+      "zhen": "झेन",
+      "xun": "शुन",
+      "center": "केंद्र",
+      "qian": "छ्यान",
+      "dui": "दुई",
+      "gen": "गेन",
+      "li": "ली"
+    }
+  }
+}

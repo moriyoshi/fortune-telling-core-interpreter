@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "locale": "zh-TW",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "thaksa.graha.athit": "太陽主宰活力、權威以及錨定一個人在 Thaksa 體系中地位的核心自我意識。",
+      "thaksa.graha.chan": "月亮反映情感、直覺以及在 Thaksa 占星中形塑內在生命的滋養性情。",
+      "thaksa.graha.angkhan": "火星供給驅力、勇氣以及推動行動與競爭的果決能量，在 Thaksa 體系中如是。",
+      "thaksa.graha.phut": "水星掌管智識、言語與適應力，標誌著 Thaksa 中學習與溝通的能力。",
+      "thaksa.graha.sao": "土星象徵紀律、艱困與耐力，在 Thaksa 占星中考驗耐性並形塑長遠的決心。",
+      "thaksa.graha.pharuehat": "木星賜予智慧、福分與仁慈，在 Thaksa 體系中拓展機會並給予道德的指引。",
+      "thaksa.graha.rahu": "羅睺體現劇變、幻象與驟然的改變，在 Thaksa 中引入意外的轉折與陰影般的影響。",
+      "thaksa.graha.suk": "金星代表愛、美與和諧，在 Thaksa 占星中孕育歡愉、關係與藝術的優雅。"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "ta-IN",
+  "templates": {
+    "ten_god": "{label} இந்த தண்டு நாள் அதிபதியுடன் எவ்வாறு தொடர்பு கொள்கிறது என்பதை விவரிக்கிறது."
+  },
+  "vocab": {
+    "labels": {
+      "friend": "நண்பர்",
+      "rob_wealth": "செல்வம் பறிப்பவர்",
+      "eating_god": "உண்ணும் கடவுள்",
+      "hurting_officer": "அதிகாரியை காயப்படுத்துபவர்",
+      "indirect_wealth": "மறைமுகச் செல்வம்",
+      "direct_wealth": "நேரடி செல்வம்",
+      "seven_killings": "ஏழு கொலைகள்",
+      "direct_officer": "நேரடி அதிகாரி",
+      "indirect_resource": "மறைமுக வளம்",
+      "direct_resource": "நேரடி வளம்"
+    }
+  }
+}

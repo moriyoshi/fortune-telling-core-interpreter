@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "locale": "zh-TW",
+  "templates": {
+    "element_line": "{cjk}對應{color}{element}與{trigram}卦。",
+    "natal_line": "{cjk}為九星氣學的本命星影響。"
+  },
+  "vocab": {
+    "colors": {
+      "white": "白",
+      "black": "黑",
+      "jade": "碧",
+      "green": "綠",
+      "yellow": "黃",
+      "red": "赤",
+      "purple": "紫"
+    },
+    "elements": {
+      "water": "水",
+      "earth": "土",
+      "wood": "木",
+      "metal": "金",
+      "fire": "火"
+    },
+    "trigrams": {
+      "kan": "坎",
+      "kun": "坤",
+      "zhen": "震",
+      "xun": "巽",
+      "center": "中宮",
+      "qian": "乾",
+      "dui": "兌",
+      "gen": "艮",
+      "li": "離"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {
+    "element_line": "{cjk} gắn với {element} {color} và quẻ {trigram}.",
+    "natal_line": "{cjk} là một ảnh hưởng bản mệnh trong Cửu Tinh Khí Học."
+  },
+  "vocab": {
+    "colors": {
+      "white": "trắng",
+      "black": "đen",
+      "jade": "bích",
+      "green": "lục",
+      "yellow": "vàng",
+      "red": "đỏ",
+      "purple": "tía"
+    },
+    "elements": {
+      "water": "Thủy",
+      "earth": "Thổ",
+      "wood": "Mộc",
+      "metal": "Kim",
+      "fire": "Hỏa"
+    },
+    "trigrams": {
+      "kan": "Khảm",
+      "kun": "Khôn",
+      "zhen": "Chấn",
+      "xun": "Tốn",
+      "center": "Trung Cung",
+      "qian": "Càn",
+      "dui": "Đoài",
+      "gen": "Cấn",
+      "li": "Ly"
+    }
+  }
+}

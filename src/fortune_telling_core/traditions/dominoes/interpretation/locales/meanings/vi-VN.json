@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "dominoes.tile.0_0": "Quân trắng cảnh báo về nỗi thất vọng, mất mát hoặc những kế hoạch không đi đến đâu, khuyên ta thận trọng và kiên nhẫn.",
+      "dominoes.tile.1_0": "Một chấm đơn độc báo hiệu tai tiếng, lời đồn hoặc rắc rối do một người quen không đáng tin gây nên.",
+      "dominoes.tile.1_1": "Sự hòa hợp và tình cảm chiếm ưu thế, hứa hẹn một mối quan hệ hạnh phúc, êm ấm và sự mãn nguyện nơi tổ ấm.",
+      "dominoes.tile.2_0": "Một chuyến đi dễ chịu hay buổi gặp gỡ đang chờ phía trước, nhưng hãy đề phòng việc chi tiêu bất cẩn.",
+      "dominoes.tile.2_1": "Chuyện tiền bạc hứa hẹn khởi sắc, với sự trợ giúp đến từ một người bạn hay người quen mới.",
+      "dominoes.tile.2_2": "Thành công và sự phát triển được ưu ái, mang lại phần thưởng qua sự hợp tác và nỗ lực chung.",
+      "dominoes.tile.3_0": "Tin bất ngờ hoặc một cuộc cãi vã đột ngột có thể khiến bạn bất an, vậy hãy cân nhắc lời nói cẩn thận.",
+      "dominoes.tile.3_1": "Tin hữu ích hoặc một ý tưởng khôn ngoan đến, nhưng hãy coi chừng sự hớ hênh trong chuyện tình ái.",
+      "dominoes.tile.3_2": "Sự tiến triển vững chắc và lòng thận trọng giúp ích cho bạn, nhất là trong chuyện tiền bạc và nhà cửa.",
+      "dominoes.tile.3_3": "Một sự đổi vận hay thay đổi hoàn cảnh đang đến, thường chạm đến những chuyện của con tim.",
+      "dominoes.tile.4_0": "Báo hiệu nỗi thất vọng hoặc một trở ngại nhỏ, nhưng nó sẽ qua đi nếu bạn giữ được kiên nhẫn.",
+      "dominoes.tile.4_1": "Nợ nần có thể được trang trải và lo lắng tài chính được vơi nhẹ, sớm mang lại sự nhẹ nhõm đáng mừng.",
+      "dominoes.tile.4_2": "Một sự thay đổi tốt hơn đang gần kề, với tiền bạc hay tin vui đến một cách bất ngờ.",
+      "dominoes.tile.4_3": "Hạnh phúc gia đình và một vận may bất chợt tưởng thưởng cho những nỗ lực bền bỉ của bạn.",
+      "dominoes.tile.4_4": "Một thời kỳ lễ hội, ăn mừng và niềm vui sum vầy với bạn bè hay người thân đang tới gần.",
+      "dominoes.tile.5_0": "Hãy an ủi người khác và giữ gìn bản thân, vì một giai đoạn xuống dốc về cảm xúc hay tài chính có thể chóng qua.",
+      "dominoes.tile.5_1": "Một tình yêu mới hay buổi hội họp mang lại sự háo hức, dù nó có thể chỉ thoáng qua.",
+      "dominoes.tile.5_2": "Cần có sự kiên nhẫn khi kế hoạch chín muồi chậm rãi, song một vị khách hữu ích mang đến sự khích lệ.",
+      "dominoes.tile.5_3": "Tin vui và một khoảng lặng yên bình hứa hẹn sự thanh thản sau những rắc rối vừa qua.",
+      "dominoes.tile.5_4": "Lợi lộc về tài chính có khả năng đến, song hãy đề phòng những quyết định vội vàng và tham vọng quá mức.",
+      "dominoes.tile.5_5": "Sự thay đổi có lợi và cơ hội mới mẻ xuất hiện, đặc biệt trong kinh doanh hay sự nghiệp.",
+      "dominoes.tile.6_0": "Một lời cảnh báo về mất mát hay chia ly; chuyện cũ khép lại, nhường chỗ cho điều gì đó mới mẻ.",
+      "dominoes.tile.6_1": "Một cuộc hòa giải, hôn nhân hay đoàn tụ vui vẻ được tiên báo, hàn gắn những bất hòa trong quá khứ.",
+      "dominoes.tile.6_2": "Vận may và sự giao thiệp ngay thẳng mang lại thành công, đặc biệt qua đi lại hay buôn bán.",
+      "dominoes.tile.6_3": "Một chuyến đi dễ chịu, món quà hay nghĩa cử hào phóng nâng cao tinh thần và triển vọng của bạn.",
+      "dominoes.tile.6_4": "Một kết quả thuận lợi trong chuyện pháp lý hay kinh doanh tưởng thưởng cho sự kiên trì của bạn.",
+      "dominoes.tile.6_5": "Lòng tốt được trao đi hay nhận lại mang đến sự an ủi, và sự tiến triển khiêm tốn sẽ theo sau.",
+      "dominoes.tile.6_6": "Quân cao nhất hứa hẹn thành công lớn, sự thịnh vượng và sự viên mãn của những ước nguyện thân thiết nhất."
+    }
+  }
+}

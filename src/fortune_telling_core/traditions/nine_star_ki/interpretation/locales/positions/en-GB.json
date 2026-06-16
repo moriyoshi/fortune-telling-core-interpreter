@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {},
+  "vocab": {
+    "texts": {
+      "principal": "The principal star describes the natal year pattern.",
+      "monthly": "The monthly star refines the natal pattern through the solar month.",
+      "daily": "The daily star records the solstice escapement cycle for the day.",
+      "tendency": "The tendency star is derived from the monthly star's palace in the natal year chart."
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "celtic_tree.sign.birch": "Pohon birch menandai perintis yang gigih dan ambisius, yang menyingkirkan yang lama untuk memulai kembali dengan ketangguhan yang tenang.",
+      "celtic_tree.sign.rowan": "Pohon rowan melambangkan jiwa visioner dan idealis, yang protektif dan orisinal, dibimbing oleh rasa tujuan batin yang kuat.",
+      "celtic_tree.sign.ash": "Pohon ash mengungkapkan jiwa yang imajinatif dan intuitif, cenderung introspektif namun artistik, yang menemukan kebebasan melalui ekspresi kreatif.",
+      "celtic_tree.sign.alder": "Pohon alder menandakan pelopor yang percaya diri dan karismatik, yang bertindak dengan keberanian, keyakinan, dan kewibawaan alami.",
+      "celtic_tree.sign.willow": "Pohon willow berbicara tentang sifat yang peka dan intuitif, sabar dan mudah menyesuaikan diri, dengan pemahaman mendalam akan arus tersembunyi kehidupan.",
+      "celtic_tree.sign.hawthorn": "Pohon hawthorn menyembunyikan kecerdasan yang ingin tahu dan luwes di balik penampilan yang tertutup, menyeimbangkan banyak sifat berlawanan dengan mudah.",
+      "celtic_tree.sign.oak": "Pohon oak mewujudkan pelindung yang kuat, murah hati, dan teguh, yang menginspirasi orang lain melalui optimisme dan ketetapan hati yang abadi.",
+      "celtic_tree.sign.holly": "Pohon holly menandai pemimpin yang mulia dan cakap, percaya diri dan ambisius, yang mengatasi rintangan dengan martabat dan keteguhan.",
+      "celtic_tree.sign.hazel": "Pohon hazel mencerminkan pikiran yang cerdas dan berpengetahuan, jeli dan fasih, dengan bakat untuk belajar dan berwawasan.",
+      "celtic_tree.sign.vine": "Pohon vine melambangkan sifat yang halus dan berubah-ubah, peka dan bijak, yang mencari keseimbangan dan keindahan di tengah kontradiksi kehidupan.",
+      "celtic_tree.sign.ivy": "Pohon ivy mengungkapkan jiwa yang setia dan penuh kasih, tangguh dan tepercaya, yang berkembang melalui kesabaran dan pengabdian yang teguh.",
+      "celtic_tree.sign.reed": "Pohon reed menandakan pencari kebenaran yang peka dan tertutup, tertarik pada makna tersembunyi dan mampu memahami apa yang ada di balik permukaan.",
+      "celtic_tree.sign.elder": "Pohon elder mewujudkan pengembara berjiwa bebas dan penuh pertimbangan, jujur dan bersemangat, yang menghargai pengalaman dan kemandirian pribadi."
+    }
+  }
+}

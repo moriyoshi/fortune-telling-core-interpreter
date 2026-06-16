@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cc.can.giap": "Giáp, can Mộc dương, báo hiệu chí tiên phong táo bạo và sự vươn lên ngay thẳng như cây lớn hướng về ánh sáng.",
+      "cc.can.at": "Ất, can Mộc âm, gợi sự uyển chuyển dịu dàng và bền bỉ lặng lẽ, cong như dây leo mà không bao giờ gãy.",
+      "cc.can.binh": "Bính, can Hỏa dương, rực cháy với hơi ấm chói lọi, sức cuốn hút và tinh thần cởi mở, hào phóng.",
+      "cc.can.dinh": "Đinh, can Hỏa âm, tỏa sáng êm ả và thân mật như ngọn đèn, đánh dấu sự thấu hiểu tinh tế và lòng tận tụy.",
+      "cc.can.mau": "Mậu, can Thổ dương, vững chãi và đáng tin như núi, mang lại sự ổn định và ý chí kiên định.",
+      "cc.can.ky": "Kỷ, can Thổ âm, nuôi dưỡng như đất màu mỡ, thiên về kiên nhẫn, chăm chút và vun trồng lặng lẽ.",
+      "cc.can.canh": "Canh, can Kim dương, mang sức mạnh sắc bén của sắt rèn, biểu thị sự quyết đoán, công lý và ý chí.",
+      "cc.can.tan": "Tân, can Kim âm, sáng như ngọc được mài giũa, đánh dấu sự thanh nhã, tinh tường và lòng yêu cái đẹp.",
+      "cc.can.nham": "Nhâm, can Thủy dương, chảy với chiều sâu và hoài bão của một dòng sông lớn, đón nhận đổi thay và những chân trời xa.",
+      "cc.can.quy": "Quý, can Thủy âm, lưu chuyển như mưa nhẹ hay làn sương, gợi trực giác, sự nhạy cảm và trí tuệ thâm trầm.",
+      "cc.chi.ty": "Tý, con Chuột, thể hiện sự nhanh trí, tháo vát và khả năng nắm bắt thời cơ khôn ngoan.",
+      "cc.chi.suu": "Sửu, con Trâu, tượng trưng cho sự bền bỉ kiên nhẫn, cần mẫn và đáng tin cậy không gì lay chuyển.",
+      "cc.chi.dan": "Dần, con Hổ, truyền tải lòng can đảm, năng lượng dồi dào và phong thái uy nghi, không sợ hãi.",
+      "cc.chi.mao": "Mão, con Mèo, gợi sự dịu dàng, khéo léo và niềm yêu thích tinh tế đối với sự thoải mái và hài hòa.",
+      "cc.chi.thin": "Thìn, con Rồng, tỏa rạng quyền uy, hoài bão và sức sống tốt lành, phi thường.",
+      "cc.chi.ti": "Tỵ, con Rắn, biểu thị trí tuệ sâu sắc, sự tinh tế và trực giác thầm lặng đầy bí ẩn.",
+      "cc.chi.ngo": "Ngọ, con Ngựa, phi nước đại với tự do, nhiệt huyết và tinh thần phiêu lưu không yên.",
+      "cc.chi.mui": "Mùi, con Dê, phản ánh sự dịu hiền, óc sáng tạo và bản tính yêu hòa bình, giàu lòng trắc ẩn.",
+      "cc.chi.than": "Thân, con Khỉ, lấp lánh sự thông minh, đa tài và óc khôn khéo nghịch ngợm.",
+      "cc.chi.dau": "Dậu, con Gà, đánh dấu sự chính xác, tự tin và con mắt thẳng thắn, tỉ mỉ trước từng chi tiết.",
+      "cc.chi.tuat": "Tuất, con Chó, tượng trưng cho lòng trung thành, sự chính trực và tinh thần bảo vệ công lý.",
+      "cc.chi.hoi": "Hợi, con Lợn, thể hiện sự chân thành, hào phóng và hơi ấm dễ chịu, hiền hậu."
+    }
+  }
+}

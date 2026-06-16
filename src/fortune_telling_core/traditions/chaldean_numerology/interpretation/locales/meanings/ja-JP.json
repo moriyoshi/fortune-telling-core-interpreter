@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "locale": "ja-JP",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "chaldean_numerology.number.1": "太陽に支配される一は、統率力と独創性、そして創造へ向かう強く自立した意欲を示します。",
+      "chaldean_numerology.number.2": "月に支配される二は、感受性と外交手腕、協調への直観的な才を示します。",
+      "chaldean_numerology.number.3": "木星に支配される三は、楽観と自己表現、そして成長へ向かう規律ある野心を示します。",
+      "chaldean_numerology.number.4": "天王星に支配される四は、型破りな思考と落ち着かなさ、慣習への静かな反逆を示します。",
+      "chaldean_numerology.number.5": "水星に支配される五は、多才さと機転、そしてコミュニケーションと変化を愛する落ち着かぬ心を示します。",
+      "chaldean_numerology.number.6": "金星に支配される六は、調和と情愛、そして家庭と美への慈しみ深い献身を示します。",
+      "chaldean_numerology.number.7": "海王星に支配される七は、内省と想像力、より深い意味を求める神秘的な探求を示します。",
+      "chaldean_numerology.number.8": "土星に支配される八は、規律と物質的な野心、世俗の事柄で試された不屈の強さを示します。",
+      "chaldean_numerology.number.9": "火星に支配される九は、勇気と決意、大胆な行動へ向かう情熱的な意欲を示します。"
+    }
+  }
+}

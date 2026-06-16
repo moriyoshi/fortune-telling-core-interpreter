@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cc.can.giap": "Giáp, batang Kayu yang, menandakan semangat perintis yang berani dan pertumbuhan tegak bagaikan pohon besar yang menjulang ke arah cahaya.",
+      "cc.can.at": "Ất, batang Kayu yin, menunjukkan kelenturan yang lembut dan ketekunan yang tenang, membungkuk seperti tanaman menjalar namun tak pernah patah.",
+      "cc.can.binh": "Bính, batang Api yang, berkobar dengan kehangatan yang berseri, karisma, serta jiwa yang terbuka dan murah hati.",
+      "cc.can.dinh": "Đinh, batang Api yin, bersinar dengan cahaya pelita yang tenang dan akrab, menandai wawasan halus dan pengabdian.",
+      "cc.can.mau": "Mậu, batang Tanah yang, berdiri kokoh dan dapat diandalkan bagai gunung, menawarkan kestabilan dan tekad yang teguh.",
+      "cc.can.ky": "Kỷ, batang Tanah yin, mengasuh bagai tanah subur, menyukai kesabaran, perhatian, dan pembinaan yang tenang.",
+      "cc.can.canh": "Canh, batang Logam yang, membawa kekuatan tajam besi tempa, melambangkan ketegasan, keadilan, dan keteguhan.",
+      "cc.can.tan": "Tân, batang Logam yin, berkilau bagai permata yang dipoles, menandai keanggunan, kebijaksanaan, dan kecintaan pada hal-hal indah.",
+      "cc.can.nham": "Nhâm, batang Air yang, mengalir dengan kedalaman dan ambisi sungai besar, merangkul perubahan dan cakrawala yang jauh.",
+      "cc.can.quy": "Quý, batang Air yin, bergerak bagai hujan lembut atau kabut, menunjukkan intuisi, kepekaan, dan kebijaksanaan yang tenang.",
+      "cc.chi.ty": "Tý, sang Tikus, mewujudkan kecerdasan yang gesit, akal banyak, dan kelihaian memanfaatkan peluang.",
+      "cc.chi.suu": "Sửu, sang Kerbau, melambangkan ketahanan yang sabar, ketekunan, dan kehandalan yang tak tergoyahkan.",
+      "cc.chi.dan": "Dần, sang Harimau, menyampaikan keberanian, energi yang dinamis, serta kehadiran yang berwibawa dan tak gentar.",
+      "cc.chi.mao": "Mão, sang Kucing, menunjukkan kelembutan, kebijaksanaan, dan kecintaan halus pada kenyamanan dan keselarasan.",
+      "cc.chi.thin": "Thìn, sang Naga, memancarkan kekuatan, ambisi, serta vitalitas yang menguntungkan dan luar biasa.",
+      "cc.chi.ti": "Tỵ, sang Ular, melambangkan kebijaksanaan yang dalam, kehalusan, dan intuisi yang misterius dan tenang.",
+      "cc.chi.ngo": "Ngọ, sang Kuda, berlari dengan kebebasan, antusiasme, dan jiwa petualang yang gelisah.",
+      "cc.chi.mui": "Mùi, sang Kambing, mencerminkan kelembutan, kreativitas, dan sifat penuh kasih yang cinta damai.",
+      "cc.chi.than": "Thân, sang Monyet, berkilau dengan kecerdikan, keserbabisaan, dan kecerdasan yang penuh canda.",
+      "cc.chi.dau": "Dậu, sang Ayam Jantan, menandai ketepatan, kepercayaan diri, dan mata yang jujur dan teliti pada detail.",
+      "cc.chi.tuat": "Tuất, sang Anjing, melambangkan kesetiaan, kejujuran, dan rasa keadilan yang melindungi.",
+      "cc.chi.hoi": "Hợi, sang Babi, mewujudkan ketulusan, kemurahan hati, dan kehangatan yang santai dan ramah."
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cyrillic_pythagorean.number.1": "Le un désigne le pionnier, exprimant l'indépendance, l'initiative et une volonté de mener.",
+      "cyrillic_pythagorean.number.2": "Le deux désigne le pacificateur, exprimant l'équilibre, le partenariat et une réceptivité tranquille.",
+      "cyrillic_pythagorean.number.3": "Le trois désigne le communicateur, exprimant la créativité, la sociabilité et une joyeuse expression de soi.",
+      "cyrillic_pythagorean.number.4": "Le quatre désigne le bâtisseur, exprimant la stabilité, l'assiduité et un amour pratique de l'ordre.",
+      "cyrillic_pythagorean.number.5": "Le cinq désigne le chercheur, exprimant la liberté, l'adaptabilité et un appétit curieux pour l'expérience.",
+      "cyrillic_pythagorean.number.6": "Le six désigne le protecteur, exprimant la responsabilité, la compassion et le dévouement à la famille et à la communauté.",
+      "cyrillic_pythagorean.number.7": "Le sept désigne le penseur, exprimant l'analyse, l'introspection et une quête de vérité cachée.",
+      "cyrillic_pythagorean.number.8": "Le huit désigne le réalisateur, exprimant l'autorité, l'ambition et une capacité de maîtrise matérielle.",
+      "cyrillic_pythagorean.number.9": "Le neuf désigne l'humaniste, exprimant l'idéalisme, la compassion et une vision généreuse et de grande portée."
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {
+    "ten_god": "{label} describes how this stem relates to the Day Master."
+  },
+  "vocab": {
+    "labels": {
+      "friend": "Friend",
+      "rob_wealth": "Rob Wealth",
+      "eating_god": "Eating God",
+      "hurting_officer": "Hurting Officer",
+      "indirect_wealth": "Indirect Wealth",
+      "direct_wealth": "Direct Wealth",
+      "seven_killings": "Seven Killings",
+      "direct_officer": "Direct Officer",
+      "indirect_resource": "Indirect Resource",
+      "direct_resource": "Direct Resource"
+    }
+  }
+}

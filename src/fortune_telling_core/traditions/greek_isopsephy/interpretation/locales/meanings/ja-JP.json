@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "locale": "ja-JP",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "greek_isopsephy.result.total": "ギリシア語の名前の各文字の数値を合計して得られるイソプセフィアの総和は、その根底にある性格と意味を明かすと信じられる、隠された数の本質を表します。"
+    }
+  }
+}

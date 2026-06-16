@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "zh-TW",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "numerology.number.1": "一條獨立、主動與領導的生命路徑，受驅策去開創自己的道路。",
+      "numerology.number.2": "一條合作、敏感與外交的生命路徑，藉由夥伴關係與平衡而興盛。",
+      "numerology.number.3": "一條創造、表達與樂觀的生命路徑，藉由溝通與喜悅而蓬勃。",
+      "numerology.number.4": "一條紀律、穩定與勤奮的生命路徑，藉由秩序築起持久的根基。",
+      "numerology.number.5": "一條自由、適應與冒險的生命路徑，因變化與新體驗而充滿活力。",
+      "numerology.number.6": "一條責任、滋養與和諧的生命路徑，奉獻於家庭、服務與關懷。",
+      "numerology.number.7": "一條內省、分析與探求的生命路徑，受智慧與更深真理所吸引。",
+      "numerology.number.8": "一條抱負、權威與成就的生命路徑，傾向於物質的駕馭與成功。",
+      "numerology.number.9": "一條同情、理想與慷慨的生命路徑，奉獻於人類與更大的福祉。",
+      "numerology.number.11": "一條直覺與啟發的大師生命路徑，被召喚去啟迪並提升他人。",
+      "numerology.number.22": "一條富遠見之建造者的大師生命路徑，能將崇高的理想化為持久的現實。",
+      "numerology.number.33": "一條無私奉獻與療癒的大師生命路徑，藉由服務眾生而體現同情。"
+    }
+  }
+}

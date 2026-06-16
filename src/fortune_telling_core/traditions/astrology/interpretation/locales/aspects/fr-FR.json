@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "conjunction": "Une conjonction fusionne les deux astres, mêlant leurs énergies en un foyer unique et intensifié qui colore la façon dont chacun s'exprime.",
+      "opposition": "Une opposition étire les deux astres en une polarité, appelant à l'équilibre et à la conscience entre des forces contraires qui se manifestent souvent à travers autrui.",
+      "trine": "Un trigone unit les deux astres dans un flux aisé et harmonieux, un don sans effort de talent et de soutien qui ne demande qu'à être utilisé.",
+      "square": "Un carré place les deux astres en friction, une tension qui contrarie mais qui stimule la croissance, la réussite et la construction du caractère.",
+      "sextile": "Un sextile offre un canal ouvert et favorable entre les deux astres, une occasion qui récompense l'initiative et un effort mesuré."
+    }
+  }
+}

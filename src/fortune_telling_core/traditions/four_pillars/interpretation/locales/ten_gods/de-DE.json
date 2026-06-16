@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {
+    "ten_god": "{label} beschreibt, wie sich dieser Stamm zum Tagesherrn verhält."
+  },
+  "vocab": {
+    "labels": {
+      "friend": "Freund",
+      "rob_wealth": "Reichtumsräuber",
+      "eating_god": "Essender Gott",
+      "hurting_officer": "Verletzender Beamter",
+      "indirect_wealth": "Indirekter Reichtum",
+      "direct_wealth": "Direkter Reichtum",
+      "seven_killings": "Sieben Tötungen",
+      "direct_officer": "Direkter Beamter",
+      "indirect_resource": "Indirekte Ressource",
+      "direct_resource": "Direkte Ressource"
+    }
+  }
+}

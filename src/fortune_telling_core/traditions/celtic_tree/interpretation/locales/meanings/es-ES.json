@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "locale": "es-ES",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "celtic_tree.sign.birch": "El abedul señala a un pionero decidido y ambicioso que despeja lo viejo para empezar de nuevo con una callada resiliencia.",
+      "celtic_tree.sign.rowan": "El serbal denota un espíritu visionario e idealista, protector y original, guiado por un fuerte sentido interior de propósito.",
+      "celtic_tree.sign.ash": "El fresno revela un alma imaginativa e intuitiva, vuelta hacia su interior pero artística, que halla la libertad mediante la expresión creativa.",
+      "celtic_tree.sign.alder": "El aliso señala a un precursor seguro de sí y carismático que actúa con valor, confianza y autoridad natural.",
+      "celtic_tree.sign.willow": "El sauce habla de una naturaleza perceptiva e intuitiva, paciente y adaptable, con una honda comprensión de las corrientes ocultas de la vida.",
+      "celtic_tree.sign.hawthorn": "El espino oculta un ingenio curioso y adaptable bajo una apariencia reservada, equilibrando con soltura muchas cualidades opuestas.",
+      "celtic_tree.sign.oak": "El roble encarna a un protector fuerte, generoso y firme que inspira a los demás con su optimismo y su perdurable determinación.",
+      "celtic_tree.sign.holly": "El acebo señala a un líder noble y capaz, seguro y ambicioso, que supera los obstáculos con dignidad y resolución.",
+      "celtic_tree.sign.hazel": "El avellano refleja una mente lúcida y erudita, agudamente observadora y elocuente, con un don para el aprendizaje y la perspicacia.",
+      "celtic_tree.sign.vine": "La vid denota una naturaleza refinada y cambiante, sensible y perspicaz, que busca el equilibrio y la belleza entre las contradicciones de la vida.",
+      "celtic_tree.sign.ivy": "La hiedra revela un alma leal y compasiva, resiliente y fiel, que florece mediante la paciencia y una devoción inquebrantable.",
+      "celtic_tree.sign.reed": "La caña señala a un buscador de la verdad perceptivo y reservado, atraído por los significados ocultos y capaz de discernir lo que yace bajo la superficie.",
+      "celtic_tree.sign.elder": "El saúco encarna a un caminante de espíritu libre y reflexivo, honesto y enérgico, que valora la experiencia y la independencia personal."
+    }
+  }
+}

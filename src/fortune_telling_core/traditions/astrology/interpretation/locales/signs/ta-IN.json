@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "ta-IN",
+  "templates": {
+    "placement": "{sign} ராசியில் {body} {element} {modality} பண்புகள் வழியாக வெளிப்படுகிறது.",
+    "retrograde_suffix": " வக்கிர இயக்கம் வெளிப்பாட்டை மறுபரிசீலனைக்காக உள்ள்நோக்கி திருப்புகிறது."
+  },
+  "vocab": {
+    "signs": {
+      "aries": "மேஷம்",
+      "taurus": "ரிஷபம்",
+      "gemini": "மிதுனம்",
+      "cancer": "கடகம்",
+      "leo": "சிம்மம்",
+      "virgo": "கன்னி",
+      "libra": "துலாம்",
+      "scorpio": "விருச்சிகம்",
+      "sagittarius": "தனுசு",
+      "capricorn": "மகரம்",
+      "aquarius": "கும்பம்",
+      "pisces": "மீனம்"
+    },
+    "bodies": {
+      "sun": "சூரியன்",
+      "moon": "சந்திரன்",
+      "mercury": "புதன்",
+      "venus": "சுக்கிரன்",
+      "mars": "செவ்வாய்",
+      "jupiter": "குரு",
+      "saturn": "சனி",
+      "uranus": "யுரேனஸ்",
+      "neptune": "நெப்டியூன்",
+      "pluto": "புளூட்டோ",
+      "north_node": "வட கணு (ராகு)",
+      "south_node": "தென் கணு (கேது)",
+      "ascendant": "லக்னம்",
+      "midheaven": "நடுவானம்"
+    },
+    "elements": {
+      "fire": "நெருப்பு",
+      "earth": "பூமி",
+      "air": "காற்று",
+      "water": "நீர்"
+    },
+    "modalities": {
+      "cardinal": "சர",
+      "fixed": "ஸ்திர",
+      "mutable": "உபய"
+    }
+  }
+}

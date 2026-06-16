@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "weton.saptawara.senin": "Senin, yang lahir di hari Senin, menyiratkan watak tenang dan sabar yang cenderung pada perenungan hening serta pertimbangan yang mantap dan matang.",
+      "weton.saptawara.selasa": "Selasa, yang lahir di hari Selasa, menunjukkan dorongan dan ambisi, dengan watak bersemangat dan penuh tenaga yang mengejar tujuan dengan gigih.",
+      "weton.saptawara.rabu": "Rabu, yang lahir di hari Rabu, menandakan keramahan dan kefasihan, menguntungkan mereka yang pandai berkomunikasi dan menyenangkan dalam pergaulan.",
+      "weton.saptawara.kamis": "Kamis, yang lahir di hari Kamis, menandai kedermawanan dan keberuntungan, mencerminkan watak terhormat yang gemar menuntut ilmu dan meraih kemakmuran.",
+      "weton.saptawara.jumat": "Jumat, yang lahir di hari Jumat, menyatakan pengabdian dan kehangatan, memberkati jiwa lembut dan selaras yang menjunjung iman serta keluarga.",
+      "weton.saptawara.sabtu": "Sabtu, yang lahir di hari Sabtu, mencerminkan disiplin dan ketangguhan, cocok bagi watak pekerja keras dan tabah yang mampu menanggung kesukaran.",
+      "weton.saptawara.minggu": "Minggu, yang lahir di hari Minggu, menyampaikan keceriaan dan kepemimpinan, menerangi watak percaya diri dan bersinar yang menarik orang mendekat.",
+      "weton.pancawara.legi": "Legi, hari pasaran yang manis, melimpahkan keanggunan dan kelembutan, memupuk pembawaan yang disukai dan menyenangkan sehingga membuat orang lain tenang.",
+      "weton.pancawara.pahing": "Pahing, hari pasaran yang pahit, menghadirkan keuletan dan ketegasan, membentuk watak teguh dan berkemauan kuat yang tak gentar menghadapi pertikaian.",
+      "weton.pancawara.pon": "Pon, hari pasaran yang berseri, menanamkan pesona dan kehalusan, menguntungkan watak yang menarik dan cermat dengan kepekaan akan keindahan.",
+      "weton.pancawara.wage": "Wage, hari pasaran yang teguh, menanamkan kehematan dan keajegan, menandai jiwa yang membumi dan praktis serta kukuh dalam pendirian.",
+      "weton.pancawara.kliwon": "Kliwon, hari pasaran yang utama, membawa intuisi dan kedalaman spiritual, menganugerahi watak peka dan perenung yang selaras dengan yang tak kasat mata."
+    }
+  }
+}

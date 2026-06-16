@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "sukuyo.mansion.ashvini": "Ashvinī (婁宿) is swift and pioneering, a healing, energetic mansion that begins boldly and moves with quick initiative.",
+      "sukuyo.mansion.bharani": "Bharaṇī (胃宿) bears burdens with endurance and restraint, a mansion of transformation, discipline and hard-won growth.",
+      "sukuyo.mansion.krittika": "Kṛttikā (昴宿) is sharp and fiery, a cutting, purifying mansion of keen judgement and unflinching honesty.",
+      "sukuyo.mansion.rohini": "Rohiṇī (畢宿) is beautiful and fertile, a charming mansion of growth, attraction and material grace.",
+      "sukuyo.mansion.mrigashira": "Mṛgaśira (觜宿) is the gentle seeker, a curious, searching mansion that roves in pursuit of what it longs for.",
+      "sukuyo.mansion.ardra": "Ārdrā (参宿) is the storm, an intense mansion of upheaval, emotional depth and breakthrough after turbulence.",
+      "sukuyo.mansion.punarvasu": "Punarvasu (井宿) is renewal and return, an optimistic mansion of safe harbour, recovery and fresh starts.",
+      "sukuyo.mansion.pushya": "Puṣya (鬼宿) is nourishing and protective, a devoted, prosperous mansion regarded as deeply auspicious.",
+      "sukuyo.mansion.ashlesha": "Āśleṣā (柳宿) is the coiled serpent, an intuitive, cunning mansion of penetrating insight and entangling power.",
+      "sukuyo.mansion.magha": "Maghā (星宿) is the throne of the ancestors, a proud, dignified mansion of authority, legacy and honour.",
+      "sukuyo.mansion.purva_phalguni": "Pūrva Phalgunī (張宿) is the star of pleasure, a relaxed, romantic mansion of leisure, creativity and enjoyment.",
+      "sukuyo.mansion.uttara_phalguni": "Uttara Phalgunī (翼宿) is the generous patron, a reliable mansion of friendship, contracts and steady support.",
+      "sukuyo.mansion.hasta": "Hasta (軫宿) is the skilled hand, a deft, clever mansion of craft, dexterity and practical accomplishment.",
+      "sukuyo.mansion.chitra": "Chitrā (角宿) is the brilliant gem, a mansion of design, beauty and dazzling, well-wrought artistry.",
+      "sukuyo.mansion.svati": "Svātī (亢宿) is the wind, an independent, flexible mansion of movement, trade and self-directed freedom.",
+      "sukuyo.mansion.vishakha": "Viśākhā (氐宿) is goal-driven, a determined mansion of ambition, focus and purpose ripening toward its aim.",
+      "sukuyo.mansion.anuradha": "Anurādhā (房宿) is devoted friendship, a cooperative mansion of loyalty, success among others and fortune abroad.",
+      "sukuyo.mansion.jyeshtha": "Jyeṣṭhā (心宿) is the elder, a courageous mansion of seniority, protection and quietly held power.",
+      "sukuyo.mansion.mula": "Mūla (尾宿) is the root, an investigative mansion that uproots and probes to reach the very core of things.",
+      "sukuyo.mansion.purva_ashadha": "Pūrva Āṣāḍhā (箕宿) is the invincible, a persuasive mansion of early victory and unshakeable conviction.",
+      "sukuyo.mansion.uttara_ashadha": "Uttara Āṣāḍhā (斗宿) is lasting victory, an upright mansion of integrity, endurance and enduring leadership.",
+      "sukuyo.mansion.shravana": "Śravaṇa (女宿) is the listener, a learned mansion of attentiveness, connection and growing reputation.",
+      "sukuyo.mansion.dhanishtha": "Dhaniṣṭhā (虚宿) is the drum, a rhythmic mansion of wealth, music, fame and abundant vitality.",
+      "sukuyo.mansion.shatabhisha": "Śatabhiṣā (危宿) is the hundred healers, a secretive, mystical mansion of healing and hidden knowledge.",
+      "sukuyo.mansion.purva_bhadrapada": "Pūrva Bhādrapadā (室宿) is fervent and idealistic, an intense mansion of conviction and transformative fire.",
+      "sukuyo.mansion.uttara_bhadrapada": "Uttara Bhādrapadā (壁宿) is the deep water, a calm, wise mansion of depth, patience and steady counsel.",
+      "sukuyo.mansion.revati": "Revatī (奎宿) is the nourisher, a gentle mansion of completion, safe passage and kindly prosperity."
+    }
+  }
+}

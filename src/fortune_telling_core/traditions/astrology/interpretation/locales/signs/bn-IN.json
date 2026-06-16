@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "bn-IN",
+  "templates": {
+    "placement": "{sign} রাশিতে {body} {element} {modality} গুণের মাধ্যমে প্রকাশ পায়।",
+    "retrograde_suffix": " বক্রী গতি এই প্রকাশকে পুনর্বিবেচনার জন্য অন্তর্মুখী করে তোলে।"
+  },
+  "vocab": {
+    "signs": {
+      "aries": "মেষ",
+      "taurus": "বৃষ",
+      "gemini": "মিথুন",
+      "cancer": "কর্কট",
+      "leo": "সিংহ",
+      "virgo": "কন্যা",
+      "libra": "তুলা",
+      "scorpio": "বৃশ্চিক",
+      "sagittarius": "ধনু",
+      "capricorn": "মকর",
+      "aquarius": "কুম্ভ",
+      "pisces": "মীন"
+    },
+    "bodies": {
+      "sun": "সূর্য",
+      "moon": "চন্দ্র",
+      "mercury": "বুধ",
+      "venus": "শুক্র",
+      "mars": "মঙ্গল",
+      "jupiter": "বৃহস্পতি",
+      "saturn": "শনি",
+      "uranus": "ইউরেনাস",
+      "neptune": "নেপচুন",
+      "pluto": "প্লুটো",
+      "north_node": "উত্তর নোড",
+      "south_node": "দক্ষিণ নোড",
+      "ascendant": "লগ্ন",
+      "midheaven": "মধ্যাকাশ"
+    },
+    "elements": {
+      "fire": "অগ্নি",
+      "earth": "পৃথিবী",
+      "air": "বায়ু",
+      "water": "জল"
+    },
+    "modalities": {
+      "cardinal": "চর",
+      "fixed": "স্থির",
+      "mutable": "দ্বিস্বভাব"
+    }
+  }
+}

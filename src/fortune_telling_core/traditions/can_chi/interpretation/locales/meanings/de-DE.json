@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cc.can.giap": "Giáp, der Yang-Holz-Stamm, steht für kühne Pioniertatkraft und aufrechtes Wachstum wie ein großer Baum, der zum Licht strebt.",
+      "cc.can.at": "Ất, der Yin-Holz-Stamm, deutet auf sanfte Anpassungsfähigkeit und stille Beharrlichkeit, biegsam wie eine Ranke, doch nie brechend.",
+      "cc.can.binh": "Bính, der Yang-Feuer-Stamm, lodert mit strahlender Wärme, Charisma und einem offenen, großzügigen Geist.",
+      "cc.can.dinh": "Đinh, der Yin-Feuer-Stamm, leuchtet mit dem steten, vertrauten Licht einer Lampe und steht für feinsinnige Einsicht und Hingabe.",
+      "cc.can.mau": "Mậu, der Yang-Erde-Stamm, steht fest und verlässlich wie ein Berg und bietet Stabilität und unerschütterliche Entschlossenheit.",
+      "cc.can.ky": "Kỷ, der Yin-Erde-Stamm, nährt wie fruchtbarer Boden und begünstigt Geduld, Fürsorge und stille Pflege.",
+      "cc.can.canh": "Canh, der Yang-Metall-Stamm, trägt die scharfe Kraft geschmiedeten Eisens und steht für Entschlossenheit, Gerechtigkeit und Tatkraft.",
+      "cc.can.tan": "Tân, der Yin-Metall-Stamm, glänzt wie ein polierter Edelstein und steht für Eleganz, Unterscheidungsvermögen und die Liebe zum Schönen.",
+      "cc.can.nham": "Nhâm, der Yang-Wasser-Stamm, fließt mit der Tiefe und dem Ehrgeiz eines großen Stroms und umarmt Wandel und ferne Horizonte.",
+      "cc.can.quy": "Quý, der Yin-Wasser-Stamm, bewegt sich wie sanfter Regen oder Nebel und deutet auf Intuition, Feinfühligkeit und stille Weisheit.",
+      "cc.chi.ty": "Tý, die Ratte, verkörpert rasche Auffassungsgabe, Findigkeit und kluges Gespür für Gelegenheiten.",
+      "cc.chi.suu": "Sửu, der Büffel, steht für geduldiges Durchhaltevermögen, Fleiß und unerschütterliche Zuverlässigkeit.",
+      "cc.chi.dan": "Dần, der Tiger, vermittelt Mut, dynamische Energie und eine gebietende, furchtlose Präsenz.",
+      "cc.chi.mao": "Mão, die Katze, deutet auf Sanftmut, Taktgefühl und eine verfeinerte Liebe zu Behaglichkeit und Harmonie.",
+      "cc.chi.thin": "Thìn, der Drache, strahlt Kraft, Ehrgeiz und eine glückverheißende, überlebensgroße Vitalität aus.",
+      "cc.chi.ti": "Tỵ, die Schlange, steht für tiefe Weisheit, Subtilität und still rätselhafte Intuition.",
+      "cc.chi.ngo": "Ngọ, das Pferd, galoppiert mit Freiheit, Begeisterung und ruhelosem Abenteuergeist.",
+      "cc.chi.mui": "Mùi, die Ziege, spiegelt Zärtlichkeit, Kreativität und ein friedliebendes, mitfühlendes Wesen wider.",
+      "cc.chi.than": "Thân, der Affe, funkelt mit Klugheit, Vielseitigkeit und spielerischem Erfindergeist.",
+      "cc.chi.dau": "Dậu, der Hahn, steht für Genauigkeit, Selbstsicherheit und ein offenes, akribisches Auge fürs Detail.",
+      "cc.chi.tuat": "Tuất, der Hund, steht für Treue, Ehrlichkeit und einen beschützenden Sinn für Gerechtigkeit.",
+      "cc.chi.hoi": "Hợi, das Schwein, verkörpert Aufrichtigkeit, Großzügigkeit und eine unbeschwerte, gutmütige Herzlichkeit."
+    }
+  }
+}

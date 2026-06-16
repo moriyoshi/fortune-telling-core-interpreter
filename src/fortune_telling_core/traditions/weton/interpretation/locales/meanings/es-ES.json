@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "es-ES",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "weton.saptawara.senin": "Senin, el nacido en lunes, sugiere una naturaleza calmada y paciente, inclinada a la reflexión serena y a un juicio firme y meditado.",
+      "weton.saptawara.selasa": "Selasa, el nacido en martes, apunta al empuje y la ambición, con un temperamento ferviente y enérgico que persigue sus metas con audacia.",
+      "weton.saptawara.rabu": "Rabu, el nacido en miércoles, indica sociabilidad y elocuencia, favoreciendo a quienes son hábiles en la comunicación y amables en compañía.",
+      "weton.saptawara.kamis": "Kamis, el nacido en jueves, señala generosidad y buena fortuna, marcando un carácter digno, atraído por el saber y la prosperidad.",
+      "weton.saptawara.jumat": "Jumat, el nacido en viernes, denota devoción y calidez, bendiciendo a un alma dulce y armoniosa, atenta a la fe y la familia.",
+      "weton.saptawara.sabtu": "Sabtu, el nacido en sábado, refleja disciplina y resiliencia, propio de una naturaleza trabajadora y perseverante que soporta la penalidad.",
+      "weton.saptawara.minggu": "Minggu, el nacido en domingo, transmite luminosidad y liderazgo, iluminando un carácter seguro y radiante que atrae a los demás.",
+      "weton.pancawara.legi": "Legi, el dulce día de mercado, presta gracia y dulzura, fomentando una disposición agradable y afable que pone a los demás a gusto.",
+      "weton.pancawara.pahing": "Pahing, el amargo día de mercado, trae tenacidad y firmeza, moldeando una naturaleza decidida y voluntariosa que no teme el conflicto.",
+      "weton.pancawara.pon": "Pon, el radiante día de mercado, imparte encanto y refinamiento, favoreciendo un carácter atractivo y diestro con ojo para la belleza.",
+      "weton.pancawara.wage": "Wage, el firme día de mercado, inculca el ahorro y la constancia, marcando un alma arraigada y práctica, firme en sus convicciones.",
+      "weton.pancawara.kliwon": "Kliwon, el central día de mercado, porta intuición y hondura espiritual, agraciando una naturaleza perceptiva y contemplativa, atenta a lo invisible."
+    }
+  }
+}

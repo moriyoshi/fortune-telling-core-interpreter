@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "numerology.number.1": "Un chemin de vie d'indépendance, d'initiative et de leadership, poussé à tracer sa propre voie.",
+      "numerology.number.2": "Un chemin de vie de coopération, de sensibilité et de diplomatie, qui s'épanouit par le partenariat et l'équilibre.",
+      "numerology.number.3": "Un chemin de vie de créativité, d'expression et d'optimisme, qui s'épanouit par la communication et la joie.",
+      "numerology.number.4": "Un chemin de vie de discipline, de stabilité et de travail acharné, bâtissant des fondations durables par l'ordre.",
+      "numerology.number.5": "Un chemin de vie de liberté, d'adaptabilité et d'aventure, dynamisé par le changement et les expériences nouvelles.",
+      "numerology.number.6": "Un chemin de vie de responsabilité, de soin et d'harmonie, voué à la famille, au service et à l'attention.",
+      "numerology.number.7": "Un chemin de vie d'introspection, d'analyse et de quête, attiré par la sagesse et les vérités profondes.",
+      "numerology.number.8": "Un chemin de vie d'ambition, d'autorité et de réussite, orienté vers la maîtrise matérielle et le succès.",
+      "numerology.number.9": "Un chemin de vie de compassion, d'idéalisme et de générosité, voué à l'humanité et au bien commun.",
+      "numerology.number.11": "Un chemin de vie maître d'intuition et d'inspiration, appelé à éclairer et à élever les autres.",
+      "numerology.number.22": "Un chemin de vie maître du bâtisseur visionnaire, capable de transformer de nobles idéaux en réalité durable.",
+      "numerology.number.33": "Un chemin de vie maître de dévouement désintéressé et de guérison, incarnant la compassion par le service à tous."
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "greek_isopsephy.result.total": "The isopsephy total, obtained by summing the numerical values of a Greek name's letters, expresses the hidden numerical essence believed to reveal its underlying character and significance."
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cjk_name_strokes.result.heaven": "Thiên Cách, được tính từ số nét của họ, biểu thị những ảnh hưởng kế thừa và phúc đức tổ tiên định khung cho hoàn cảnh ban đầu của một người.",
+      "cjk_name_strokes.result.person": "Nhân Cách, tạo thành từ chữ cuối của họ và chữ đầu của tên, phản ánh tính cách cốt lõi, khí chất và thời kỳ sung mãn nhất của đời người.",
+      "cjk_name_strokes.result.earth": "Địa Cách, lấy từ số nét của tên, cho thấy vận may thuở thiếu thời và nền tảng để xây dựng cuộc sống và các mối quan hệ ban đầu.",
+      "cjk_name_strokes.result.outer": "Ngoại Cách chi phối địa vị xã hội và sự giao tiếp với thế giới rộng lớn, định hình danh tiếng và các mối tương tác bên ngoài gia đình gần gũi.",
+      "cjk_name_strokes.result.total": "Tổng Cách, tổng số nét của cả tên, biểu thị vận mệnh tổng thể và vận may của những năm tháng về sau."
+    }
+  }
+}

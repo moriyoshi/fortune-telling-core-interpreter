@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "pt-BR",
+  "templates": {},
+  "vocab": {
+    "texts": {
+      "ming": "O Palácio da Vida (命宮) é o coração do mapa, descrevendo seu caráter essencial, seu temperamento e o arco geral do seu destino.",
+      "siblings": "O Palácio dos Irmãos (兄弟宮) fala de irmãos, irmãs e pares próximos, e de como você coopera e compartilha com aqueles que estão ao seu lado.",
+      "spouse": "O Palácio do Cônjuge (夫妻宮) rege o casamento e a parceria, revelando a natureza dos seus laços mais íntimos e o ritmo da sua vida amorosa.",
+      "children": "O Palácio dos Filhos (子女宮) diz respeito tanto à prole, aos discípulos e aos frutos criativos, quanto ao cuidado, à vitalidade e ao legado que você transmite.",
+      "wealth": "O Palácio da Riqueza (財帛宮) descreve renda, dinheiro e fortuna material — como os recursos fluem até você e como você os retém.",
+      "health": "O Palácio da Saúde (疾厄宮) reflete a constituição, a vitalidade e a vulnerabilidade à doença, e as tensões corporais e emocionais a vigiar.",
+      "travel": "O Palácio das Viagens (遷移宮) rege o movimento, as jornadas e as oportunidades longe de casa, e como o mundo mais amplo o recebe.",
+      "friends": "O Palácio dos Amigos (僕役宮) abrange companheiros, colegas e subordinados, e o apoio ou o atrito que você encontra no seu círculo.",
+      "career": "O Palácio da Carreira (官祿宮) descreve a vocação, o status e a realização, e a posição que você constrói por meio do seu trabalho.",
+      "property": "O Palácio da Propriedade (田宅宮) diz respeito ao lar, à terra e aos bens da família, e à segurança e à atmosfera do lugar onde você habita.",
+      "fortune": "O Palácio da Fortuna (福德宮) fala de contentamento, vida espiritual e bênçãos, e da paz interior que sustenta a fortuna exterior.",
+      "parents": "O Palácio dos Pais (父母宮) rege os pais, os mais velhos e a autoridade, e a proteção, a orientação e a herança que você recebe deles."
+    }
+  }
+}

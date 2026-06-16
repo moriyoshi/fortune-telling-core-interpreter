@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "locale": "pt-BR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "celtic_tree.sign.birch": "A bétula marca um pioneiro determinado e ambicioso que varre o velho para recomeçar com serena resiliência.",
+      "celtic_tree.sign.rowan": "A sorveira denota um espírito visionário e idealista, protetor e original, guiado por um forte senso interior de propósito.",
+      "celtic_tree.sign.ash": "O freixo revela uma alma imaginativa e intuitiva, voltada para dentro, mas artística, que encontra liberdade na expressão criativa.",
+      "celtic_tree.sign.alder": "O amieiro sinaliza um desbravador seguro e carismático que age com coragem, confiança e autoridade natural.",
+      "celtic_tree.sign.willow": "O salgueiro fala de uma natureza perspicaz e intuitiva, paciente e adaptável, com profunda compreensão das correntes ocultas da vida.",
+      "celtic_tree.sign.hawthorn": "O espinheiro esconde uma esperteza curiosa e adaptável sob uma aparência reservada, equilibrando com facilidade muitas qualidades contrastantes.",
+      "celtic_tree.sign.oak": "O carvalho encarna um protetor forte, generoso e firme que inspira os outros pelo otimismo e pela determinação duradoura.",
+      "celtic_tree.sign.holly": "O azevinho marca um líder nobre e capaz, confiante e ambicioso, que supera obstáculos com dignidade e resolução.",
+      "celtic_tree.sign.hazel": "A aveleira reflete uma mente inteligente e culta, agudamente observadora e articulada, com um dom para o aprendizado e a percepção.",
+      "celtic_tree.sign.vine": "A videira denota uma natureza refinada e mutável, sensível e perspicaz, que busca equilíbrio e beleza em meio às contradições da vida.",
+      "celtic_tree.sign.ivy": "A hera revela uma alma leal e compassiva, resiliente e fiel, que floresce pela paciência e pela devoção constante.",
+      "celtic_tree.sign.reed": "O junco sinaliza um buscador da verdade perspicaz e reservado, atraído por significados ocultos e capaz de discernir o que jaz sob a superfície.",
+      "celtic_tree.sign.elder": "O sabugueiro encarna um andarilho de espírito livre e reflexivo, honesto e enérgico, que valoriza a experiência e a independência pessoal."
+    }
+  }
+}

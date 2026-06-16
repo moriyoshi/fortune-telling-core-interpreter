@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "zh-TW",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "name_numerology.number.1": "一個展現獨立、動力與領導力的名字，投射出開拓而自立的性格。",
+      "name_numerology.number.2": "一個展現機敏、敏感與合作的名字，投射出溫和而善於調和的性格。",
+      "name_numerology.number.3": "一個展現創造力、魅力與自我表達的名字，投射出善交際而樂觀的性格。",
+      "name_numerology.number.4": "一個展現秩序、可靠與勤勉的名字，投射出沉穩而務實的性格。",
+      "name_numerology.number.5": "一個展現多才、自由與好奇的名字，投射出充滿活力而愛冒險的性格。",
+      "name_numerology.number.6": "一個展現關懷、責任與溫情的名字，投射出滋養而專一的性格。",
+      "name_numerology.number.7": "一個展現深度、分析與反思的名字，投射出深思而神祕的性格。",
+      "name_numerology.number.8": "一個展現抱負、權威與才幹的名字，投射出自信而有成就的性格。",
+      "name_numerology.number.9": "一個展現同情、理想與寬廣的名字，投射出慷慨而博愛的性格。",
+      "name_numerology.number.11": "一個承載著直覺與啟發之大師振動的名字，投射出富遠見而啟迪人心的性格。",
+      "name_numerology.number.22": "一個承載著大師建造者之大師振動的名字，投射出能幹而深遠的性格。",
+      "name_numerology.number.33": "一個承載著無私之愛與療癒之大師振動的名字，投射出深具同情的性格。"
+    }
+  }
+}

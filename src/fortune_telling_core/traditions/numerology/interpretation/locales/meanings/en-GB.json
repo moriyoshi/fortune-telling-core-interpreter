@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "numerology.number.1": "A life path of independence, initiative and leadership, driven to forge its own way.",
+      "numerology.number.2": "A life path of cooperation, sensitivity and diplomacy, thriving through partnership and balance.",
+      "numerology.number.3": "A life path of creativity, expression and optimism, flourishing through communication and joy.",
+      "numerology.number.4": "A life path of discipline, stability and hard work, building lasting foundations through order.",
+      "numerology.number.5": "A life path of freedom, adaptability and adventure, energised by change and new experience.",
+      "numerology.number.6": "A life path of responsibility, nurture and harmony, devoted to family, service and care.",
+      "numerology.number.7": "A life path of introspection, analysis and seeking, drawn to wisdom and deeper truths.",
+      "numerology.number.8": "A life path of ambition, authority and achievement, geared towards material mastery and success.",
+      "numerology.number.9": "A life path of compassion, idealism and generosity, devoted to humanity and the greater good.",
+      "numerology.number.11": "A master life path of intuition and inspiration, called to enlighten and uplift others.",
+      "numerology.number.22": "A master life path of the visionary builder, able to turn lofty ideals into lasting reality.",
+      "numerology.number.33": "A master life path of selfless devotion and healing, embodying compassion through service to all."
+    }
+  }
+}

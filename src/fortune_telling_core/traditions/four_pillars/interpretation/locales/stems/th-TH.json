@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "locale": "th-TH",
+  "templates": {
+    "stem": "{cjk} นำพาพลังชี่ธาตุ{element}แบบ{polarity}"
+  },
+  "vocab": {
+    "elements": {
+      "wood": "ไม้",
+      "fire": "ไฟ",
+      "earth": "ดิน",
+      "metal": "ทอง",
+      "water": "น้ำ"
+    },
+    "polarities": {
+      "yang": "หยาง",
+      "yin": "หยิน"
+    }
+  }
+}

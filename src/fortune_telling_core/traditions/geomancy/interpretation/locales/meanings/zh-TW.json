@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "locale": "zh-TW",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "geomancy.figure.via": "Via（道路）象徵變化、移動與旅程，標誌著一條路關閉、另一條路開啟的轉捩點。",
+      "geomancy.figure.cauda_draconis": "Cauda Draconis（龍尾）標誌著終結與離去，有利於釋放已了結之事，雖可能在身後留下紛亂。",
+      "geomancy.figure.puer": "Puer（少年）代表年輕而固執的能量，帶來大膽與迅捷的行動，卻也帶來衝動與衝突。",
+      "geomancy.figure.fortuna_minor": "Fortuna Minor（小吉）帶來短暫而微薄的運氣，有利於借助外力迅速行動，而非長久的收穫。",
+      "geomancy.figure.caput_draconis": "Caput Draconis（龍首）預示開端與嶄新的機會，是新事業與成長的吉祥門檻。",
+      "geomancy.figure.coniunctio": "Coniunctio（結合）象徵聯合、會面與夥伴關係，將人、事或意念聚合一處，無論吉凶。",
+      "geomancy.figure.acquisitio": "Acquisitio（獲得）是代表收穫與利益的卦象，承諾成功獲取財富、財貨或所求之事。",
+      "geomancy.figure.rubeus": "Rubeus（赤紅）警示激情、憤怒與欺瞞，是不吉的卦象，最宜以謹慎與克制應對。",
+      "geomancy.figure.puella": "Puella（少女）象徵和諧、美與情感，是溫柔而吉祥的卦象，尤其在愛情與歡愉之事上。",
+      "geomancy.figure.amissio": "Amissio（失去）代表損失與放手，不利於守成，卻在尋求釋放時有所助益。",
+      "geomancy.figure.carcer": "Carcer（牢獄）代表禁錮、延宕與限制，將事情困鎖原地，勸人耐心等待。",
+      "geomancy.figure.laetitia": "Laetitia（喜悅）是充滿幸福、健康與希望的歡欣卦象，振奮精神，有利於向上的進展。",
+      "geomancy.figure.fortuna_maior": "Fortuna Maior（大吉）帶來宏大而持久的好運，是憑藉自身穩健的力量與內在資源所贏得的成功。",
+      "geomancy.figure.albus": "Albus（純白）象徵清明、安寧與智慧，是沉靜而吉祥的卦象，適於思考、商議與審慎的判斷。",
+      "geomancy.figure.tristitia": "Tristitia（悲傷）代表憂愁、艱難與抑鬱，是向下的卦象，勸人在困境中堅忍。",
+      "geomancy.figure.populus": "Populus（群眾）代表人群或聚集，是中性而被動的卦象，反映周遭的影響卻不自行作為。"
+    }
+  }
+}

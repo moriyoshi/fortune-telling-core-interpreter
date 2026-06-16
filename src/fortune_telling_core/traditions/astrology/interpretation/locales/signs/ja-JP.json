@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "ja-JP",
+  "templates": {
+    "placement": "{sign}の{body}は、{element}・{modality}の性質として表れます。",
+    "retrograde_suffix": "逆行はその表現を内面へと向け、見直しを促します。"
+  },
+  "vocab": {
+    "signs": {
+      "aries": "牡羊座",
+      "taurus": "牡牛座",
+      "gemini": "双子座",
+      "cancer": "蟹座",
+      "leo": "獅子座",
+      "virgo": "乙女座",
+      "libra": "天秤座",
+      "scorpio": "蠍座",
+      "sagittarius": "射手座",
+      "capricorn": "山羊座",
+      "aquarius": "水瓶座",
+      "pisces": "魚座"
+    },
+    "bodies": {
+      "sun": "太陽",
+      "moon": "月",
+      "mercury": "水星",
+      "venus": "金星",
+      "mars": "火星",
+      "jupiter": "木星",
+      "saturn": "土星",
+      "uranus": "天王星",
+      "neptune": "海王星",
+      "pluto": "冥王星",
+      "north_node": "ドラゴンヘッド",
+      "south_node": "ドラゴンテイル",
+      "ascendant": "アセンダント",
+      "midheaven": "ミッドヘブン"
+    },
+    "elements": {
+      "fire": "火",
+      "earth": "地",
+      "air": "風",
+      "water": "水"
+    },
+    "modalities": {
+      "cardinal": "活動",
+      "fixed": "不動",
+      "mutable": "柔軟"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {
+    "element_line": "{cjk} wird mit {color}em {element} und dem {trigram}-Trigramm verbunden.",
+    "natal_line": "{cjk} ist ein Geburtseinfluss im Nine Star Ki."
+  },
+  "vocab": {
+    "colors": {
+      "white": "weiß",
+      "black": "schwarz",
+      "jade": "jade",
+      "green": "grün",
+      "yellow": "gelb",
+      "red": "rot",
+      "purple": "violett"
+    },
+    "elements": {
+      "water": "Wasser",
+      "earth": "Erde",
+      "wood": "Holz",
+      "metal": "Metall",
+      "fire": "Feuer"
+    },
+    "trigrams": {
+      "kan": "Kan",
+      "kun": "Kun",
+      "zhen": "Zhen",
+      "xun": "Xun",
+      "center": "Zentrum",
+      "qian": "Qian",
+      "dui": "Dui",
+      "gen": "Gen",
+      "li": "Li"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "locale": "zh-TW",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "chaldean_numerology.number.1": "受太陽主宰，一象徵領導力、原創性以及強烈而自立的創造動力。",
+      "chaldean_numerology.number.2": "受月亮主宰，二象徵敏感、外交手腕以及善於合作的直覺天賦。",
+      "chaldean_numerology.number.3": "受木星主宰，三象徵樂觀、自我表達以及自律而力求成長的抱負。",
+      "chaldean_numerology.number.4": "受天王星主宰，四象徵不落俗套的思維、躁動不安以及對常規的靜默反叛。",
+      "chaldean_numerology.number.5": "受水星主宰，五象徵多才多藝、機智敏捷以及對溝通與變化的躁動熱愛。",
+      "chaldean_numerology.number.6": "受金星主宰，六象徵和諧、情感以及對家庭與美的滋養奉獻。",
+      "chaldean_numerology.number.7": "受海王星主宰，七象徵內省、想像力以及對更深意義的神祕追尋。",
+      "chaldean_numerology.number.8": "受土星主宰，八象徵紀律、物質抱負以及在世俗事務中歷經考驗的韌性。",
+      "chaldean_numerology.number.9": "受火星主宰，九象徵勇氣、決心以及邁向果敢行動的熱烈動力。"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "locale": "vi-VN",
+  "templates": {},
+  "vocab": {
+    "texts": {
+      "principal": "Sao chính mô tả khuôn mẫu năm sinh bản mệnh.",
+      "monthly": "Sao tháng tinh chỉnh khuôn mẫu bản mệnh qua tháng mặt trời.",
+      "daily": "Sao ngày ghi lại chu kỳ thoát ly chí điểm của ngày.",
+      "tendency": "Sao khuynh hướng được suy ra từ cung của sao tháng trong lá số năm sinh bản mệnh."
+    }
+  }
+}

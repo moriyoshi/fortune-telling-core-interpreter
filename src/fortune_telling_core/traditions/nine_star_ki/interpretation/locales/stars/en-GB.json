@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "locale": "en-GB",
+  "templates": {
+    "element_line": "{cjk} is associated with {color} {element} and the {trigram} trigram.",
+    "natal_line": "{cjk} is a Nine Star Ki natal influence."
+  },
+  "vocab": {
+    "colors": {
+      "white": "white",
+      "black": "black",
+      "jade": "jade",
+      "green": "green",
+      "yellow": "yellow",
+      "red": "red",
+      "purple": "purple"
+    },
+    "elements": {
+      "water": "water",
+      "earth": "earth",
+      "wood": "wood",
+      "metal": "metal",
+      "fire": "fire"
+    },
+    "trigrams": {
+      "kan": "kan",
+      "kun": "kun",
+      "zhen": "zhen",
+      "xun": "xun",
+      "center": "center",
+      "qian": "qian",
+      "dui": "dui",
+      "gen": "gen",
+      "li": "li"
+    }
+  }
+}

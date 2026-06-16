@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "templates": {
+    "placement": "{body} im Haus {house} betont {topics}."
+  },
+  "vocab": {
+    "bodies": {
+      "sun": "Sonne",
+      "moon": "Mond",
+      "mercury": "Merkur",
+      "venus": "Venus",
+      "mars": "Mars",
+      "jupiter": "Jupiter",
+      "saturn": "Saturn",
+      "uranus": "Uranus",
+      "neptune": "Neptun",
+      "pluto": "Pluto",
+      "north_node": "Aufsteigender Mondknoten",
+      "south_node": "Absteigender Mondknoten",
+      "ascendant": "Aszendent",
+      "midheaven": "Medium Coeli"
+    },
+    "topics": {
+      "1": "Identität, Körper, Auftreten",
+      "2": "Ressourcen, Werte, Sicherheit",
+      "3": "Kommunikation, Geschwister, Lernen",
+      "4": "Zuhause, Wurzeln, Privatleben",
+      "5": "Kreativität, Vergnügen, Kinder",
+      "6": "Arbeit, Gesundheit, Dienst",
+      "7": "Partnerschaft, Verträge, andere",
+      "8": "geteilte Ressourcen, Verlust, Transformation",
+      "9": "Glaube, Reisen, höhere Bildung",
+      "10": "Berufung, Status, öffentliches Leben",
+      "11": "Freunde, Hoffnungen, Gruppen",
+      "12": "Rückzug, verborgene Dinge, Selbstuntergrabung"
+    }
+  }
+}

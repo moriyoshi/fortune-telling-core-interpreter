@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "locale": "zh-TW",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "cyrillic_pythagorean.number.1": "一標誌著開拓者，展現獨立、主動與引領他人的意志。",
+      "cyrillic_pythagorean.number.2": "二標誌著調和者，展現平衡、夥伴關係與沉靜的包容。",
+      "cyrillic_pythagorean.number.3": "三標誌著溝通者，展現創造力、善於交際與歡愉的自我表達。",
+      "cyrillic_pythagorean.number.4": "四標誌著建造者，展現穩定、勤勉與務實的秩序之愛。",
+      "cyrillic_pythagorean.number.5": "五標誌著探求者，展現自由、適應力與對體驗的好奇渴求。",
+      "cyrillic_pythagorean.number.6": "六標誌著照護者，展現責任、同情以及對家庭與群體的奉獻。",
+      "cyrillic_pythagorean.number.7": "七標誌著思考者，展現分析、內省以及對隱藏真理的追尋。",
+      "cyrillic_pythagorean.number.8": "八標誌著成就者，展現權威、抱負以及駕馭物質的能力。",
+      "cyrillic_pythagorean.number.9": "九標誌著博愛者，展現理想、同情以及慷慨而深遠的視野。"
+    }
+  }
+}

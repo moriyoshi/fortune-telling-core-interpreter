@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "locale": "zh-CN",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "chaldean_numerology.number.1": "由太阳主宰，数字一象征领导力、独创性与坚强自立的创造动力。",
+      "chaldean_numerology.number.2": "由月亮主宰，数字二象征敏感、圆融与协作的直觉天赋。",
+      "chaldean_numerology.number.3": "由木星主宰，数字三象征乐观、自我表达与自律进取的成长之志。",
+      "chaldean_numerology.number.4": "由天王星主宰，数字四象征不拘一格的思维、躁动不安与对成规的默然反叛。",
+      "chaldean_numerology.number.5": "由水星主宰，数字五象征多才多艺、机敏的才智与对沟通和变化的躁动钟爱。",
+      "chaldean_numerology.number.6": "由金星主宰，数字六象征和谐、深情与对家庭和美的悉心眷顾。",
+      "chaldean_numerology.number.7": "由海王星主宰，数字七象征内省、想象与对更深意义的神秘求索。",
+      "chaldean_numerology.number.8": "由土星主宰，数字八象征自律、物质上的雄心与历经考验的世俗韧性。",
+      "chaldean_numerology.number.9": "由火星主宰，数字九象征勇气、决心与奔向大胆行动的炽热动力。"
+    }
+  }
+}

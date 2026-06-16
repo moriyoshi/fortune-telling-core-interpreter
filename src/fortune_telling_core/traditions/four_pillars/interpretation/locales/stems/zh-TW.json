@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "locale": "zh-TW",
+  "templates": {
+    "stem": "{cjk}帶有{polarity}{element}之氣。"
+  },
+  "vocab": {
+    "elements": {
+      "wood": "木",
+      "fire": "火",
+      "earth": "土",
+      "metal": "金",
+      "water": "水"
+    },
+    "polarities": {
+      "yang": "陽",
+      "yin": "陰"
+    }
+  }
+}

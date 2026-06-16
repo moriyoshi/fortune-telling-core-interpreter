@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "locale": "es-ES",
+  "templates": {},
+  "vocab": {
+    "texts": {
+      "principal": "La estrella principal describe el patrón del año natal.",
+      "monthly": "La estrella mensual refina el patrón natal a través del mes solar.",
+      "daily": "La estrella diaria registra el ciclo de escape solsticial del día.",
+      "tendency": "La estrella de tendencia se deriva del palacio de la estrella mensual en la carta del año natal."
+    }
+  }
+}

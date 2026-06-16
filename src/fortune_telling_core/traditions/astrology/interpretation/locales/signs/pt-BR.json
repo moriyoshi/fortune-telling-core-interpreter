@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "pt-BR",
+  "templates": {
+    "placement": "{body} em {sign} se expressa por meio de qualidades {modality} de {element}.",
+    "retrograde_suffix": " O movimento retrógrado volta a expressão para dentro, para revisão."
+  },
+  "vocab": {
+    "signs": {
+      "aries": "Áries",
+      "taurus": "Touro",
+      "gemini": "Gêmeos",
+      "cancer": "Câncer",
+      "leo": "Leão",
+      "virgo": "Virgem",
+      "libra": "Libra",
+      "scorpio": "Escorpião",
+      "sagittarius": "Sagitário",
+      "capricorn": "Capricórnio",
+      "aquarius": "Aquário",
+      "pisces": "Peixes"
+    },
+    "bodies": {
+      "sun": "Sol",
+      "moon": "Lua",
+      "mercury": "Mercúrio",
+      "venus": "Vênus",
+      "mars": "Marte",
+      "jupiter": "Júpiter",
+      "saturn": "Saturno",
+      "uranus": "Urano",
+      "neptune": "Netuno",
+      "pluto": "Plutão",
+      "north_node": "Nodo Norte",
+      "south_node": "Nodo Sul",
+      "ascendant": "Ascendente",
+      "midheaven": "Meio do Céu"
+    },
+    "elements": {
+      "fire": "fogo",
+      "earth": "terra",
+      "air": "ar",
+      "water": "água"
+    },
+    "modalities": {
+      "cardinal": "cardinais",
+      "fixed": "fixas",
+      "mutable": "mutáveis"
+    }
+  }
+}

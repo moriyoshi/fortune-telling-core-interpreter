@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "locale": "th-TH",
+  "templates": {
+    "element_line": "{cjk} เกี่ยวข้องกับธาตุ{element}สี{color}และตรีลักษณ์{trigram}",
+    "natal_line": "{cjk} เป็นอิทธิพลกำเนิดในศาสตร์ดาวเก้ายุค"
+  },
+  "vocab": {
+    "colors": {
+      "white": "ขาว",
+      "black": "ดำ",
+      "jade": "หยก",
+      "green": "เขียว",
+      "yellow": "เหลือง",
+      "red": "แดง",
+      "purple": "ม่วง"
+    },
+    "elements": {
+      "water": "น้ำ",
+      "earth": "ดิน",
+      "wood": "ไม้",
+      "metal": "ทอง",
+      "fire": "ไฟ"
+    },
+    "trigrams": {
+      "kan": "ขั่น",
+      "kun": "คุน",
+      "zhen": "เจิ้น",
+      "xun": "ซวิ่น",
+      "center": "ศูนย์กลาง",
+      "qian": "เฉียน",
+      "dui": "ตุ้ย",
+      "gen": "เกิ้น",
+      "li": "หลี"
+    }
+  }
+}

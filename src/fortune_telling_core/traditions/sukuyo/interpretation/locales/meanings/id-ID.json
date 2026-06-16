@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "locale": "id-ID",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "sukuyo.mansion.ashvini": "Ashvinī (婁宿) gesit dan perintis, sebuah rasi penyembuhan yang energik yang memulai dengan berani dan bergerak dengan inisiatif cepat.",
+      "sukuyo.mansion.bharani": "Bharaṇī (胃宿) memikul beban dengan ketabahan dan pengendalian diri, sebuah rasi transformasi, disiplin dan pertumbuhan yang diraih dengan susah payah.",
+      "sukuyo.mansion.krittika": "Kṛttikā (昴宿) tajam dan berapi, sebuah rasi yang membelah dan memurnikan dengan penilaian yang jeli serta kejujuran yang tak goyah.",
+      "sukuyo.mansion.rohini": "Rohiṇī (畢宿) indah dan subur, sebuah rasi yang memikat dengan pertumbuhan, daya tarik dan keanggunan material.",
+      "sukuyo.mansion.mrigashira": "Mṛgaśira (觜宿) adalah pencari yang lembut, sebuah rasi yang penasaran dan mencari, mengembara dalam pengejaran apa yang didambakannya.",
+      "sukuyo.mansion.ardra": "Ārdrā (参宿) adalah badai, sebuah rasi yang intens penuh pergolakan, kedalaman emosi dan terobosan setelah keadaan bergejolak.",
+      "sukuyo.mansion.punarvasu": "Punarvasu (井宿) adalah pembaruan dan kembali, sebuah rasi yang optimis penuh pelabuhan aman, pemulihan dan permulaan baru.",
+      "sukuyo.mansion.pushya": "Puṣya (鬼宿) memelihara dan melindungi, sebuah rasi yang penuh pengabdian dan kemakmuran yang dianggap sangat membawa keberuntungan.",
+      "sukuyo.mansion.ashlesha": "Āśleṣā (柳宿) adalah ular yang melingkar, sebuah rasi yang intuitif dan cerdik penuh wawasan tajam serta kekuatan yang membelit.",
+      "sukuyo.mansion.magha": "Maghā (星宿) adalah singgasana para leluhur, sebuah rasi yang bangga dan bermartabat penuh kewibawaan, warisan dan kehormatan.",
+      "sukuyo.mansion.purva_phalguni": "Pūrva Phalgunī (張宿) adalah bintang kesenangan, sebuah rasi yang santai dan romantis penuh waktu luang, kreativitas serta kenikmatan.",
+      "sukuyo.mansion.uttara_phalguni": "Uttara Phalgunī (翼宿) adalah penyokong yang dermawan, sebuah rasi yang dapat diandalkan penuh persahabatan, kontrak dan dukungan yang mantap.",
+      "sukuyo.mansion.hasta": "Hasta (軫宿) adalah tangan yang terampil, sebuah rasi yang cekatan dan cerdas penuh keterampilan, ketangkasan serta pencapaian praktis.",
+      "sukuyo.mansion.chitra": "Chitrā (角宿) adalah permata yang gemerlap, sebuah rasi penuh rancangan, keindahan dan karya seni yang memukau serta dibuat dengan baik.",
+      "sukuyo.mansion.svati": "Svātī (亢宿) adalah angin, sebuah rasi yang mandiri dan luwes penuh gerakan, perniagaan serta kebebasan yang ditentukan sendiri.",
+      "sukuyo.mansion.vishakha": "Viśākhā (氐宿) digerakkan oleh tujuan, sebuah rasi yang gigih penuh ambisi, fokus dan maksud yang matang menuju sasarannya.",
+      "sukuyo.mansion.anuradha": "Anurādhā (房宿) adalah persahabatan yang setia, sebuah rasi yang kooperatif penuh kesetiaan, keberhasilan di antara orang lain dan keberuntungan di negeri asing.",
+      "sukuyo.mansion.jyeshtha": "Jyeṣṭhā (心宿) adalah sang tetua, sebuah rasi yang pemberani penuh kesenioran, perlindungan dan kekuasaan yang dipegang dengan tenang.",
+      "sukuyo.mansion.mula": "Mūla (尾宿) adalah akar, sebuah rasi yang menyelidik yang mencabut dan menelusuri untuk mencapai inti segala sesuatu.",
+      "sukuyo.mansion.purva_ashadha": "Pūrva Āṣāḍhā (箕宿) adalah yang tak terkalahkan, sebuah rasi yang persuasif penuh kemenangan dini dan keyakinan yang tak tergoyahkan.",
+      "sukuyo.mansion.uttara_ashadha": "Uttara Āṣāḍhā (斗宿) adalah kemenangan yang bertahan lama, sebuah rasi yang jujur penuh integritas, ketabahan dan kepemimpinan yang abadi.",
+      "sukuyo.mansion.shravana": "Śravaṇa (女宿) adalah sang pendengar, sebuah rasi yang terpelajar penuh kesungguhan menyimak, hubungan dan reputasi yang berkembang.",
+      "sukuyo.mansion.dhanishtha": "Dhaniṣṭhā (虚宿) adalah genderang, sebuah rasi yang berirama penuh kekayaan, musik, ketenaran serta vitalitas yang melimpah.",
+      "sukuyo.mansion.shatabhisha": "Śatabhiṣā (危宿) adalah seratus tabib, sebuah rasi yang penuh rahasia dan mistis penuh penyembuhan serta pengetahuan tersembunyi.",
+      "sukuyo.mansion.purva_bhadrapada": "Pūrva Bhādrapadā (室宿) berapi-api dan idealis, sebuah rasi yang intens penuh keyakinan dan api yang mengubah.",
+      "sukuyo.mansion.uttara_bhadrapada": "Uttara Bhādrapadā (壁宿) adalah air yang dalam, sebuah rasi yang tenang dan bijaksana penuh kedalaman, kesabaran serta nasihat yang mantap.",
+      "sukuyo.mansion.revati": "Revatī (奎宿) adalah sang pemelihara, sebuah rasi yang lembut penuh penyelesaian, perjalanan yang aman dan kemakmuran yang baik hati."
+    }
+  }
+}

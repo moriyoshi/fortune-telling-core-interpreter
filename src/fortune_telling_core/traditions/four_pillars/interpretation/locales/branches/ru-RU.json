@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "locale": "ru-RU",
+  "templates": {
+    "branch": "{cjk} {animal} несёт {polarity} ци стихии {element} и скрытые стволы."
+  },
+  "vocab": {
+    "elements": {
+      "wood": "дерева",
+      "fire": "огня",
+      "earth": "земли",
+      "metal": "металла",
+      "water": "воды"
+    },
+    "polarities": {
+      "yang": "янскую",
+      "yin": "иньскую"
+    },
+    "animals": {
+      "Rat": "Крыса",
+      "Ox": "Бык",
+      "Tiger": "Тигр",
+      "Rabbit": "Кролик",
+      "Dragon": "Дракон",
+      "Snake": "Змея",
+      "Horse": "Лошадь",
+      "Goat": "Коза",
+      "Monkey": "Обезьяна",
+      "Rooster": "Петух",
+      "Dog": "Собака",
+      "Pig": "Свинья"
+    }
+  }
+}

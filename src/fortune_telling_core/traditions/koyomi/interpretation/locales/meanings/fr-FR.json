@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "locale": "fr-FR",
+  "templates": {},
+  "vocab": {
+    "meanings": {
+      "koyomi.rokuyo.taian": "Taian (大安) est le plus faste des six jours, propice à toute entreprise de l'aube au crépuscule — mariages, inaugurations, voyages et nouveaux départs y prospèrent tous.",
+      "koyomi.rokuyo.shakko": "Shakkō (赤口) est un jour néfaste régi par le danger ; seule l'heure autour de midi est sûre, et la prudence est requise avec les lames, le feu et les conflits.",
+      "koyomi.rokuyo.sensho": "Senshō (先勝) récompense la hâte : la matinée porte la bonne fortune et agir tôt apporte le succès, tandis que l'après-midi devient malchanceux.",
+      "koyomi.rokuyo.tomobiki": "Tomobiki (友引) « attire les amis » ; le matin et le soir sont favorables et les entreprises partagées prospèrent, mais l'heure de midi est de mauvais augure et les funérailles sont évitées.",
+      "koyomi.rokuyo.sembu": "Senbu (先負) conseille la patience : la matinée est malchanceuse et la précipitation invite à la perte, mais l'après-midi devient calme et les affaires réglées s'en trouvent mieux.",
+      "koyomi.rokuyo.butsumetsu": "Butsumetsu (仏滅) est le jour le plus néfaste, mal adapté aux célébrations, aux inaugurations ou aux nouveaux commencements ; le repos, la réflexion et la clôture des affaires sont plus sages."
+    }
+  }
+}
