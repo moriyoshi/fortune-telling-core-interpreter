@@ -1,5 +1,11 @@
 # Journal
 
+## 2026-06-24 - Sun-sign astrology spread needs no new interpretation data
+
+Upstream `fortune-telling-core` added a second astrology spread, `astro.spread.sun_sign.v1` (`SUN_SIGN`), a lightweight reading needing only the querent's zodiac sign (an explicit `sun_sign` or a `birth_date` classified into a tropical sign), not a birth time or location. It deliberately reuses the natal `sun` position id, and `sun` is already in `NATAL_POSITIONS`, so the existing Sun-in-sign sign-placement dataset (`signs.py`) already covers it. Verified end-to-end: `build_engine().cast(...)` with `spread_id=SUN_SIGN.id` then `interpret(...)` yields the same Sun-in-Leo text as a full natal chart. No dataset or code change was required in this package.
+
+Added `tests/traditions/astrology/test_interpretation_sun_sign.py` (3 tests) to lock the reuse in: explicit-sign path, birth-date-classified path, and equality of the sun text between the sun-sign reading and a natal chart. Gate green: ruff format + lint, mypy strict, 190 tests (up from 187).
+
 ## 2026-06-17 - Fixed CI (sibling checkout) + completed the API-docs nav
 
 CI failed on the initial commit: mypy reported 177 "Module has no attribute" errors against `fortune_telling_core.*`. Root cause was a copy-paste bug in `ci.yml` — the "Checkout sibling core" step pulled `moriyoshi/fortune-telling-core-interpreter` (itself) to `../fortune-telling-core-interpreter`, and Install ran `pip install -e ../fortune-telling-core-interpreter` (itself again). So core was never present at `../fortune-telling-core/src`, which `mypy_path` points at; mypy fell back to the installed core, which ships no `py.typed`, and lost all its types.
